@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hexo 部署命令</title>
+      <link href="/2023/02/26/HowToUseHexo/"/>
+      <url>/2023/02/26/HowToUseHexo/</url>
+      
+        <content type="html"><![CDATA[<h1>Hexo Command</h1><p>三件套</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo cl</span><br><span class="line">$ hexo g</span><br><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><h2 id="hexo-cl">$ hexo cl<a class="header-anchor" href="#hexo-cl">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo cl</span><br></pre></td></tr></table></figure><p>git命令行内执行，清理缓存文件</p><h2 id="hexo-generate">$ hexo generate<a class="header-anchor" href="#hexo-generate">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure><p>生成静态文件用于部署</p><h2 id="hexo-deploy">$ hexo deploy<a class="header-anchor" href="#hexo-deploy">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><p>部署网站</p><h2 id="启动本地服务器-hexo-server">启动本地服务器 $ hexo server<a class="header-anchor" href="#启动本地服务器-hexo-server">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure><p>本地部署<br>登录 <code>http://localhost:4000/</code> 查看</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Note </category>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Generate </tag>
+            
+            <tag> Deploy </tag>
+            
+            <tag> Server </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试用页面</title>
+      <link href="/1970/01/01/Uncomplete/"/>
+      <url>/1970/01/01/Uncomplete/</url>
+      
+        <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> None </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/1970/01/01/hello-world/"/>
+      <url>/1970/01/01/hello-world/</url>
+      
+        <content type="html"><![CDATA[<h1>Welcome to There</h1><p><a href="https://github.com/HelloCrackXD">My Github</a><br>你可以在 <code>ItsCrackXD@outlook.com</code> 联系我<br>:D</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> None </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HelloWorld </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>

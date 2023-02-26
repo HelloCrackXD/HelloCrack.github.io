@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hello Blog</title>
+  
+  <subtitle>Welcome To There</subtitle>
+  <link href="https://hellocrackxd.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://hellocrackxd.github.io/"/>
+  <updated>2023-02-26T14:37:24.374Z</updated>
+  <id>https://hellocrackxd.github.io/</id>
+  
+  <author>
+    <name>CrackXD</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo 部署命令</title>
+    <link href="https://hellocrackxd.github.io/2023/02/26/HowToUseHexo/"/>
+    <id>https://hellocrackxd.github.io/2023/02/26/HowToUseHexo/</id>
+    <published>2023-02-26T14:36:00.000Z</published>
+    <updated>2023-02-26T14:37:24.374Z</updated>
+    
+    <content type="html"><![CDATA[<h1>Hexo Command</h1><p>三件套</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo cl</span><br><span class="line">$ hexo g</span><br><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><h2 id="hexo-cl">$ hexo cl<a class="header-anchor" href="#hexo-cl">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo cl</span><br></pre></td></tr></table></figure><p>git命令行内执行，清理缓存文件</p><h2 id="hexo-generate">$ hexo generate<a class="header-anchor" href="#hexo-generate">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure><p>生成静态文件用于部署</p><h2 id="hexo-deploy">$ hexo deploy<a class="header-anchor" href="#hexo-deploy">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><p>部署网站</p><h2 id="启动本地服务器-hexo-server">启动本地服务器 $ hexo server<a class="header-anchor" href="#启动本地服务器-hexo-server">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure><p>本地部署<br>登录 <code>http://localhost:4000/</code> 查看</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;Hexo Command&lt;/h1&gt;
+&lt;p&gt;三件套&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo cl&lt;/span&gt;&lt;br</summary>
+      
+    
+    
+    
+    <category term="Note" scheme="https://hellocrackxd.github.io/categories/Note/"/>
+    
+    <category term="Hexo" scheme="https://hellocrackxd.github.io/categories/Note/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="https://hellocrackxd.github.io/tags/Hexo/"/>
+    
+    <category term="Generate" scheme="https://hellocrackxd.github.io/tags/Generate/"/>
+    
+    <category term="Deploy" scheme="https://hellocrackxd.github.io/tags/Deploy/"/>
+    
+    <category term="Server" scheme="https://hellocrackxd.github.io/tags/Server/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试用页面</title>
+    <link href="https://hellocrackxd.github.io/1970/01/01/Uncomplete/"/>
+    <id>https://hellocrackxd.github.io/1970/01/01/Uncomplete/</id>
+    <published>1969-12-31T16:00:00.000Z</published>
+    <updated>2023-02-26T14:18:57.426Z</updated>
+    
+    <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;这里什么都没有&lt;/h1&gt;
+</summary>
+      
+    
+    
+    
+    <category term="None" scheme="https://hellocrackxd.github.io/categories/None/"/>
+    
+    
+    <category term="Test" scheme="https://hellocrackxd.github.io/tags/Test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://hellocrackxd.github.io/1970/01/01/hello-world/"/>
+    <id>https://hellocrackxd.github.io/1970/01/01/hello-world/</id>
+    <published>1969-12-31T16:00:00.000Z</published>
+    <updated>2023-02-26T14:38:38.268Z</updated>
+    
+    <content type="html"><![CDATA[<h1>Welcome to There</h1><p><a href="https://github.com/HelloCrackXD">My Github</a><br>你可以在 <code>ItsCrackXD@outlook.com</code> 联系我<br>:D</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;Welcome to There&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/HelloCrackXD&quot;&gt;My Github&lt;/a&gt;&lt;br&gt;
+你可以在 &lt;code&gt;ItsCrackXD@outlook.com&lt;/code&gt; 联系我&lt;br&gt;
+:D</summary>
+      
+    
+    
+    
+    <category term="None" scheme="https://hellocrackxd.github.io/categories/None/"/>
+    
+    
+    <category term="HelloWorld" scheme="https://hellocrackxd.github.io/tags/HelloWorld/"/>
+    
+  </entry>
+  
+</feed>
