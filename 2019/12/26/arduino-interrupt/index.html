@@ -9,6 +9,12 @@
 
 
 
+    <meta name="description" content="新增中斷123attachInterrupt(digitalPinToInterrupt(pin), ISR, mode);attachInterrupt(interrupt, ISR, mode);attachInterrupt(pin, ISR, mode);
+
+
+有三種可選：
+第一個參數代表幾"/>
+
 
 <!--Author-->
 
@@ -17,10 +23,16 @@
 
 <!--Open Graph Title-->
 
-    <meta property="og:title" content="Hello Blog"/>
+    <meta property="og:title" content="在 Arduino 上使用中斷"/>
 
 
 <!--Open Graph Description-->
+
+    <meta property="og:description" content="新增中斷123attachInterrupt(digitalPinToInterrupt(pin), ISR, mode);attachInterrupt(interrupt, ISR, mode);attachInterrupt(pin, ISR, mode);
+
+
+有三種可選：
+第一個參數代表幾"/>
 
 
 <!--Open Graph Site Name-->
@@ -28,7 +40,7 @@
 
 <!--Type page-->
 
-    <meta property="og:type" content="website"/>
+    <meta property="og:type" content="article"/>
 
 
 <!--Page Cover-->
@@ -47,7 +59,7 @@
 
 <!-- Title -->
 
-<title>Archives: 2023 | Hello Blog</title>
+<title>在 Arduino 上使用中斷 | Hello Blog</title>
 
 <!-- Bootstrap Core CSS -->
 <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css">
@@ -108,93 +120,160 @@
 </nav>
 
     <!-- Main Content -->
-    
+    <!-- Page Header -->
+<!-- Set your background image for this header in your post front-matter: cover -->
 
-<!-- Page Header -->
-<!-- Set your background image for this header in the theme's configuration: index_cover -->
 <header class="intro-header" style="background-image: url('/img/home-bg.jpg')">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
-                <div class="site-heading text-center text-white">
-                    <h1>2023</h1>
+            <div class="col-lg-12 col-md-12 text-center">
+                <div class="post-heading text-white">
+                    <h1>在 Arduino 上使用中斷</h1>
+                    
                 </div>
             </div>
         </div>
     </div>
 </header>
 
-<!-- Main Content -->
-<div class="container page-archives">
-    <div class="row">
-        <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1 text-center mb-5">
-            <div class="btn-group archives-filter-group" role="group" aria-label="archives filter">
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+            <!-- Post Main Content -->
+            <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+                
+                    <span class="meta d-inline-block">
+    
+        <i class="far fa-bookmark fa-fw"></i>
+        
+
+<a href="/categories/Note/">Note</a>
+
+    
+    
+    <!-- Date -->
+    
+        <span class="post-meta-split">&nbsp;|&nbsp;</span>
+        <i class="far fa-calendar-check fa-fw"></i>
+        2019-12-26
+    
+    <!-- word count and read count -->
     
 
     
-        
-            <button type="button" class="btn btn-info" disabled>
-                2023
-            </button>
-        
-    
-</div>
 
-    <a class="btn btn-light archives-filter-all" href="/archives/" role="button">
-        All    
-        <span class="badge badge-secondary">4</span>
-    </a>
- 
-        </div>
-        <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
-            
-                <div class="post-preview post-preview-archive-archive">
-    <a href="/2023/02/26/HowToUseHexo/">
-        <h1 class="post-title">
-            Hexo Command
-        </h1>
-    </a>
-    <p class="post-meta">
-        <!-- Date and Author -->
-        
-        2023-02-26
-    </p>
-</div>
-            
-                <div class="post-preview post-preview-archive-archive">
-    <a href="/2023/02/26/Uncomplete/">
-        <h1 class="post-title">
-            Untitled
-        </h1>
-    </a>
-    <p class="post-meta">
-        <!-- Date and Author -->
-        
-        2023-02-26
-    </p>
-</div>
-            
-                <div class="post-preview post-preview-archive-archive">
-    <a href="/2023/02/26/hello-world/">
-        <h1 class="post-title">
-            Hello World
-        </h1>
-    </a>
-    <p class="post-meta">
-        <!-- Date and Author -->
-        
-        2023-02-26
-    </p>
-</div>
-            
-            <div class="archive-before-pagination"></div>
-            <ul class="pagination d-block text-center">
     
-    
+</span>  
+                
+                <h2 id="新增中斷"><a href="#新增中斷" class="headerlink" title="新增中斷"></a>新增中斷</h2><figure class="highlight arduino"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">attachInterrupt</span>(<span class="built_in">digitalPinToInterrupt</span>(pin), ISR, mode);</span><br><span class="line"><span class="built_in">attachInterrupt</span>(interrupt, ISR, mode);</span><br><span class="line"><span class="built_in">attachInterrupt</span>(pin, ISR, mode);</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>有三種可選：<ul>
+<li>第一個參數代表幾號中斷或是幾號 pin，通常用第一種寫法最保險</li>
+<li>第二個參數放 ISR，當中斷發生時要做的事</li>
+<li>第三個參數為發生中斷的模式，下面有詳細介紹</li>
 </ul>
+</li>
+</ul>
+<h3 id="模式"><a href="#模式" class="headerlink" title="模式"></a>模式</h3><ul>
+<li>LOW：當 pin 處於低電位的時候觸發中斷</li>
+<li>RISING：當 pin 從低電位轉為高電位時觸發中斷</li>
+<li>FALLING：當 pin 從高電位轉為高電位時觸發中斷</li>
+<li>CHANGE：當 pin 的電位發生改變時觸發中斷</li>
+<li>HIGH：當 pin 處於高電位時觸發中斷（只適用 arduino due）</li>
+</ul>
+<h2 id="移除中斷"><a href="#移除中斷" class="headerlink" title="移除中斷"></a>移除中斷</h2><figure class="highlight arduino"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">detachInterrupt</span>(<span class="built_in">digitalPinToInterrupt</span>(pin));</span><br><span class="line"><span class="built_in">detachInterrupt</span>(interrupt);</span><br><span class="line"><span class="built_in">detachInterrupt</span>(pin);</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>一樣有三個寫法，與新增中斷的第一個參數相同。</li>
+</ul>
+<h2 id="關閉-開啟中斷"><a href="#關閉-開啟中斷" class="headerlink" title="關閉/開啟中斷"></a>關閉/開啟中斷</h2><figure class="highlight arduino"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">noInterrupts</span>();</span><br><span class="line"><span class="built_in">interrupts</span>();</span><br></pre></td></tr></table></figure>
+
+<div class="alert alert-warning"><p><code>noInterrupts</code> 不會將 <code>reset</code> 中斷關閉。</p></div>
+
+            </div>
+
+            <!-- Post information -->
+            
+    <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1 post-tags">
+        
+            <i class="fas fa-tag" style="vertical-align: middle;font-size: .8rem;"></i>
+            tags:&nbsp;
+            
+            
+        
+            <a href="/tags/Arduino/">#Arduino</a> <a href="/tags/interrupt/">#interrupt</a>
+        
+    </div>
+
+            
+    <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+        <ul class="pagination d-block text-center">
+            
+                <li class="previous page-item d-inline"><a href="/2023/02/26/hello-world/" class="page-link float-left">&larr;  Newer</a></li>
+            
+            
+        </ul>
+    </div>
+
+
+            
+                <!-- Comments -->
+                
+
+                
+
+            
+
         </div>
     </div>
-</div>
+</article> 
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.css">
+    <style>
+        #toc-content .toc-link::before {
+            background-color: transparent;
+            max-height: 25px;
+        }
+
+        #toc-content .toc-link.is-active-link::before {
+            background-color: #404040;
+        }
+    </style>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
+    <div class="ui-toc dropup scrollspy-body pull-right" style="right: 3%;">
+        <button type="button" class="toc-btn btn btn-light" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-display="static">
+            <i class="fas fa-list"></i>
+        </button>
+        <div class="dropdown-menu dropdown-menu-right p-2"  aria-labelledby="tocLabel">
+            <div class="toc-widget">
+                <div id="toc-content" class="text-truncate">
+                </div>
+            </div>
+            <div class="toc-menu pt-3 pl-4">
+                <a class="expand-toggle d-block py-1" href="#"><span class="expand-text">Expand all</span><span class="close-text" style="display: none;">Collapse all</span></a>
+                <a class="back-to-top d-block py-1" href="#">Back to top</a>
+                <a class="go-to-bottom d-block py-1" href="#">Go to bottom</a>
+            </div>
+        </div>
+    </div>
+    <script>
+        tocbot.init({
+            // Where to render the table of contents.
+            tocSelector: '#toc-content',
+            // Where to grab the headings to build the table of contents.
+            contentSelector: 'article',
+            // Which headings to grab inside of the contentSelector element.
+            headingSelector: 'h1, h2, h3',
+            // For headings inside relative or absolute positioned containers within content.
+            hasInnerContainers: true,
+        });
+    </script>
+
+
+    
 
 
     <!-- Footer -->
