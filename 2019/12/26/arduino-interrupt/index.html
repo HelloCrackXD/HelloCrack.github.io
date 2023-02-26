@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
     <meta charset="utf-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
@@ -9,10 +9,12 @@
 
 
 
-    <meta name="description" content="新增中斷123attachInterrupt(digitalPinToInterrupt(pin), ISR, mode);attachInterrupt(interrupt, ISR, mode);attachInterrupt(pin, ISR, mode);
+    <meta name="description" content="新增中斷#
+attachInterrupt(digitalPinToInterrupt(pin), ISR, mode);attachInterrupt(interrupt, ISR, mode);attachInterrupt(pin, ISR, mode);
 
 
 有三種可選：
+
 第一個參數代表幾"/>
 
 
@@ -28,10 +30,12 @@
 
 <!--Open Graph Description-->
 
-    <meta property="og:description" content="新增中斷123attachInterrupt(digitalPinToInterrupt(pin), ISR, mode);attachInterrupt(interrupt, ISR, mode);attachInterrupt(pin, ISR, mode);
+    <meta property="og:description" content="新增中斷#
+attachInterrupt(digitalPinToInterrupt(pin), ISR, mode);attachInterrupt(interrupt, ISR, mode);attachInterrupt(pin, ISR, mode);
 
 
 有三種可選：
+
 第一個參數代表幾"/>
 
 
@@ -108,7 +112,7 @@
     <div class="container pl-0 pr-0">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header page-scroll">
-            <a class="navbar-brand text-white p-1 pl-3" href="/">ItsCrackXD</a>
+            <a class="navbar-brand text-white p-1 pl-3" href="/">CrackXD</a>
         </div>
         <div class="navbar-nav float-right">
             <button class="btn btn-link search-btn navbar-item" data-toggle="modal" data-target="#searchModal">
@@ -166,30 +170,45 @@
     
 </span>  
                 
-                <h2 id="新增中斷"><a href="#新增中斷" class="headerlink" title="新增中斷"></a>新增中斷</h2><figure class="highlight arduino"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">attachInterrupt</span>(<span class="built_in">digitalPinToInterrupt</span>(pin), ISR, mode);</span><br><span class="line"><span class="built_in">attachInterrupt</span>(interrupt, ISR, mode);</span><br><span class="line"><span class="built_in">attachInterrupt</span>(pin, ISR, mode);</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>有三種可選：<ul>
-<li>第一個參數代表幾號中斷或是幾號 pin，通常用第一種寫法最保險</li>
-<li>第二個參數放 ISR，當中斷發生時要做的事</li>
-<li>第三個參數為發生中斷的模式，下面有詳細介紹</li>
+                <h2 id="新增中斷">新增中斷<a class="header-anchor" href="#新增中斷">#</a></h2>
+<figure class="highlight arduino"><table><tr><td class="code"><pre><span class="line"><span class="built_in">attachInterrupt</span>(<span class="built_in">digitalPinToInterrupt</span>(pin), ISR, mode);</span><br><span class="line"><span class="built_in">attachInterrupt</span>(interrupt, ISR, mode);</span><br><span class="line"><span class="built_in">attachInterrupt</span>(pin, ISR, mode);</span><br></pre></td></tr></table></figure>
+<ul class="lvl-0">
+<li class="lvl-2">
+<p>有三種可選：</p>
+<ul class="lvl-2">
+<li class="lvl-6">第一個參數代表幾號中斷或是幾號 pin，通常用第一種寫法最保險</li>
+<li class="lvl-6">第二個參數放 ISR，當中斷發生時要做的事</li>
+<li class="lvl-6">第三個參數為發生中斷的模式，下面有詳細介紹</li>
 </ul>
 </li>
 </ul>
-<h3 id="模式"><a href="#模式" class="headerlink" title="模式"></a>模式</h3><ul>
-<li>LOW：當 pin 處於低電位的時候觸發中斷</li>
-<li>RISING：當 pin 從低電位轉為高電位時觸發中斷</li>
-<li>FALLING：當 pin 從高電位轉為高電位時觸發中斷</li>
-<li>CHANGE：當 pin 的電位發生改變時觸發中斷</li>
-<li>HIGH：當 pin 處於高電位時觸發中斷（只適用 arduino due）</li>
+<h3 id="模式">模式<a class="header-anchor" href="#模式">#</a></h3>
+<ul class="lvl-0">
+<li class="lvl-2">
+<p>LOW：當 pin 處於低電位的時候觸發中斷</p>
+</li>
+<li class="lvl-2">
+<p>RISING：當 pin 從低電位轉為高電位時觸發中斷</p>
+</li>
+<li class="lvl-2">
+<p>FALLING：當 pin 從高電位轉為高電位時觸發中斷</p>
+</li>
+<li class="lvl-2">
+<p>CHANGE：當 pin 的電位發生改變時觸發中斷</p>
+</li>
+<li class="lvl-2">
+<p>HIGH：當 pin 處於高電位時觸發中斷（只適用 arduino due）</p>
+</li>
 </ul>
-<h2 id="移除中斷"><a href="#移除中斷" class="headerlink" title="移除中斷"></a>移除中斷</h2><figure class="highlight arduino"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">detachInterrupt</span>(<span class="built_in">digitalPinToInterrupt</span>(pin));</span><br><span class="line"><span class="built_in">detachInterrupt</span>(interrupt);</span><br><span class="line"><span class="built_in">detachInterrupt</span>(pin);</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>一樣有三個寫法，與新增中斷的第一個參數相同。</li>
+<h2 id="移除中斷">移除中斷<a class="header-anchor" href="#移除中斷">#</a></h2>
+<figure class="highlight arduino"><table><tr><td class="code"><pre><span class="line"><span class="built_in">detachInterrupt</span>(<span class="built_in">digitalPinToInterrupt</span>(pin));</span><br><span class="line"><span class="built_in">detachInterrupt</span>(interrupt);</span><br><span class="line"><span class="built_in">detachInterrupt</span>(pin);</span><br></pre></td></tr></table></figure>
+<ul class="lvl-0">
+<li class="lvl-2">
+<p>一樣有三個寫法，與新增中斷的第一個參數相同。</p>
+</li>
 </ul>
-<h2 id="關閉-開啟中斷"><a href="#關閉-開啟中斷" class="headerlink" title="關閉/開啟中斷"></a>關閉/開啟中斷</h2><figure class="highlight arduino"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">noInterrupts</span>();</span><br><span class="line"><span class="built_in">interrupts</span>();</span><br></pre></td></tr></table></figure>
-
+<h2 id="關閉-開啟中斷">關閉/開啟中斷<a class="header-anchor" href="#關閉-開啟中斷">#</a></h2>
+<figure class="highlight arduino"><table><tr><td class="code"><pre><span class="line"><span class="built_in">noInterrupts</span>();</span><br><span class="line"><span class="built_in">interrupts</span>();</span><br></pre></td></tr></table></figure>
 <div class="alert alert-warning"><p><code>noInterrupts</code> 不會將 <code>reset</code> 中斷關閉。</p></div>
 
             </div>
@@ -211,8 +230,10 @@
     <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
         <ul class="pagination d-block text-center">
             
-                <li class="previous page-item d-inline"><a href="/2023/02/26/hello-world/" class="page-link float-left">&larr;  Newer</a></li>
+                <li class="previous page-item d-inline"><a href="/2023/02/26/Uncomplete/" class="page-link float-left">&larr;  下一页</a></li>
             
+            
+                <li class="next page-item d-inline"><a href="/1970/01/01/hello-world/" class="page-link float-right">上一页  &rarr;</a></li>
             
         </ul>
     </div>
@@ -253,9 +274,9 @@
                 </div>
             </div>
             <div class="toc-menu pt-3 pl-4">
-                <a class="expand-toggle d-block py-1" href="#"><span class="expand-text">Expand all</span><span class="close-text" style="display: none;">Collapse all</span></a>
-                <a class="back-to-top d-block py-1" href="#">Back to top</a>
-                <a class="go-to-bottom d-block py-1" href="#">Go to bottom</a>
+                <a class="expand-toggle d-block py-1" href="#"><span class="expand-text">全部展开</span><span class="close-text" style="display: none;">全部收起</span></a>
+                <a class="back-to-top d-block py-1" href="#">回到顶部</a>
+                <a class="go-to-bottom d-block py-1" href="#">移至底部</a>
             </div>
         </div>
     </div>
@@ -302,6 +323,15 @@
 
                     
 
+                    
+                        <li class="list-inline-item">
+                            <a rel="external" href="mailto:ItsCrackXD@outlook.com" target="_blank">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="far fa-envelope fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
                     
 
                     
@@ -419,7 +449,7 @@
     <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
         <div class="modal-content overflow-auto">
             <div class="modal-header">
-                <input type="text" class="form-control" placeholder="Searching Keywords..." id="searchInput">
+                <input type="text" class="form-control" placeholder="搜索关键词..." id="searchInput">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fas fa-times"></i></button>
             </div>
             <div class="modal-body">
