@@ -9,19 +9,12 @@
 
 
 
-    <meta name="description" content="Hexo Command
-三件套
-$ hexo cl$ hexo g$ hexo d
-$ hexo cl#
-$ hexo cl
-git命令行内执行，清理缓存文件
-$ hexo generate#
-$ hexo g
-生成静态文件用于部署
-$ hexo deploy#
-$ hexo d
-部署网站
-启动本"/>
+    <meta name="description" content="使用Hexo时遇到的问题以及解决（话多版）
+npm install hexo-cli -ghexo init blogcd blognpm installhexo server
+先把hexo官网上安装hexo所需的命令列出来
+下载时#
+Node.js的npm包管理器无法使用
+$ npm instal"/>
 
 
 <!--Author-->
@@ -31,24 +24,17 @@ $ hexo d
 
 <!--Open Graph Title-->
 
-    <meta property="og:title" content="Hexo 部署命令"/>
+    <meta property="og:title" content="ProblemWithHexo"/>
 
 
 <!--Open Graph Description-->
 
-    <meta property="og:description" content="Hexo Command
-三件套
-$ hexo cl$ hexo g$ hexo d
-$ hexo cl#
-$ hexo cl
-git命令行内执行，清理缓存文件
-$ hexo generate#
-$ hexo g
-生成静态文件用于部署
-$ hexo deploy#
-$ hexo d
-部署网站
-启动本"/>
+    <meta property="og:description" content="使用Hexo时遇到的问题以及解决（话多版）
+npm install hexo-cli -ghexo init blogcd blognpm installhexo server
+先把hexo官网上安装hexo所需的命令列出来
+下载时#
+Node.js的npm包管理器无法使用
+$ npm instal"/>
 
 
 <!--Open Graph Site Name-->
@@ -75,7 +61,7 @@ $ hexo d
 
 <!-- Title -->
 
-<title>Hexo 部署命令 | Hello Blog</title>
+<title>ProblemWithHexo | Hello Blog</title>
 
 <!-- Bootstrap Core CSS -->
 <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css">
@@ -145,7 +131,7 @@ $ hexo d
         <div class="row">
             <div class="col-lg-12 col-md-12 text-center">
                 <div class="post-heading text-white">
-                    <h1>Hexo 部署命令</h1>
+                    <h1>ProblemWithHexo</h1>
                     
                 </div>
             </div>
@@ -165,7 +151,7 @@ $ hexo d
         <i class="far fa-bookmark fa-fw"></i>
         
 
-<a href="/categories/Note/">Note</a>/ <a href="/categories/Note/Hexo/">Hexo</a>
+<a href="/categories/Problem/">Problem</a>
 
     
     
@@ -173,7 +159,7 @@ $ hexo d
     
         <span class="post-meta-split">&nbsp;|&nbsp;</span>
         <i class="far fa-calendar-check fa-fw"></i>
-        2023-02-26
+        2023-03-03
     
     <!-- word count and read count -->
     
@@ -183,22 +169,58 @@ $ hexo d
     
 </span>  
                 
-                <h1>Hexo Command</h1>
-<p>三件套</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo cl</span><br><span class="line">$ hexo g</span><br><span class="line">$ hexo d</span><br></pre></td></tr></table></figure>
-<h2 id="hexo-cl">$ hexo cl<a class="header-anchor" href="#hexo-cl">#</a></h2>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo cl</span><br></pre></td></tr></table></figure>
-<p>git命令行内执行，清理缓存文件</p>
-<h2 id="hexo-generate">$ hexo generate<a class="header-anchor" href="#hexo-generate">#</a></h2>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure>
-<p>生成静态文件用于部署</p>
-<h2 id="hexo-deploy">$ hexo deploy<a class="header-anchor" href="#hexo-deploy">#</a></h2>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure>
-<p>部署网站</p>
-<h2 id="启动本地服务器-hexo-server">启动本地服务器 $ hexo server<a class="header-anchor" href="#启动本地服务器-hexo-server">#</a></h2>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure>
-<p>本地部署<br>
-登录 <code>http://localhost:4000/</code> 查看</p>
+                <h1>使用Hexo时遇到的问题以及解决（话多版）</h1>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br><span class="line">hexo init blog</span><br><span class="line"><span class="built_in">cd</span> blog</span><br><span class="line">npm install</span><br><span class="line">hexo server</span><br></pre></td></tr></table></figure>
+<p>先把hexo官网上安装hexo所需的命令列出来</p>
+<h2 id="下载时">下载时<a class="header-anchor" href="#下载时">#</a></h2>
+<p>Node.js的npm包管理器无法使用</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ npm install hexo-cli -g</span><br></pre></td></tr></table></figure>
+<p>即这个运行时出错，无法运行</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm : 无法将“npm”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正</span><br><span class="line">确，然后再试一次。</span><br></pre></td></tr></table></figure>
+<p>btw已经解决了，总之当时运行时类似于这样<br>
+第一反应是因为管理员的问题，于是用管理员模式重新打开了一次终端运行，没有解决<br>
+然后反应过来无法运行大概是path的设置问题，去系统变量里设置了node.js的环境变量，没有用<br>
+于是开始网上查，教程和我配置一样但用的cmd，想着命令提示符不是和cmd一个东西吗，于是在终端里开了一个命令提示符<br>
+<strong>然而没有用 lol</strong><br>
+解决方法是什么呢<br>
+用<code>Win + R</code>运行<code>cmd</code></p>
+<blockquote>
+<p>无法解决可以用管理员运行cmd</p>
+</blockquote>
+<h2 id="安装时">安装时<a class="header-anchor" href="#安装时">#</a></h2>
+<p>好的我们已经下载好了hexo需要的资源，按照官网下一步就是初始化我们的blog<br>
+<strong>不出意外的话就又要出意外了</strong></p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo init blog</span><br></pre></td></tr></table></figure>
+<p>能正常运行，但是我不知道它把blog给init到哪了<br>
+于是我在D盘新建了一个blog文件夹并在里面<code>git bash</code><br>
+这样blog的文件就会下载到这里了，以及以后的操作我都在git里执行了<br>
+之后的操作没出啥幺蛾子</p>
+<h2 id="部署时">部署时<a class="header-anchor" href="#部署时">#</a></h2>
+<p>更改了好几次主题，研究了半天页面设置终于是搞好了，<code>localhost:4000</code>里也能正常看，于是兴致冲冲的部署了上去</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo g</span><br><span class="line">$ hexo d</span><br></pre></td></tr></table></figure>
+<p>等了半天网页也没反应，最后查文档发现要<code>hexo cl</code>清除缓存</p>
+<h2 id="主题的使用">主题的使用<a class="header-anchor" href="#主题的使用">#</a></h2>
+<p>用的是clean主题，hexo官网上找的<br>
+主题的配置文件中有一个</p>
+<figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">post_info:</span></span><br><span class="line">  <span class="attr">word_count:</span> <span class="literal">false</span></span><br><span class="line">  <span class="attr">read_time:</span> <span class="literal">false</span></span><br></pre></td></tr></table></figure>
+<p>其中<code>word_count</code>在作者的配置里是开启的（true）<br>
+但是我填成true就会在git里报错，以及无法加载出来页面<br>
+改回false就好了</p>
+<h2 id="更换Markdown渲染器">更换Markdown渲染器<a class="header-anchor" href="#更换Markdown渲染器">#</a></h2>
+<p>原生的编辑器是<code>hexo-renderer-marked</code>，不喜欢的唯一缺点就是</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">1| ...</span><br><span class="line">2| ...</span><br></pre></td></tr></table></figure>
+<p>…是代码<br>
+这个渲染器在代码块前会加代码行数和一个绿色的竖线，我不喜欢于是觉得更换成<code>hexo-renderer-markdown-it</code></p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm uninstall hexo-renderer-marked --save</span><br><span class="line">npm install hexo-renderer-markdown-it --save</span><br></pre></td></tr></table></figure>
+<p>安装了几个插件，其中有一个叫<code>markdown-it-checkbox</code></p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm i markdown-it-checkbox</span><br></pre></td></tr></table></figure>
+<p>不想用了因为用不到，就用git uninstall了它<br>
+再次启动本地服务器时就开始报错，大意就是无法找到模块<br>
+我以为是没删干净，类似于path什么的还留着，就又删了一遍，没用<br>
+排查完了发现安装新渲染器时在<code>_config.yml</code>里加入了<code>- markdown-it-checkbox</code>一句<br>
+相当于hexo用这个文件检查安装了哪些模块时发现还有checkbox一个模块加载不出来，于是报错了<br>
+把yml里的这个标识<code>- markdown-it-checkbox</code>删了就能正常运行不报错了</p>
+<h2 id="还有啥问题等以后遇到了再说">还有啥问题等以后遇到了再说<a class="header-anchor" href="#还有啥问题等以后遇到了再说">#</a></h2>
 
             </div>
 
@@ -211,7 +233,7 @@ $ hexo d
             
             
         
-            <a href="/tags/Hexo/">#Hexo</a> <a href="/tags/Generate/">#Generate</a> <a href="/tags/Deploy/">#Deploy</a> <a href="/tags/Server/">#Server</a>
+            <a href="/tags/Hexo/">#Hexo</a> <a href="/tags/Problem/">#Problem</a> <a href="/tags/Error/">#Error</a>
         
     </div>
 
@@ -219,10 +241,8 @@ $ hexo d
     <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
         <ul class="pagination d-block text-center">
             
-                <li class="previous page-item d-inline"><a href="/2023/03/03/ProblemWithHexo/" class="page-link float-left">&larr;  下一页</a></li>
             
-            
-                <li class="next page-item d-inline"><a href="/1970/01/01/Uncomplete/" class="page-link float-right">上一页  &rarr;</a></li>
+                <li class="next page-item d-inline"><a href="/2023/02/26/HowToUseHexo/" class="page-link float-right">上一页  &rarr;</a></li>
             
         </ul>
     </div>
