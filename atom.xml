@@ -6,7 +6,7 @@
   <link href="https://hellocrackxd.github.io/atom.xml" rel="self"/>
   
   <link href="https://hellocrackxd.github.io/"/>
-  <updated>2023-03-03T12:50:45.548Z</updated>
+  <updated>2023-03-04T06:33:43.282Z</updated>
   <id>https://hellocrackxd.github.io/</id>
   
   <author>
@@ -17,11 +17,75 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>下载Youtube视频及封面</title>
+    <link href="https://hellocrackxd.github.io/2023/03/04/DownloadYTVideo/"/>
+    <id>https://hellocrackxd.github.io/2023/03/04/DownloadYTVideo/</id>
+    <published>2023-03-04T06:15:29.000Z</published>
+    <updated>2023-03-04T06:33:43.282Z</updated>
+    
+    <content type="html"><![CDATA[<h1>下载Youtube视频及封面</h1><h2 id="下载视频">下载视频<a class="header-anchor" href="#下载视频">#</a></h2><p>本来想使用IDM直接下载，但没用<br>之后查找知乎等教程用了Gihosoft TubeGet，能正常下载，但下载到90%就会限速，很难受<br>于是尝试了<a href="https://jely2002.github.io/youtube-dl-gui/">OpenVideoDownloader</a>以取代，没用，会报错</p><blockquote><p>btw这玩意可以下载Bilibili的视频<br>不过IDM也可以就是了（</p></blockquote><p>查阅资料后选择了<a href="https://9xbuddy.xyz/en-1bi">9xbuddy</a>网站下载视频<br>有URL就能下，无需科学上网，以及可以使用IDM下载的快</p><h2 id="下载视频封面">下载视频封面<a class="header-anchor" href="#下载视频封面">#</a></h2><p>原来的Gihosoft可以一并下载视频封面，换了9xbuddy后没法下载封面了<br>换成了<a href="https://www.strerr.com/">这个</a>来正常下载</p><blockquote><p>但是又需要科学上网了</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;下载Youtube视频及封面&lt;/h1&gt;
+&lt;h2 id=&quot;下载视频&quot;&gt;下载视频&lt;a class=&quot;header-anchor&quot; href=&quot;#下载视频&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;本来想使用IDM直接下载，但没用&lt;br&gt;
+之后查找知乎等教程用了Gihosoft TubeG</summary>
+      
+    
+    
+    
+    <category term="Download" scheme="https://hellocrackxd.github.io/categories/Download/"/>
+    
+    <category term="Youtube" scheme="https://hellocrackxd.github.io/categories/Download/Youtube/"/>
+    
+    
+    <category term="Download" scheme="https://hellocrackxd.github.io/tags/Download/"/>
+    
+    <category term="Youtube" scheme="https://hellocrackxd.github.io/tags/Youtube/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>so-vits-svc使用时遇到的问题</title>
+    <link href="https://hellocrackxd.github.io/2023/03/03/AISound/"/>
+    <id>https://hellocrackxd.github.io/2023/03/03/AISound/</id>
+    <published>2023-03-03T12:55:08.000Z</published>
+    <updated>2023-03-03T14:05:13.535Z</updated>
+    
+    <content type="html"><![CDATA[<h1>so-vits-svc使用时遇到的问题</h1><h2 id="CUDA">CUDA<a class="header-anchor" href="#CUDA">#</a></h2><p>安装cuda过程中一切顺利，安装完后检查是否安装成功</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">nvcc -v</span><br></pre></td></tr></table></figure><p>显示</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">nvcc : 无法将“nvcc”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。</span><br></pre></td></tr></table></figure><p>看了眼path发现没问题，那么问题是什么呢</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">C:\Users\Zou&gt;nvcc -v</span><br><span class="line">nvcc fatal   : No input files specified; use option --<span class="built_in">help</span> <span class="keyword">for</span> more information</span><br></pre></td></tr></table></figure><p>这是第一次尝试时的输出</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">C:\Users\Zou&gt;nvcc -V</span><br><span class="line">nvcc: NVIDIA (R) Cuda compiler driver</span><br><span class="line">Copyright (c) 2005-2022 NVIDIA Corporation</span><br><span class="line">Built on Tue_May__3_19:00:59_Pacific_Daylight_Time_2022</span><br><span class="line">Cuda compilation tools, release 11.7, V11.7.64</span><br><span class="line">Build cuda_11.7.r11.7/compiler.31294372_0</span><br></pre></td></tr></table></figure><p>第二次尝试时成功了<br>两次的区别在于<code>nvcc</code>后的<code>-v</code>和<code>-V</code><br><code>-V</code>需要大写<br><strong>666666666</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;so-vits-svc使用时遇到的问题&lt;/h1&gt;
+&lt;h2 id=&quot;CUDA&quot;&gt;CUDA&lt;a class=&quot;header-anchor&quot; href=&quot;#CUDA&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;安装cuda过程中一切顺利，安装完后检查是否安装成功&lt;/p&gt;
+&lt;figure cl</summary>
+      
+    
+    
+    
+    <category term="AI" scheme="https://hellocrackxd.github.io/categories/AI/"/>
+    
+    <category term="Python" scheme="https://hellocrackxd.github.io/categories/AI/Python/"/>
+    
+    
+    <category term="AI" scheme="https://hellocrackxd.github.io/tags/AI/"/>
+    
+    <category term="Problem" scheme="https://hellocrackxd.github.io/tags/Problem/"/>
+    
+    <category term="Python" scheme="https://hellocrackxd.github.io/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hexo使用时遇到的问题</title>
     <link href="https://hellocrackxd.github.io/2023/03/03/ProblemWithHexo/"/>
     <id>https://hellocrackxd.github.io/2023/03/03/ProblemWithHexo/</id>
     <published>2023-03-03T11:53:59.000Z</published>
-    <updated>2023-03-03T12:50:45.548Z</updated>
+    <updated>2023-03-03T12:57:21.067Z</updated>
     
     <content type="html"><![CDATA[<h1>使用Hexo时遇到的问题以及解决</h1><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br><span class="line">hexo init blog</span><br><span class="line"><span class="built_in">cd</span> blog</span><br><span class="line">npm install</span><br><span class="line">hexo server</span><br></pre></td></tr></table></figure><p>先把hexo官网上安装hexo所需的命令列出来</p><h2 id="下载时">下载时<a class="header-anchor" href="#下载时">#</a></h2><p>Node.js的npm包管理器无法使用</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ npm install hexo-cli -g</span><br></pre></td></tr></table></figure><p>即这个运行时出错，无法运行</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm : 无法将“npm”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正</span><br><span class="line">确，然后再试一次。</span><br></pre></td></tr></table></figure><p>btw已经解决了，总之当时运行时类似于这样<br>第一反应是因为管理员的问题，于是用管理员模式重新打开了一次终端运行，没有解决<br>然后反应过来无法运行大概是path的设置问题，去系统变量里设置了node.js的环境变量，没有用<br>于是开始网上查，教程和我配置一样但用的cmd，想着命令提示符不是和cmd一个东西吗，于是在终端里开了一个命令提示符<br><strong>然而没有用 lol</strong><br>解决方法是什么呢<br>用<code>Win + R</code>运行<code>cmd</code></p><blockquote><p>无法解决可以用管理员运行cmd</p></blockquote><h2 id="安装时">安装时<a class="header-anchor" href="#安装时">#</a></h2><p>好的我们已经下载好了hexo需要的资源，按照官网下一步就是初始化我们的blog<br><strong>不出意外的话就又要出意外了</strong></p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo init blog</span><br></pre></td></tr></table></figure><p>能正常运行，但是我不知道它把blog给init到哪了<br>于是我在D盘新建了一个blog文件夹并在里面<code>git bash</code><br>这样blog的文件就会下载到这里了，以及以后的操作我都在git里执行了<br>之后的操作没出啥幺蛾子</p><h2 id="部署时">部署时<a class="header-anchor" href="#部署时">#</a></h2><p>更改了好几次主题，研究了半天页面设置终于是搞好了，<code>localhost:4000</code>里也能正常看，于是兴致冲冲的部署了上去</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo g</span><br><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><p>等了半天网页也没反应，最后查文档发现要<code>hexo cl</code>清除缓存</p><h2 id="主题的使用">主题的使用<a class="header-anchor" href="#主题的使用">#</a></h2><p>用的是clean主题，hexo官网上找的<br>主题的配置文件中有一个</p><figure class="highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">post_info:</span></span><br><span class="line">  <span class="attr">word_count:</span> <span class="literal">false</span></span><br><span class="line">  <span class="attr">read_time:</span> <span class="literal">false</span></span><br></pre></td></tr></table></figure><p>其中<code>word_count</code>在作者的配置里是开启的（true）<br>但是我填成true就会在git里报错，以及无法加载出来页面<br>改回false就好了</p><h2 id="更换Markdown渲染器">更换Markdown渲染器<a class="header-anchor" href="#更换Markdown渲染器">#</a></h2><p>原生的编辑器是<code>hexo-renderer-marked</code>，不喜欢的唯一缺点就是</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">1| ...</span><br><span class="line">2| ...</span><br></pre></td></tr></table></figure><p>…是代码<br>这个渲染器在代码块前会加代码行数和一个绿色的竖线，我不喜欢于是觉得更换成<code>hexo-renderer-markdown-it</code></p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm uninstall hexo-renderer-marked --save</span><br><span class="line">npm install hexo-renderer-markdown-it --save</span><br></pre></td></tr></table></figure><p>安装了几个插件，其中有一个叫<code>markdown-it-checkbox</code></p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm i markdown-it-checkbox</span><br></pre></td></tr></table></figure><p>不想用了因为用不到，就用git uninstall了它<br>再次启动本地服务器时就开始报错，大意就是无法找到模块<br>我以为是没删干净，类似于path什么的还留着，就又删了一遍，没用<br>排查完了发现安装新渲染器时在<code>_config.yml</code>里加入了<code>- markdown-it-checkbox</code>一句<br>相当于hexo用这个文件检查安装了哪些模块时发现还有checkbox一个模块加载不出来，于是报错了<br>把yml里的这个标识<code>- markdown-it-checkbox</code>删了就能正常运行不报错了</p><h2 id="还有啥问题等以后遇到了再说">还有啥问题等以后遇到了再说<a class="header-anchor" href="#还有啥问题等以后遇到了再说">#</a></h2>]]></content>
     
@@ -38,10 +102,12 @@
     
     <category term="Note" scheme="https://hellocrackxd.github.io/categories/Problem/Note/"/>
     
+    <category term="Hexo" scheme="https://hellocrackxd.github.io/categories/Problem/Note/Hexo/"/>
     
-    <category term="Hexo" scheme="https://hellocrackxd.github.io/tags/Hexo/"/>
     
     <category term="Problem" scheme="https://hellocrackxd.github.io/tags/Problem/"/>
+    
+    <category term="Hexo" scheme="https://hellocrackxd.github.io/tags/Hexo/"/>
     
     <category term="Error" scheme="https://hellocrackxd.github.io/tags/Error/"/>
     

@@ -9,6 +9,14 @@
 
 
 
+    <meta name="description" content="so-vits-svc使用时遇到的问题
+CUDA#
+安装cuda过程中一切顺利，安装完后检查是否安装成功
+nvcc -v
+显示
+nvcc : 无法将“nvcc”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。
+看了眼path发现"/>
+
 
 <!--Author-->
 
@@ -17,10 +25,18 @@
 
 <!--Open Graph Title-->
 
-    <meta property="og:title" content="Categories"/>
+    <meta property="og:title" content="so-vits-svc使用时遇到的问题"/>
 
 
 <!--Open Graph Description-->
+
+    <meta property="og:description" content="so-vits-svc使用时遇到的问题
+CUDA#
+安装cuda过程中一切顺利，安装完后检查是否安装成功
+nvcc -v
+显示
+nvcc : 无法将“nvcc”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。
+看了眼path发现"/>
 
 
 <!--Open Graph Site Name-->
@@ -47,7 +63,7 @@
 
 <!-- Title -->
 
-<title>Categories | Hello Blog</title>
+<title>so-vits-svc使用时遇到的问题 | Hello Blog</title>
 
 <!-- Bootstrap Core CSS -->
 <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css">
@@ -109,87 +125,151 @@
 </nav>
 
     <!-- Main Content -->
-    <header class="intro-header" style="background-image: url('/img/home-bg.jpg')">
+    <!-- Page Header -->
+<!-- Set your background image for this header in your post front-matter: cover -->
+
+<header class="intro-header" style="background-image: url('/img/home-bg.jpg')">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
-                <div class="site-heading text-center text-white">
-                    <h1>Categories</h1>
+            <div class="col-lg-12 col-md-12 text-center">
+                <div class="post-heading text-white">
+                    <h1>so-vits-svc使用时遇到的问题</h1>
+                    
                 </div>
             </div>
         </div>
     </div>
 </header>
 
-<!-- Main Content -->
-<div class="container page-categories text-center">
-    <div class="row">
-        <div class="col-lg-10 offset-lg-1">
-            
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+            <!-- Post Main Content -->
+            <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
                 
-    <a href="/categories/Download/" class="btn btn-light m-2">
-        Download
-    </a>
+                    <span class="meta d-inline-block">
+    
+        <i class="far fa-bookmark fa-fw"></i>
+        
+
+<a href="/categories/AI/">AI</a>/ <a href="/categories/AI/Python/">Python</a>
+
+    
+    
+    <!-- Date -->
+    
+        <span class="post-meta-split">&nbsp;|&nbsp;</span>
+        <i class="far fa-calendar-check fa-fw"></i>
+        2023-03-03
+    
+    <!-- word count and read count -->
+    
+
+    
+
+    
+</span>  
+                
+                <h1>so-vits-svc使用时遇到的问题</h1>
+<h2 id="CUDA">CUDA<a class="header-anchor" href="#CUDA">#</a></h2>
+<p>安装cuda过程中一切顺利，安装完后检查是否安装成功</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">nvcc -v</span><br></pre></td></tr></table></figure>
+<p>显示</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">nvcc : 无法将“nvcc”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。</span><br></pre></td></tr></table></figure>
+<p>看了眼path发现没问题，那么问题是什么呢</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">C:\Users\Zou&gt;nvcc -v</span><br><span class="line">nvcc fatal   : No input files specified; use option --<span class="built_in">help</span> <span class="keyword">for</span> more information</span><br></pre></td></tr></table></figure>
+<p>这是第一次尝试时的输出</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">C:\Users\Zou&gt;nvcc -V</span><br><span class="line">nvcc: NVIDIA (R) Cuda compiler driver</span><br><span class="line">Copyright (c) 2005-2022 NVIDIA Corporation</span><br><span class="line">Built on Tue_May__3_19:00:59_Pacific_Daylight_Time_2022</span><br><span class="line">Cuda compilation tools, release 11.7, V11.7.64</span><br><span class="line">Build cuda_11.7.r11.7/compiler.31294372_0</span><br></pre></td></tr></table></figure>
+<p>第二次尝试时成功了<br>
+两次的区别在于<code>nvcc</code>后的<code>-v</code>和<code>-V</code><br>
+<code>-V</code>需要大写<br>
+<strong>666666666</strong></p>
+
+            </div>
+
+            <!-- Post information -->
+            
+    <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1 post-tags">
+        
+            <i class="fas fa-tag" style="vertical-align: middle;font-size: .8rem;"></i>
+            tags:&nbsp;
+            
+            
+        
+            <a href="/tags/AI/">#AI</a> <a href="/tags/Problem/">#Problem</a> <a href="/tags/Python/">#Python</a>
+        
+    </div>
 
             
-                
-    <a href="/categories/AI/" class="btn btn-light m-2">
-        AI
-    </a>
+    <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
+        <ul class="pagination d-block text-center">
+            
+                <li class="previous page-item d-inline"><a href="/2023/03/04/DownloadYTVideo/" class="page-link float-left">&larr;  下一页</a></li>
+            
+            
+                <li class="next page-item d-inline"><a href="/2023/03/03/ProblemWithHexo/" class="page-link float-right">上一页  &rarr;</a></li>
+            
+        </ul>
+    </div>
+
 
             
+                <!-- Comments -->
                 
-    <a href="/categories/Note/" class="btn btn-light m-2">
-        Note
-    </a>
+
+                
 
             
-                
-    <a href="/categories/Download/Youtube/" class="btn btn-light m-2">
-        Youtube
-    </a>
 
-            
-                
-    <a href="/categories/AI/Python/" class="btn btn-light m-2">
-        Python
-    </a>
-
-            
-                
-    <a href="/categories/Note/Hexo/" class="btn btn-light m-2">
-        Hexo
-    </a>
-
-            
-                
-    <a href="/categories/Problem/" class="btn btn-light m-2">
-        Problem
-    </a>
-
-            
-                
-    <a href="/categories/None/" class="btn btn-light m-2">
-        None
-    </a>
-
-            
-                
-    <a href="/categories/Problem/Note/" class="btn btn-light m-2">
-        Note
-    </a>
-
-            
-                
-    <a href="/categories/Problem/Note/Hexo/" class="btn btn-light m-2">
-        Hexo
-    </a>
-
-            
         </div>
     </div>
-</div>
+</article> 
 
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.css">
+    <style>
+        #toc-content .toc-link::before {
+            background-color: transparent;
+            max-height: 25px;
+        }
+
+        #toc-content .toc-link.is-active-link::before {
+            background-color: #404040;
+        }
+    </style>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
+    <div class="ui-toc dropup scrollspy-body pull-right" style="right: 3%;">
+        <button type="button" class="toc-btn btn btn-light" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-display="static">
+            <i class="fas fa-list"></i>
+        </button>
+        <div class="dropdown-menu dropdown-menu-right p-2"  aria-labelledby="tocLabel">
+            <div class="toc-widget">
+                <div id="toc-content" class="text-truncate">
+                </div>
+            </div>
+            <div class="toc-menu pt-3 pl-4">
+                <a class="expand-toggle d-block py-1" href="#"><span class="expand-text">全部展开</span><span class="close-text" style="display: none;">全部收起</span></a>
+                <a class="back-to-top d-block py-1" href="#">回到顶部</a>
+                <a class="go-to-bottom d-block py-1" href="#">移至底部</a>
+            </div>
+        </div>
+    </div>
+    <script>
+        tocbot.init({
+            // Where to render the table of contents.
+            tocSelector: '#toc-content',
+            // Where to grab the headings to build the table of contents.
+            contentSelector: 'article',
+            // Which headings to grab inside of the contentSelector element.
+            headingSelector: 'h1, h2, h3',
+            // For headings inside relative or absolute positioned containers within content.
+            hasInnerContainers: true,
+        });
+    </script>
+
+
+    
 
 
     <!-- Footer -->
