@@ -6,7 +6,7 @@
   <link href="https://blogxd.blog/atom.xml" rel="self"/>
   
   <link href="https://blogxd.blog/"/>
-  <updated>2023-03-04T10:56:17.989Z</updated>
+  <updated>2023-03-03T14:05:13.535Z</updated>
   <id>https://blogxd.blog/</id>
   
   <author>
@@ -15,67 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>AI绘画模型及tag</title>
-    <link href="https://blogxd.blog/2023/03/04/aiPaintingTag/"/>
-    <id>https://blogxd.blog/2023/03/04/aiPaintingTag/</id>
-    <published>2023-03-04T10:02:52.000Z</published>
-    <updated>2023-03-04T10:56:17.989Z</updated>
-    
-    <content type="html"><![CDATA[<h1>AI绘画及Tag选择</h1><p>模型从<a href="https://civitai.com/">Civitai</a>下载</p><h2 id="izumi模型">izumi模型<a class="header-anchor" href="#izumi模型">#</a></h2><p>URL：<a href="https://civitai.com/models/1364/izumi">izumi</a><br>特点：生成图片较为真实</p><p>Prompt:</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1 girl,a full body nude portrait of a 21 years old beautiful gorgeous cute busty Korean kpop girl, (jieunc_kor:0.8), slender body, spread legs, detailed face, perfect anatomy, contrapposto, Cannon EOS 5D MARK III, 50mm Sigma f/1.4 ZEISS lens, F1.4, 1/800s, ISO 100, photorealistic, trending on instagram,(smile:1.1),</span><br></pre></td></tr></table></figure><p>Negative Prompt:</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;&#123;&#123;ugly&#125;&#125;&#125;,&#123;&#123;&#123;duplicate&#125;&#125;&#125;,&#123;&#123;morbid&#125;&#125;,&#123;&#123;mutilated&#125;&#125;,&#123;&#123;&#123;tranny&#125;&#125;&#125;,mutated hands,&#123;&#123;&#123;poorly drawn hands&#125;&#125;&#125;,blurry,&#123;&#123;bad anatomy&#125;&#125;,&#123;&#123;&#123;bad proportions&#125;&#125;&#125;,extra limbs,cloned face,&#123;&#123;&#123;disfigured&#125;&#125;&#125;,&#123;&#123;&#123;more than 2 nipples&#125;&#125;&#125;,&#123;&#123;&#123;&#123;missing arms&#125;&#125;&#125;&#125;,&#123;&#123;&#123;extra legs&#125;&#125;&#125;,mutated hands,&#123;&#123;&#123;&#123;&#123;fused fingers&#125;&#125;&#125;&#125;&#125;,&#123;&#123;&#123;&#123;&#123;too many fingers&#125;&#125;&#125;&#125;&#125;,&#123;&#123;&#123;unclear eyes&#125;&#125;&#125;,lowers,bad anatomy,bad hands,text,error,missing fingers,extra digit,fewer digits,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry,bad</span><br></pre></td></tr></table></figure><p>采样方法选择<code>Euler a</code></p><h2 id="luckyStrikeMix模型">luckyStrikeMix模型<a class="header-anchor" href="#luckyStrikeMix模型">#</a></h2><p>URL：<a href="https://civitai.com/models/13034/lucky-strike-mix">lucky-strike-mix</a><br>生成质量不均匀</p><p>Prompt（坐姿）:</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">(masterpiece), best quality, highest quality, extremely detailed CG unity 8k wallpaper, detailed and intricate, original,highres, \\ (16yo),extremely detailed_eyes, fingernails,sexy,large breasts, (eyeliner:0.5),(blush:0.5),black hair,hair pulled back, Folded tied hair,simple diamond earrings,detailed skin, looking at viewer,solo, (NSFW:1.1), \\ office lady, suits, white shirt,striped miniskirt, (lace black pantyhose), black heels, LV bags,thighhighs, crossed legs, sitting, \\ street, subway station, shop border, akihabara \(tokyo\), shibuya \(tokyo\), shinjuku \(tokyo\), tree,rain, cloudy, \\ beautifully detailed background,depth of field,loli:0.1,realistic:1.3, (ambient light:1.3),(cinematic composition:1.3),(neon lights:0.1),(HDR:0.1),Accent Lighting, (pantyshot:1.2),fish eye lens,</span><br></pre></td></tr></table></figure><p>Negative Prompt（通用）:</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">watermark, text, error, blurry, jpeg artifacts, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, artist name, (worst quality, low quality:1.4), ((bad anatomy)), watermark, signature, text, logo,contact, ((extra limbs)),(3d),loli, Six fingers,Low quality fingers,EasyNegative:0.5,monochrome,</span><br></pre></td></tr></table></figure><p>采样方法选择<code>DPM++ 2M Karras</code><br>Step 28</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1&gt;AI绘画及Tag选择&lt;/h1&gt;
-&lt;p&gt;模型从&lt;a href=&quot;https://civitai.com/&quot;&gt;Civitai&lt;/a&gt;下载&lt;/p&gt;
-&lt;h2 id=&quot;izumi模型&quot;&gt;izumi模型&lt;a class=&quot;header-anchor&quot; href=&quot;#izumi模型&quot;&gt;</summary>
-      
-    
-    
-    
-    <category term="AI" scheme="https://blogxd.blog/categories/AI/"/>
-    
-    
-    <category term="AI" scheme="https://blogxd.blog/tags/AI/"/>
-    
-    <category term="Paint" scheme="https://blogxd.blog/tags/Paint/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>下载Youtube视频及封面</title>
-    <link href="https://blogxd.blog/2023/03/04/DownloadYTVideo/"/>
-    <id>https://blogxd.blog/2023/03/04/DownloadYTVideo/</id>
-    <published>2023-03-04T06:15:29.000Z</published>
-    <updated>2023-03-04T10:04:32.514Z</updated>
-    
-    <content type="html"><![CDATA[<h1>下载Youtube视频及封面</h1><h2 id="下载视频">下载视频<a class="header-anchor" href="#下载视频">#</a></h2><p>本来想使用IDM直接下载，但没用<br>之后查找知乎等教程用了Gihosoft TubeGet，能正常下载，但下载到90%就会限速，很难受<br>于是尝试了<a href="https://jely2002.github.io/youtube-dl-gui/">OpenVideoDownloader</a>以取代，没用，会报错</p><blockquote><p>btw这玩意可以下载Bilibili的视频<br>不过IDM也可以就是了（</p></blockquote><p>查阅资料后选择了<a href="https://9xbuddy.xyz/en-1bi">9xbuddy</a>网站下载视频<br>有URL就能下，无需科学上网，以及可以使用IDM下载的快</p><h2 id="下载视频封面">下载视频封面<a class="header-anchor" href="#下载视频封面">#</a></h2><p>原来的Gihosoft可以一并下载视频封面，换了9xbuddy后没法下载封面了<br>换成了<a href="https://www.strerr.com/">这个</a>来正常下载</p><blockquote><p>但是又需要科学上网了</p></blockquote>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1&gt;下载Youtube视频及封面&lt;/h1&gt;
-&lt;h2 id=&quot;下载视频&quot;&gt;下载视频&lt;a class=&quot;header-anchor&quot; href=&quot;#下载视频&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;本来想使用IDM直接下载，但没用&lt;br&gt;
-之后查找知乎等教程用了Gihosoft TubeG</summary>
-      
-    
-    
-    
-    <category term="Download" scheme="https://blogxd.blog/categories/Download/"/>
-    
-    <category term="Youtube" scheme="https://blogxd.blog/categories/Download/Youtube/"/>
-    
-    <category term="Note" scheme="https://blogxd.blog/categories/Download/Youtube/Note/"/>
-    
-    
-    <category term="Download" scheme="https://blogxd.blog/tags/Download/"/>
-    
-    <category term="Youtube" scheme="https://blogxd.blog/tags/Youtube/"/>
-    
-  </entry>
   
   <entry>
     <title>so-vits-svc使用时遇到的问题</title>
@@ -135,20 +74,20 @@
     <category term="Hexo" scheme="https://blogxd.blog/categories/Problem/Note/Hexo/"/>
     
     
-    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
     
     <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
     
   </entry>
   
   <entry>
-    <title>Hexo 部署命令</title>
+    <title>(备注)Hexo 部署命令</title>
     <link href="https://blogxd.blog/2023/02/26/HowToUseHexo/"/>
     <id>https://blogxd.blog/2023/02/26/HowToUseHexo/</id>
     <published>2023-02-26T14:36:00.000Z</published>
-    <updated>2023-02-26T14:37:24.374Z</updated>
+    <updated>2023-11-19T02:07:15.039Z</updated>
     
     <content type="html"><![CDATA[<h1>Hexo Command</h1><p>三件套</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo cl</span><br><span class="line">$ hexo g</span><br><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><h2 id="hexo-cl">$ hexo cl<a class="header-anchor" href="#hexo-cl">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo cl</span><br></pre></td></tr></table></figure><p>git命令行内执行，清理缓存文件</p><h2 id="hexo-generate">$ hexo generate<a class="header-anchor" href="#hexo-generate">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure><p>生成静态文件用于部署</p><h2 id="hexo-deploy">$ hexo deploy<a class="header-anchor" href="#hexo-deploy">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><p>部署网站</p><h2 id="启动本地服务器-hexo-server">启动本地服务器 $ hexo server<a class="header-anchor" href="#启动本地服务器-hexo-server">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure><p>本地部署<br>登录 <code>http://localhost:4000/</code> 查看</p>]]></content>
     
