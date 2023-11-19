@@ -6,7 +6,7 @@
   <link href="https://blogxd.blog/atom.xml" rel="self"/>
   
   <link href="https://blogxd.blog/"/>
-  <updated>2023-11-19T02:11:03.325Z</updated>
+  <updated>2023-11-19T02:24:19.629Z</updated>
   <id>https://blogxd.blog/</id>
   
   <author>
@@ -17,13 +17,49 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>(备注)网页的Bug</title>
+    <link href="https://blogxd.blog/2023/11/19/Bug/"/>
+    <id>https://blogxd.blog/2023/11/19/Bug/</id>
+    <published>2023-11-19T02:14:21.000Z</published>
+    <updated>2023-11-19T02:24:19.629Z</updated>
+    
+    <content type="html"><![CDATA[<h1>网站的Bug统计</h1><h2 id="未解决：">未解决：<a class="header-anchor" href="#未解决：">#</a></h2><p>字体有问题，猜测在theme里<br>置顶效果也有问题，准备找个插件试试</p><h2 id="已解决：">已解决：<a class="header-anchor" href="#已解决：">#</a></h2><p>搜索有问题<br>–搜索结果很混乱，但总之能用了，可能可以优化(?)</p><h2 id="作者不更新的Bug是解决不了的">作者不更新的Bug是解决不了的<a class="header-anchor" href="#作者不更新的Bug是解决不了的">#</a></h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;网站的Bug统计&lt;/h1&gt;
+&lt;h2 id=&quot;未解决：&quot;&gt;未解决：&lt;a class=&quot;header-anchor&quot; href=&quot;#未解决：&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;字体有问题，猜测在theme里&lt;br&gt;
+置顶效果也有问题，准备找个插件试试&lt;/p&gt;
+&lt;h2 id=&quot;已解</summary>
+      
+    
+    
+    
+    <category term="Bug" scheme="https://blogxd.blog/categories/Bug/"/>
+    
+    <category term="hexo" scheme="https://blogxd.blog/categories/Bug/hexo/"/>
+    
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+    <category term="Generate" scheme="https://blogxd.blog/tags/Generate/"/>
+    
+    <category term="Bug" scheme="https://blogxd.blog/tags/Bug/"/>
+    
+    <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
+    
+  </entry>
+  
+  <entry>
     <title>so-vits-svc使用时遇到的问题</title>
     <link href="https://blogxd.blog/2023/03/03/AISound/"/>
     <id>https://blogxd.blog/2023/03/03/AISound/</id>
     <published>2023-03-03T12:55:08.000Z</published>
-    <updated>2023-11-19T02:11:03.325Z</updated>
+    <updated>2023-11-19T02:12:52.067Z</updated>
     
-    <content type="html"><![CDATA[<h1>so-vits-svc使用时遇到的问题</h1><h2 id="CUDA">CUDA<a class="header-anchor" href="#CUDA">#</a></h2><p>安装cuda过程中一切顺利，安装完后检查是否安装成功</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">nvcc -v</span><br></pre></td></tr></table></figure><p>显示</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">nvcc : 无法将“nvcc”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。</span><br></pre></td></tr></table></figure><p>看了眼path发现没问题，那么问题是什么呢</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">C:\Users\Zou&gt;nvcc -v</span><br><span class="line">nvcc fatal   : No input files specified; use option --<span class="built_in">help</span> <span class="keyword">for</span> more information</span><br></pre></td></tr></table></figure><p>这是第一次尝试时的输出</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">C:\Users\Zou&gt;nvcc -V</span><br><span class="line">nvcc: NVIDIA (R) Cuda compiler driver</span><br><span class="line">Copyright (c) 2005-2022 NVIDIA Corporation</span><br><span class="line">Built on Tue_May__3_19:00:59_Pacific_Daylight_Time_2022</span><br><span class="line">Cuda compilation tools, release 11.7, V11.7.64</span><br><span class="line">Build cuda_11.7.r11.7/compiler.31294372_0</span><br></pre></td></tr></table></figure><p>第二次尝试时成功了<br>两次的区别在于<code>nvcc</code>后的<code>-v</code>和<code>-V</code><br><code>-V</code>需要大写<br><strong>666666666</strong></p><p>后来就没搞所以断了等我再研究研究回来补未完待续</p>]]></content>
+    <content type="html"><![CDATA[<h1>so-vits-svc使用时遇到的问题</h1><h2 id="CUDA">CUDA<a class="header-anchor" href="#CUDA">#</a></h2><p>安装cuda过程中一切顺利，安装完后检查是否安装成功</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">nvcc -v</span><br></pre></td></tr></table></figure><p>显示</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">nvcc : 无法将“nvcc”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。</span><br></pre></td></tr></table></figure><p>看了眼path发现没问题，那么问题是什么呢</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">C:\Users\Zou&gt;nvcc -v</span><br><span class="line">nvcc fatal   : No input files specified; use option --<span class="built_in">help</span> <span class="keyword">for</span> more information</span><br></pre></td></tr></table></figure><p>这是第一次尝试时的输出</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">C:\Users\Zou&gt;nvcc -V</span><br><span class="line">nvcc: NVIDIA (R) Cuda compiler driver</span><br><span class="line">Copyright (c) 2005-2022 NVIDIA Corporation</span><br><span class="line">Built on Tue_May__3_19:00:59_Pacific_Daylight_Time_2022</span><br><span class="line">Cuda compilation tools, release 11.7, V11.7.64</span><br><span class="line">Build cuda_11.7.r11.7/compiler.31294372_0</span><br></pre></td></tr></table></figure><p>第二次尝试时成功了<br>两次的区别在于<code>nvcc</code>后的<code>-v</code>和<code>-V</code><br><code>-V</code>需要大写<br><strong>666666666</strong></p><p>后来就没搞所以断了<br>等我再研究研究回来补<br>未完待续</p>]]></content>
     
     
       
@@ -110,9 +146,34 @@
     
     <category term="Generate" scheme="https://blogxd.blog/tags/Generate/"/>
     
+    <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
+    
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
     
-    <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
+  </entry>
+  
+  <entry>
+    <title>测试用页面</title>
+    <link href="https://blogxd.blog/1970/01/01/Uncomplete/"/>
+    <id>https://blogxd.blog/1970/01/01/Uncomplete/</id>
+    <published>1969-12-31T16:00:00.000Z</published>
+    <updated>2023-02-26T14:18:57.426Z</updated>
+    
+    <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;这里什么都没有&lt;/h1&gt;
+</summary>
+      
+    
+    
+    
+    <category term="None" scheme="https://blogxd.blog/categories/None/"/>
+    
+    
+    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   
@@ -140,31 +201,6 @@
     
     
     <category term="HelloWorld" scheme="https://blogxd.blog/tags/HelloWorld/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试用页面</title>
-    <link href="https://blogxd.blog/1970/01/01/Uncomplete/"/>
-    <id>https://blogxd.blog/1970/01/01/Uncomplete/</id>
-    <published>1969-12-31T16:00:00.000Z</published>
-    <updated>2023-02-26T14:18:57.426Z</updated>
-    
-    <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1&gt;这里什么都没有&lt;/h1&gt;
-</summary>
-      
-    
-    
-    
-    <category term="None" scheme="https://blogxd.blog/categories/None/"/>
-    
-    
-    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   
