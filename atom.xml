@@ -6,7 +6,7 @@
   <link href="https://blogxd.blog/atom.xml" rel="self"/>
   
   <link href="https://blogxd.blog/"/>
-  <updated>2023-11-19T02:25:53.367Z</updated>
+  <updated>2023-11-19T02:29:19.879Z</updated>
   <id>https://blogxd.blog/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://blogxd.blog/2023/11/19/Bug/"/>
     <id>https://blogxd.blog/2023/11/19/Bug/</id>
     <published>2023-11-19T02:14:21.000Z</published>
-    <updated>2023-11-19T02:25:53.367Z</updated>
+    <updated>2023-11-19T02:29:19.879Z</updated>
     
-    <content type="html"><![CDATA[<h1>网站的Bug统计</h1><h2 id="未解决：">未解决：<a class="header-anchor" href="#未解决：">#</a></h2><p>字体有问题，猜测在theme里<br>置顶效果有问题，准备找个插件试试<br>文章放不了图片，等我搞个图床</p><h2 id="已解决：">已解决：<a class="header-anchor" href="#已解决：">#</a></h2><p>搜索有问题<br>–搜索结果很混乱，但总之能用了，可能可以优化(?)</p><h2 id="作者不更新的Bug是解决不了的">作者不更新的Bug是解决不了的<a class="header-anchor" href="#作者不更新的Bug是解决不了的">#</a></h2>]]></content>
+    <content type="html"><![CDATA[<h1>网站的Bug统计</h1><h2 id="未解决：">未解决：<a class="header-anchor" href="#未解决：">#</a></h2><p>字体有问题，猜测在theme里<br>置顶效果有问题，准备找个插件试试<br>文章放不了图片，等我搞个图床<br>存档界面会显示好几个Hexo之类的<br>标签界面分不开，只有2023和ALL两个选项</p><h2 id="已解决：">已解决：<a class="header-anchor" href="#已解决：">#</a></h2><p>搜索有问题<br>–搜索结果很混乱，但总之能用了，可能可以优化(?)</p><h2 id="作者不更新的Bug是解决不了的">作者不更新的Bug是解决不了的<a class="header-anchor" href="#作者不更新的Bug是解决不了的">#</a></h2>]]></content>
     
     
       
@@ -49,6 +49,10 @@
     <category term="Bug" scheme="https://blogxd.blog/tags/Bug/"/>
     
     <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
+    
+    <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
+    
+    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
     
   </entry>
   
@@ -77,9 +81,9 @@
     <category term="Python" scheme="https://blogxd.blog/categories/AI/Python/"/>
     
     
-    <category term="AI" scheme="https://blogxd.blog/tags/AI/"/>
-    
     <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
+    
+    <category term="AI" scheme="https://blogxd.blog/tags/AI/"/>
     
     <category term="Python" scheme="https://blogxd.blog/tags/Python/"/>
     
@@ -110,11 +114,11 @@
     <category term="Hexo" scheme="https://blogxd.blog/categories/Problem/Note/Hexo/"/>
     
     
-    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
+    
+    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
     
   </entry>
   
