@@ -3,11 +3,11 @@
   <title>Hello Blog</title>
   
   <subtitle>Welcome To There</subtitle>
-  <link href="https://hellocrackxd.github.io/atom.xml" rel="self"/>
+  <link href="https://blogxd.blog/atom.xml" rel="self"/>
   
-  <link href="https://hellocrackxd.github.io/"/>
+  <link href="https://blogxd.blog/"/>
   <updated>2023-03-04T10:56:17.989Z</updated>
-  <id>https://hellocrackxd.github.io/</id>
+  <id>https://blogxd.blog/</id>
   
   <author>
     <name>CrackXD</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>AI绘画模型及tag</title>
-    <link href="https://hellocrackxd.github.io/2023/03/04/aiPaintingTag/"/>
-    <id>https://hellocrackxd.github.io/2023/03/04/aiPaintingTag/</id>
+    <link href="https://blogxd.blog/2023/03/04/aiPaintingTag/"/>
+    <id>https://blogxd.blog/2023/03/04/aiPaintingTag/</id>
     <published>2023-03-04T10:02:52.000Z</published>
     <updated>2023-03-04T10:56:17.989Z</updated>
     
@@ -35,19 +35,19 @@
     
     
     
-    <category term="AI" scheme="https://hellocrackxd.github.io/categories/AI/"/>
+    <category term="AI" scheme="https://blogxd.blog/categories/AI/"/>
     
     
-    <category term="AI" scheme="https://hellocrackxd.github.io/tags/AI/"/>
+    <category term="AI" scheme="https://blogxd.blog/tags/AI/"/>
     
-    <category term="Paint" scheme="https://hellocrackxd.github.io/tags/Paint/"/>
+    <category term="Paint" scheme="https://blogxd.blog/tags/Paint/"/>
     
   </entry>
   
   <entry>
     <title>下载Youtube视频及封面</title>
-    <link href="https://hellocrackxd.github.io/2023/03/04/DownloadYTVideo/"/>
-    <id>https://hellocrackxd.github.io/2023/03/04/DownloadYTVideo/</id>
+    <link href="https://blogxd.blog/2023/03/04/DownloadYTVideo/"/>
+    <id>https://blogxd.blog/2023/03/04/DownloadYTVideo/</id>
     <published>2023-03-04T06:15:29.000Z</published>
     <updated>2023-03-04T10:04:32.514Z</updated>
     
@@ -64,23 +64,23 @@
     
     
     
-    <category term="Download" scheme="https://hellocrackxd.github.io/categories/Download/"/>
+    <category term="Download" scheme="https://blogxd.blog/categories/Download/"/>
     
-    <category term="Youtube" scheme="https://hellocrackxd.github.io/categories/Download/Youtube/"/>
+    <category term="Youtube" scheme="https://blogxd.blog/categories/Download/Youtube/"/>
     
-    <category term="Note" scheme="https://hellocrackxd.github.io/categories/Download/Youtube/Note/"/>
+    <category term="Note" scheme="https://blogxd.blog/categories/Download/Youtube/Note/"/>
     
     
-    <category term="Download" scheme="https://hellocrackxd.github.io/tags/Download/"/>
+    <category term="Download" scheme="https://blogxd.blog/tags/Download/"/>
     
-    <category term="Youtube" scheme="https://hellocrackxd.github.io/tags/Youtube/"/>
+    <category term="Youtube" scheme="https://blogxd.blog/tags/Youtube/"/>
     
   </entry>
   
   <entry>
     <title>so-vits-svc使用时遇到的问题</title>
-    <link href="https://hellocrackxd.github.io/2023/03/03/AISound/"/>
-    <id>https://hellocrackxd.github.io/2023/03/03/AISound/</id>
+    <link href="https://blogxd.blog/2023/03/03/AISound/"/>
+    <id>https://blogxd.blog/2023/03/03/AISound/</id>
     <published>2023-03-03T12:55:08.000Z</published>
     <updated>2023-03-03T14:05:13.535Z</updated>
     
@@ -97,23 +97,23 @@
     
     
     
-    <category term="AI" scheme="https://hellocrackxd.github.io/categories/AI/"/>
+    <category term="AI" scheme="https://blogxd.blog/categories/AI/"/>
     
-    <category term="Python" scheme="https://hellocrackxd.github.io/categories/AI/Python/"/>
+    <category term="Python" scheme="https://blogxd.blog/categories/AI/Python/"/>
     
     
-    <category term="AI" scheme="https://hellocrackxd.github.io/tags/AI/"/>
+    <category term="AI" scheme="https://blogxd.blog/tags/AI/"/>
     
-    <category term="Problem" scheme="https://hellocrackxd.github.io/tags/Problem/"/>
+    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
     
-    <category term="Python" scheme="https://hellocrackxd.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://blogxd.blog/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>Hexo使用时遇到的问题</title>
-    <link href="https://hellocrackxd.github.io/2023/03/03/ProblemWithHexo/"/>
-    <id>https://hellocrackxd.github.io/2023/03/03/ProblemWithHexo/</id>
+    <link href="https://blogxd.blog/2023/03/03/ProblemWithHexo/"/>
+    <id>https://blogxd.blog/2023/03/03/ProblemWithHexo/</id>
     <published>2023-03-03T11:53:59.000Z</published>
     <updated>2023-03-03T12:57:21.067Z</updated>
     
@@ -128,25 +128,25 @@
     
     
     
-    <category term="Problem" scheme="https://hellocrackxd.github.io/categories/Problem/"/>
+    <category term="Problem" scheme="https://blogxd.blog/categories/Problem/"/>
     
-    <category term="Note" scheme="https://hellocrackxd.github.io/categories/Problem/Note/"/>
+    <category term="Note" scheme="https://blogxd.blog/categories/Problem/Note/"/>
     
-    <category term="Hexo" scheme="https://hellocrackxd.github.io/categories/Problem/Note/Hexo/"/>
+    <category term="Hexo" scheme="https://blogxd.blog/categories/Problem/Note/Hexo/"/>
     
     
-    <category term="Problem" scheme="https://hellocrackxd.github.io/tags/Problem/"/>
+    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
     
-    <category term="Hexo" scheme="https://hellocrackxd.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
-    <category term="Error" scheme="https://hellocrackxd.github.io/tags/Error/"/>
+    <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
     
   </entry>
   
   <entry>
     <title>Hexo 部署命令</title>
-    <link href="https://hellocrackxd.github.io/2023/02/26/HowToUseHexo/"/>
-    <id>https://hellocrackxd.github.io/2023/02/26/HowToUseHexo/</id>
+    <link href="https://blogxd.blog/2023/02/26/HowToUseHexo/"/>
+    <id>https://blogxd.blog/2023/02/26/HowToUseHexo/</id>
     <published>2023-02-26T14:36:00.000Z</published>
     <updated>2023-02-26T14:37:24.374Z</updated>
     
@@ -162,25 +162,25 @@
     
     
     
-    <category term="Note" scheme="https://hellocrackxd.github.io/categories/Note/"/>
+    <category term="Note" scheme="https://blogxd.blog/categories/Note/"/>
     
-    <category term="Hexo" scheme="https://hellocrackxd.github.io/categories/Note/Hexo/"/>
+    <category term="Hexo" scheme="https://blogxd.blog/categories/Note/Hexo/"/>
     
     
-    <category term="Hexo" scheme="https://hellocrackxd.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
-    <category term="Generate" scheme="https://hellocrackxd.github.io/tags/Generate/"/>
+    <category term="Generate" scheme="https://blogxd.blog/tags/Generate/"/>
     
-    <category term="Deploy" scheme="https://hellocrackxd.github.io/tags/Deploy/"/>
+    <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
     
-    <category term="Server" scheme="https://hellocrackxd.github.io/tags/Server/"/>
+    <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
     
   </entry>
   
   <entry>
     <title>测试用页面</title>
-    <link href="https://hellocrackxd.github.io/1970/01/01/Uncomplete/"/>
-    <id>https://hellocrackxd.github.io/1970/01/01/Uncomplete/</id>
+    <link href="https://blogxd.blog/1970/01/01/Uncomplete/"/>
+    <id>https://blogxd.blog/1970/01/01/Uncomplete/</id>
     <published>1969-12-31T16:00:00.000Z</published>
     <updated>2023-02-26T14:18:57.426Z</updated>
     
@@ -195,17 +195,17 @@
     
     
     
-    <category term="None" scheme="https://hellocrackxd.github.io/categories/None/"/>
+    <category term="None" scheme="https://blogxd.blog/categories/None/"/>
     
     
-    <category term="Test" scheme="https://hellocrackxd.github.io/tags/Test/"/>
+    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://hellocrackxd.github.io/1970/01/01/hello-world/"/>
-    <id>https://hellocrackxd.github.io/1970/01/01/hello-world/</id>
+    <link href="https://blogxd.blog/1970/01/01/hello-world/"/>
+    <id>https://blogxd.blog/1970/01/01/hello-world/</id>
     <published>1969-12-31T16:00:00.000Z</published>
     <updated>2023-02-26T14:38:38.268Z</updated>
     
@@ -222,10 +222,10 @@
     
     
     
-    <category term="None" scheme="https://hellocrackxd.github.io/categories/None/"/>
+    <category term="None" scheme="https://blogxd.blog/categories/None/"/>
     
     
-    <category term="HelloWorld" scheme="https://hellocrackxd.github.io/tags/HelloWorld/"/>
+    <category term="HelloWorld" scheme="https://blogxd.blog/tags/HelloWorld/"/>
     
   </entry>
   
