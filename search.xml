@@ -8,7 +8,7 @@
       <link href="/2023/03/03/AISound/"/>
       <url>/2023/03/03/AISound/</url>
       
-        <content type="html"><![CDATA[<h1>so-vits-svc使用时遇到的问题</h1><h2 id="CUDA">CUDA<a class="header-anchor" href="#CUDA">#</a></h2><p>安装cuda过程中一切顺利，安装完后检查是否安装成功</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">nvcc -v</span><br></pre></td></tr></table></figure><p>显示</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">nvcc : 无法将“nvcc”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。</span><br></pre></td></tr></table></figure><p>看了眼path发现没问题，那么问题是什么呢</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">C:\Users\Zou&gt;nvcc -v</span><br><span class="line">nvcc fatal   : No input files specified; use option --<span class="built_in">help</span> <span class="keyword">for</span> more information</span><br></pre></td></tr></table></figure><p>这是第一次尝试时的输出</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">C:\Users\Zou&gt;nvcc -V</span><br><span class="line">nvcc: NVIDIA (R) Cuda compiler driver</span><br><span class="line">Copyright (c) 2005-2022 NVIDIA Corporation</span><br><span class="line">Built on Tue_May__3_19:00:59_Pacific_Daylight_Time_2022</span><br><span class="line">Cuda compilation tools, release 11.7, V11.7.64</span><br><span class="line">Build cuda_11.7.r11.7/compiler.31294372_0</span><br></pre></td></tr></table></figure><p>第二次尝试时成功了<br>两次的区别在于<code>nvcc</code>后的<code>-v</code>和<code>-V</code><br><code>-V</code>需要大写<br><strong>666666666</strong></p>]]></content>
+        <content type="html"><![CDATA[<h1>so-vits-svc使用时遇到的问题</h1><h2 id="CUDA">CUDA<a class="header-anchor" href="#CUDA">#</a></h2><p>安装cuda过程中一切顺利，安装完后检查是否安装成功</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">nvcc -v</span><br></pre></td></tr></table></figure><p>显示</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">nvcc : 无法将“nvcc”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。</span><br></pre></td></tr></table></figure><p>看了眼path发现没问题，那么问题是什么呢</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">C:\Users\Zou&gt;nvcc -v</span><br><span class="line">nvcc fatal   : No input files specified; use option --<span class="built_in">help</span> <span class="keyword">for</span> more information</span><br></pre></td></tr></table></figure><p>这是第一次尝试时的输出</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">C:\Users\Zou&gt;nvcc -V</span><br><span class="line">nvcc: NVIDIA (R) Cuda compiler driver</span><br><span class="line">Copyright (c) 2005-2022 NVIDIA Corporation</span><br><span class="line">Built on Tue_May__3_19:00:59_Pacific_Daylight_Time_2022</span><br><span class="line">Cuda compilation tools, release 11.7, V11.7.64</span><br><span class="line">Build cuda_11.7.r11.7/compiler.31294372_0</span><br></pre></td></tr></table></figure><p>第二次尝试时成功了<br>两次的区别在于<code>nvcc</code>后的<code>-v</code>和<code>-V</code><br><code>-V</code>需要大写<br><strong>666666666</strong></p><p>后来就没搞所以断了等我再研究研究回来补未完待续</p>]]></content>
       
       
       <categories>
@@ -55,9 +55,9 @@
       
         <tags>
             
-            <tag> Hexo </tag>
-            
             <tag> Problem </tag>
+            
+            <tag> Hexo </tag>
             
             <tag> Error </tag>
             
@@ -101,6 +101,31 @@
     
     
     <entry>
+      <title>Hello World</title>
+      <link href="/1970/01/01/hello-world/"/>
+      <url>/1970/01/01/hello-world/</url>
+      
+        <content type="html"><![CDATA[<h1>Welcome to There</h1><p><a href="https://github.com/HelloCrackXD">Github</a><br>你可以在 <code>ItsCrackXD@outlook.com</code> 联系我<br>:D</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> None </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HelloWorld </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测试用页面</title>
       <link href="/1970/01/01/Uncomplete/"/>
       <url>/1970/01/01/Uncomplete/</url>
@@ -118,31 +143,6 @@
         <tags>
             
             <tag> Test </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/1970/01/01/hello-world/"/>
-      <url>/1970/01/01/hello-world/</url>
-      
-        <content type="html"><![CDATA[<h1>Welcome to There</h1><p><a href="https://github.com/HelloCrackXD">My Github</a><br>你可以在 <code>ItsCrackXD@outlook.com</code> 联系我<br>:D</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> None </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> HelloWorld </tag>
             
         </tags>
       
