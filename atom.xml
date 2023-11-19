@@ -6,7 +6,7 @@
   <link href="https://blogxd.blog/atom.xml" rel="self"/>
   
   <link href="https://blogxd.blog/"/>
-  <updated>2023-11-19T02:24:19.629Z</updated>
+  <updated>2023-11-19T02:25:53.367Z</updated>
   <id>https://blogxd.blog/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://blogxd.blog/2023/11/19/Bug/"/>
     <id>https://blogxd.blog/2023/11/19/Bug/</id>
     <published>2023-11-19T02:14:21.000Z</published>
-    <updated>2023-11-19T02:24:19.629Z</updated>
+    <updated>2023-11-19T02:25:53.367Z</updated>
     
-    <content type="html"><![CDATA[<h1>网站的Bug统计</h1><h2 id="未解决：">未解决：<a class="header-anchor" href="#未解决：">#</a></h2><p>字体有问题，猜测在theme里<br>置顶效果也有问题，准备找个插件试试</p><h2 id="已解决：">已解决：<a class="header-anchor" href="#已解决：">#</a></h2><p>搜索有问题<br>–搜索结果很混乱，但总之能用了，可能可以优化(?)</p><h2 id="作者不更新的Bug是解决不了的">作者不更新的Bug是解决不了的<a class="header-anchor" href="#作者不更新的Bug是解决不了的">#</a></h2>]]></content>
+    <content type="html"><![CDATA[<h1>网站的Bug统计</h1><h2 id="未解决：">未解决：<a class="header-anchor" href="#未解决：">#</a></h2><p>字体有问题，猜测在theme里<br>置顶效果有问题，准备找个插件试试<br>文章放不了图片，等我搞个图床</p><h2 id="已解决：">已解决：<a class="header-anchor" href="#已解决：">#</a></h2><p>搜索有问题<br>–搜索结果很混乱，但总之能用了，可能可以优化(?)</p><h2 id="作者不更新的Bug是解决不了的">作者不更新的Bug是解决不了的<a class="header-anchor" href="#作者不更新的Bug是解决不了的">#</a></h2>]]></content>
     
     
       
@@ -31,8 +31,8 @@
     <summary type="html">&lt;h1&gt;网站的Bug统计&lt;/h1&gt;
 &lt;h2 id=&quot;未解决：&quot;&gt;未解决：&lt;a class=&quot;header-anchor&quot; href=&quot;#未解决：&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;字体有问题，猜测在theme里&lt;br&gt;
-置顶效果也有问题，准备找个插件试试&lt;/p&gt;
-&lt;h2 id=&quot;已解</summary>
+置顶效果有问题，准备找个插件试试&lt;br&gt;
+文章放不了图片，等我搞</summary>
       
     
     
