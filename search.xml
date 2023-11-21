@@ -8,7 +8,7 @@
       <link href="/2023/11/19/FutureUpdate/"/>
       <url>/2023/11/19/FutureUpdate/</url>
       
-        <content type="html"><![CDATA[<h1>准备的更新</h1><h2 id="网页">网页<a class="header-anchor" href="#网页">#</a></h2><p>加入置顶功能<br>修一下存档页面会有多个同一单词的问题<br>尝试修复字体问题<br>增加markdown的更多功能</p><h2 id="文章">文章<a class="header-anchor" href="#文章">#</a></h2><p>记录下加装内存/硬盘<br>研究下so-vit-svc怎么使用<br>研究下stable-diffusion更多功能<br>把作者的自我介绍改一下</p>]]></content>
+        <content type="html"><![CDATA[<h1>准备的更新</h1><h2 id="网页">网页<a class="header-anchor" href="#网页">#</a></h2><p>加入置顶功能(解决了一部分)<br>修一下存档页面会有多个同一单词的问题<br>尝试修复字体问题<br>增加markdown的更多功能</p><h2 id="文章">文章<a class="header-anchor" href="#文章">#</a></h2><p>记录下加装内存/硬盘<br>研究下so-vit-svc怎么使用<br>研究下stable-diffusion更多功能<br>把作者的自我介绍改一下</p>]]></content>
       
       
       <categories>
@@ -35,7 +35,7 @@
       <link href="/2023/11/19/Bug/"/>
       <url>/2023/11/19/Bug/</url>
       
-        <content type="html"><![CDATA[<h1>网站的Bug统计</h1><h2 id="未解决：">未解决：<a class="header-anchor" href="#未解决：">#</a></h2><p>字体有问题，猜测在theme\clean\layout里<br>置顶效果有问题，准备找个插件试试<br>文章放不了图片，等我搞个图床<br>存档界面会显示好几个Hexo之类的<br>标签界面分不开，只有2023和ALL两个选项</p><h2 id="已解决：">已解决：<a class="header-anchor" href="#已解决：">#</a></h2><p>搜索有问题<br>–搜索结果很混乱，但总之能用了，可能可以优化(?)</p><h2 id="作者不更新的Bug是解决不了的">作者不更新的Bug是解决不了的<a class="header-anchor" href="#作者不更新的Bug是解决不了的">#</a></h2>]]></content>
+        <content type="html"><![CDATA[<h1>网站的Bug统计</h1><h2 id="未解决：">未解决：<a class="header-anchor" href="#未解决：">#</a></h2><p>字体有问题，猜测在theme\clean\layout里<br>置顶效果有问题，准备找个插件试试(一定程度上解决)<br>文章放不了图片，等我搞个图床<br>存档界面会显示好几个Hexo之类的<br>标签界面分不开，只有2023和ALL两个选项</p><h2 id="已解决：">已解决：<a class="header-anchor" href="#已解决：">#</a></h2><p>搜索有问题<br>–搜索结果很混乱，但总之能用了，可能可以优化(?)<br>通过更改文章时间实现置顶</p><h2 id="作者不更新的Bug是解决不了的">作者不更新的Bug是解决不了的<a class="header-anchor" href="#作者不更新的Bug是解决不了的">#</a></h2>]]></content>
       
       
       <categories>
@@ -53,13 +53,13 @@
             
             <tag> Hexo </tag>
             
-            <tag> Generate </tag>
+            <tag> Error </tag>
             
-            <tag> Bug </tag>
+            <tag> Generate </tag>
             
             <tag> Server </tag>
             
-            <tag> Error </tag>
+            <tag> Bug </tag>
             
         </tags>
       
@@ -154,9 +154,9 @@
             
             <tag> Generate </tag>
             
-            <tag> Server </tag>
-            
             <tag> Deploy </tag>
+            
+            <tag> Server </tag>
             
         </tags>
       

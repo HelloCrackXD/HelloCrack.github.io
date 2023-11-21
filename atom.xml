@@ -6,7 +6,7 @@
   <link href="https://blogxd.blog/atom.xml" rel="self"/>
   
   <link href="https://blogxd.blog/"/>
-  <updated>2023-11-19T02:45:36.958Z</updated>
+  <updated>2023-11-21T15:03:15.229Z</updated>
   <id>https://blogxd.blog/</id>
   
   <author>
@@ -21,19 +21,19 @@
     <link href="https://blogxd.blog/2023/11/19/FutureUpdate/"/>
     <id>https://blogxd.blog/2023/11/19/FutureUpdate/</id>
     <published>2023-11-19T02:38:02.000Z</published>
-    <updated>2023-11-19T02:45:36.958Z</updated>
+    <updated>2023-11-21T15:03:15.229Z</updated>
     
-    <content type="html"><![CDATA[<h1>准备的更新</h1><h2 id="网页">网页<a class="header-anchor" href="#网页">#</a></h2><p>加入置顶功能<br>修一下存档页面会有多个同一单词的问题<br>尝试修复字体问题<br>增加markdown的更多功能</p><h2 id="文章">文章<a class="header-anchor" href="#文章">#</a></h2><p>记录下加装内存/硬盘<br>研究下so-vit-svc怎么使用<br>研究下stable-diffusion更多功能<br>把作者的自我介绍改一下</p>]]></content>
+    <content type="html"><![CDATA[<h1>准备的更新</h1><h2 id="网页">网页<a class="header-anchor" href="#网页">#</a></h2><p>加入置顶功能(解决了一部分)<br>修一下存档页面会有多个同一单词的问题<br>尝试修复字体问题<br>增加markdown的更多功能</p><h2 id="文章">文章<a class="header-anchor" href="#文章">#</a></h2><p>记录下加装内存/硬盘<br>研究下so-vit-svc怎么使用<br>研究下stable-diffusion更多功能<br>把作者的自我介绍改一下</p>]]></content>
     
     
       
       
     <summary type="html">&lt;h1&gt;准备的更新&lt;/h1&gt;
 &lt;h2 id=&quot;网页&quot;&gt;网页&lt;a class=&quot;header-anchor&quot; href=&quot;#网页&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;加入置顶功能&lt;br&gt;
+&lt;p&gt;加入置顶功能(解决了一部分)&lt;br&gt;
 修一下存档页面会有多个同一单词的问题&lt;br&gt;
 尝试修复字体问题&lt;br&gt;
-增加markdown的更多功</summary>
+增加mark</summary>
       
     
     
@@ -52,9 +52,9 @@
     <link href="https://blogxd.blog/2023/11/19/Bug/"/>
     <id>https://blogxd.blog/2023/11/19/Bug/</id>
     <published>2023-11-19T02:14:21.000Z</published>
-    <updated>2023-11-19T02:38:59.059Z</updated>
+    <updated>2023-11-21T15:03:51.247Z</updated>
     
-    <content type="html"><![CDATA[<h1>网站的Bug统计</h1><h2 id="未解决：">未解决：<a class="header-anchor" href="#未解决：">#</a></h2><p>字体有问题，猜测在theme\clean\layout里<br>置顶效果有问题，准备找个插件试试<br>文章放不了图片，等我搞个图床<br>存档界面会显示好几个Hexo之类的<br>标签界面分不开，只有2023和ALL两个选项</p><h2 id="已解决：">已解决：<a class="header-anchor" href="#已解决：">#</a></h2><p>搜索有问题<br>–搜索结果很混乱，但总之能用了，可能可以优化(?)</p><h2 id="作者不更新的Bug是解决不了的">作者不更新的Bug是解决不了的<a class="header-anchor" href="#作者不更新的Bug是解决不了的">#</a></h2>]]></content>
+    <content type="html"><![CDATA[<h1>网站的Bug统计</h1><h2 id="未解决：">未解决：<a class="header-anchor" href="#未解决：">#</a></h2><p>字体有问题，猜测在theme\clean\layout里<br>置顶效果有问题，准备找个插件试试(一定程度上解决)<br>文章放不了图片，等我搞个图床<br>存档界面会显示好几个Hexo之类的<br>标签界面分不开，只有2023和ALL两个选项</p><h2 id="已解决：">已解决：<a class="header-anchor" href="#已解决：">#</a></h2><p>搜索有问题<br>–搜索结果很混乱，但总之能用了，可能可以优化(?)<br>通过更改文章时间实现置顶</p><h2 id="作者不更新的Bug是解决不了的">作者不更新的Bug是解决不了的<a class="header-anchor" href="#作者不更新的Bug是解决不了的">#</a></h2>]]></content>
     
     
       
@@ -62,7 +62,7 @@
     <summary type="html">&lt;h1&gt;网站的Bug统计&lt;/h1&gt;
 &lt;h2 id=&quot;未解决：&quot;&gt;未解决：&lt;a class=&quot;header-anchor&quot; href=&quot;#未解决：&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;字体有问题，猜测在theme\clean\layout里&lt;br&gt;
-置顶效果有问题，准备找个插件试试&lt;br</summary>
+置顶效果有问题，准备找个插件试试(一定</summary>
       
     
     
@@ -76,13 +76,13 @@
     
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
-    <category term="Generate" scheme="https://blogxd.blog/tags/Generate/"/>
+    <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
     
-    <category term="Bug" scheme="https://blogxd.blog/tags/Bug/"/>
+    <category term="Generate" scheme="https://blogxd.blog/tags/Generate/"/>
     
     <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
     
-    <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
+    <category term="Bug" scheme="https://blogxd.blog/tags/Bug/"/>
     
   </entry>
   
@@ -180,9 +180,9 @@
     
     <category term="Generate" scheme="https://blogxd.blog/tags/Generate/"/>
     
-    <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
-    
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
+    
+    <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
     
   </entry>
   
