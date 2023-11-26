@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>A=B游玩日记</title>
+      <link href="/2023/11/26/AeqB/"/>
+      <url>/2023/11/26/AeqB/</url>
+      
+        <content type="html"><![CDATA[<h1>写一下Steam上数学/编程类游戏日记</h1><p>占个位，明天再更</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Game </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Game </tag>
+            
+            <tag> Math </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>(备注)准备的更新</title>
       <link href="/2023/11/19/FutureUpdate/"/>
       <url>/2023/11/19/FutureUpdate/</url>
@@ -53,13 +80,13 @@
             
             <tag> Hexo </tag>
             
-            <tag> Error </tag>
-            
             <tag> Generate </tag>
+            
+            <tag> Bug </tag>
             
             <tag> Server </tag>
             
-            <tag> Bug </tag>
+            <tag> Error </tag>
             
         </tags>
       
@@ -154,9 +181,9 @@
             
             <tag> Generate </tag>
             
-            <tag> Deploy </tag>
-            
             <tag> Server </tag>
+            
+            <tag> Deploy </tag>
             
         </tags>
       

@@ -6,7 +6,7 @@
   <link href="https://blogxd.blog/atom.xml" rel="self"/>
   
   <link href="https://blogxd.blog/"/>
-  <updated>2023-11-21T15:03:15.229Z</updated>
+  <updated>2023-11-26T12:00:24.100Z</updated>
   <id>https://blogxd.blog/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>A=B游玩日记</title>
+    <link href="https://blogxd.blog/2023/11/26/AeqB/"/>
+    <id>https://blogxd.blog/2023/11/26/AeqB/</id>
+    <published>2023-11-26T11:56:05.000Z</published>
+    <updated>2023-11-26T12:00:24.100Z</updated>
+    
+    <content type="html"><![CDATA[<h1>写一下Steam上数学/编程类游戏日记</h1><p>占个位，明天再更</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;写一下Steam上数学/编程类游戏日记&lt;/h1&gt;
+&lt;p&gt;占个位，明天再更&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Game" scheme="https://blogxd.blog/categories/Game/"/>
+    
+    
+    <category term="Game" scheme="https://blogxd.blog/tags/Game/"/>
+    
+    <category term="Math" scheme="https://blogxd.blog/tags/Math/"/>
+    
+  </entry>
   
   <entry>
     <title>(备注)准备的更新</title>
@@ -76,13 +104,13 @@
     
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
-    <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
-    
     <category term="Generate" scheme="https://blogxd.blog/tags/Generate/"/>
+    
+    <category term="Bug" scheme="https://blogxd.blog/tags/Bug/"/>
     
     <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
     
-    <category term="Bug" scheme="https://blogxd.blog/tags/Bug/"/>
+    <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
     
   </entry>
   
@@ -180,9 +208,9 @@
     
     <category term="Generate" scheme="https://blogxd.blog/tags/Generate/"/>
     
-    <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
-    
     <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
+    
+    <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
     
   </entry>
   
