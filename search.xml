@@ -4,16 +4,47 @@
   
     
     <entry>
+      <title>新主题部署</title>
+      <link href="/2023/12/02/NewThemeUseBlog/"/>
+      <url>/2023/12/02/NewThemeUseBlog/</url>
+      
+        <content type="html"><![CDATA[<h1>先觉得用butterfly，剩下的以后再写</h1><p>A=B都还没写呢这个更不急了（（</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Blog </tag>
+            
+            <tag> Deploy </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>A=B游玩日记</title>
       <link href="/2023/11/26/AeqB/"/>
       <url>/2023/11/26/AeqB/</url>
       
-        <content type="html"><![CDATA[<h1>写一下Steam上数学/编程类游戏日记</h1><p>占个位，明天再更</p>]]></content>
+        <content type="html"><![CDATA[<h1>写一下Steam上数学/编程类游戏日记</h1><p>占个位，明天再更<br>2/12/2023还没更（</p>]]></content>
       
       
       <categories>
           
           <category> Game </category>
+          
+          <category> Blog </category>
           
       </categories>
       
@@ -23,6 +54,8 @@
             <tag> Game </tag>
             
             <tag> Math </tag>
+            
+            <tag> Blog </tag>
             
         </tags>
       

@@ -6,7 +6,7 @@
   <link href="https://blogxd.blog/atom.xml" rel="self"/>
   
   <link href="https://blogxd.blog/"/>
-  <updated>2023-11-26T12:00:24.100Z</updated>
+  <updated>2023-12-02T11:44:03.990Z</updated>
   <id>https://blogxd.blog/</id>
   
   <author>
@@ -17,19 +17,50 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>新主题部署</title>
+    <link href="https://blogxd.blog/2023/12/02/NewThemeUseBlog/"/>
+    <id>https://blogxd.blog/2023/12/02/NewThemeUseBlog/</id>
+    <published>2023-12-02T11:39:48.000Z</published>
+    <updated>2023-12-02T11:44:03.990Z</updated>
+    
+    <content type="html"><![CDATA[<h1>先觉得用butterfly，剩下的以后再写</h1><p>A=B都还没写呢这个更不急了（（</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;先觉得用butterfly，剩下的以后再写&lt;/h1&gt;
+&lt;p&gt;A=B都还没写呢这个更不急了（（&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Blog" scheme="https://blogxd.blog/categories/Blog/"/>
+    
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+    <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
+    
+    <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
+    
+  </entry>
+  
+  <entry>
     <title>A=B游玩日记</title>
     <link href="https://blogxd.blog/2023/11/26/AeqB/"/>
     <id>https://blogxd.blog/2023/11/26/AeqB/</id>
     <published>2023-11-26T11:56:05.000Z</published>
-    <updated>2023-11-26T12:00:24.100Z</updated>
+    <updated>2023-12-02T11:44:41.921Z</updated>
     
-    <content type="html"><![CDATA[<h1>写一下Steam上数学/编程类游戏日记</h1><p>占个位，明天再更</p>]]></content>
+    <content type="html"><![CDATA[<h1>写一下Steam上数学/编程类游戏日记</h1><p>占个位，明天再更<br>2/12/2023还没更（</p>]]></content>
     
     
       
       
     <summary type="html">&lt;h1&gt;写一下Steam上数学/编程类游戏日记&lt;/h1&gt;
-&lt;p&gt;占个位，明天再更&lt;/p&gt;
+&lt;p&gt;占个位，明天再更&lt;br&gt;
+2/12/2023还没更（&lt;/p&gt;
 </summary>
       
     
@@ -37,10 +68,14 @@
     
     <category term="Game" scheme="https://blogxd.blog/categories/Game/"/>
     
+    <category term="Blog" scheme="https://blogxd.blog/categories/Game/Blog/"/>
+    
     
     <category term="Game" scheme="https://blogxd.blog/tags/Game/"/>
     
     <category term="Math" scheme="https://blogxd.blog/tags/Math/"/>
+    
+    <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
     
   </entry>
   
