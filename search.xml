@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>不能摆烂了!</title>
+      <link href="/2023/12/04/CantPutOff/"/>
+      <url>/2023/12/04/CantPutOff/</url>
+      
+        <content type="html"><![CDATA[<h1>更新</h1><p>明天就写点东西去</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Note </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Note </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>新主题部署</title>
       <link href="/2023/12/02/NewThemeUseBlog/"/>
       <url>/2023/12/02/NewThemeUseBlog/</url>
@@ -20,9 +45,9 @@
       
         <tags>
             
-            <tag> Hexo </tag>
-            
             <tag> Blog </tag>
+            
+            <tag> Hexo </tag>
             
             <tag> Deploy </tag>
             
@@ -80,9 +105,9 @@
       
         <tags>
             
-            <tag> Test </tag>
-            
             <tag> Note </tag>
+            
+            <tag> Test </tag>
             
         </tags>
       
@@ -225,31 +250,6 @@
     
     
     <entry>
-      <title>测试用页面</title>
-      <link href="/1970/01/01/Uncomplete/"/>
-      <url>/1970/01/01/Uncomplete/</url>
-      
-        <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
-      
-      
-      <categories>
-          
-          <category> None </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Test </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="/1970/01/01/hello-world/"/>
       <url>/1970/01/01/hello-world/</url>
@@ -267,6 +267,31 @@
         <tags>
             
             <tag> HelloWorld </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试用页面</title>
+      <link href="/1970/01/01/Uncomplete/"/>
+      <url>/1970/01/01/Uncomplete/</url>
+      
+        <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> None </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Test </tag>
             
         </tags>
       

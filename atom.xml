@@ -6,7 +6,7 @@
   <link href="https://blogxd.blog/atom.xml" rel="self"/>
   
   <link href="https://blogxd.blog/"/>
-  <updated>2023-12-02T11:44:03.990Z</updated>
+  <updated>2023-12-04T14:04:06.564Z</updated>
   <id>https://blogxd.blog/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>不能摆烂了!</title>
+    <link href="https://blogxd.blog/2023/12/04/CantPutOff/"/>
+    <id>https://blogxd.blog/2023/12/04/CantPutOff/</id>
+    <published>2023-12-04T14:02:36.000Z</published>
+    <updated>2023-12-04T14:04:06.564Z</updated>
+    
+    <content type="html"><![CDATA[<h1>更新</h1><p>明天就写点东西去</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;更新&lt;/h1&gt;
+&lt;p&gt;明天就写点东西去&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Note" scheme="https://blogxd.blog/categories/Note/"/>
+    
+    
+    <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
+    
+  </entry>
   
   <entry>
     <title>新主题部署</title>
@@ -38,9 +64,9 @@
     <category term="Blog" scheme="https://blogxd.blog/categories/Blog/"/>
     
     
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
     <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
     
@@ -104,9 +130,9 @@
     <category term="Note" scheme="https://blogxd.blog/categories/Note/"/>
     
     
-    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
-    
     <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
+    
+    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   
@@ -250,31 +276,6 @@
   </entry>
   
   <entry>
-    <title>测试用页面</title>
-    <link href="https://blogxd.blog/1970/01/01/Uncomplete/"/>
-    <id>https://blogxd.blog/1970/01/01/Uncomplete/</id>
-    <published>1969-12-31T16:00:00.000Z</published>
-    <updated>2023-02-26T14:18:57.426Z</updated>
-    
-    <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1&gt;这里什么都没有&lt;/h1&gt;
-</summary>
-      
-    
-    
-    
-    <category term="None" scheme="https://blogxd.blog/categories/None/"/>
-    
-    
-    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="https://blogxd.blog/1970/01/01/hello-world/"/>
     <id>https://blogxd.blog/1970/01/01/hello-world/</id>
@@ -298,6 +299,31 @@
     
     
     <category term="HelloWorld" scheme="https://blogxd.blog/tags/HelloWorld/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试用页面</title>
+    <link href="https://blogxd.blog/1970/01/01/Uncomplete/"/>
+    <id>https://blogxd.blog/1970/01/01/Uncomplete/</id>
+    <published>1969-12-31T16:00:00.000Z</published>
+    <updated>2023-02-26T14:18:57.426Z</updated>
+    
+    <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;这里什么都没有&lt;/h1&gt;
+</summary>
+      
+    
+    
+    
+    <category term="None" scheme="https://blogxd.blog/categories/None/"/>
+    
+    
+    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   
