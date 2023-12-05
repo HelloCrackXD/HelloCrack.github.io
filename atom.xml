@@ -6,7 +6,7 @@
   <link href="https://blogxd.blog/atom.xml" rel="self"/>
   
   <link href="https://blogxd.blog/"/>
-  <updated>2023-12-05T13:37:13.425Z</updated>
+  <updated>2023-12-05T13:49:27.441Z</updated>
   <id>https://blogxd.blog/</id>
   
   <author>
@@ -17,25 +17,23 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>UP-NotOnlyABlog</title>
-    <link href="https://blogxd.blog/2023/12/05/UP-NotOnlyABlog/"/>
-    <id>https://blogxd.blog/2023/12/05/UP-NotOnlyABlog/</id>
-    <published>2023-12-05T13:37:13.000Z</published>
-    <updated>2023-12-05T13:37:13.425Z</updated>
+    <title>置顶-网页介绍</title>
+    <link href="https://blogxd.blog/9999/12/30/UP-NotOnlyABlog/"/>
+    <id>https://blogxd.blog/9999/12/30/UP-NotOnlyABlog/</id>
+    <published>9999-12-30T14:22:22.000Z</published>
+    <updated>2023-12-05T13:49:27.441Z</updated>
+    
+    <content type="html"><![CDATA[<p>时间直接设成9999-12-30实现手动置顶(</p><h1>进入正题</h1><p>这个<a href="blogxd.blog">网站</a>用于记录作者的平时的想法<br>注册blogxd的域名其实本来是想写点博客，比如写写数据结构，算法啥的。<br>毕竟是打信竞的，但太摆烂自己也没脸写一堆，网站也跟着不务正业了起来(<br>所以这个网站目前是写各种东西，可能有广义点的日记，写的小项目（目前还没有）<br>啥的<br>感觉还有点想写的，但目前先摆烂着，等会再装修</p>]]></content>
     
     
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>ThisBlogCanBeADiary</title>
-    <link href="https://blogxd.blog/2023/12/05/ThisBlogCanBeADiary/"/>
-    <id>https://blogxd.blog/2023/12/05/ThisBlogCanBeADiary/</id>
-    <published>2023-12-05T13:32:38.000Z</published>
-    <updated>2023-12-05T13:32:38.033Z</updated>
-    
+      
+      
+    <summary type="html">&lt;p&gt;时间直接设成9999-12-30实现手动置顶(&lt;/p&gt;
+&lt;h1&gt;进入正题&lt;/h1&gt;
+&lt;p&gt;这个&lt;a href=&quot;blogxd.blog&quot;&gt;网站&lt;/a&gt;用于记录作者的平时的想法&lt;br&gt;
+注册blogxd的域名其实本来是想写点博客，比如写写数据结构，算法啥的。&lt;br&gt;
+毕竟是打</summary>
+      
     
     
     
@@ -189,8 +187,6 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     <category term="hexo" scheme="https://blogxd.blog/categories/Bug/hexo/"/>
     
     
-    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Generate" scheme="https://blogxd.blog/tags/Generate/"/>
@@ -200,6 +196,8 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
     
     <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
+    
+    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
     
   </entry>
   
@@ -228,9 +226,9 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     <category term="Python" scheme="https://blogxd.blog/categories/AI/Python/"/>
     
     
-    <category term="AI" scheme="https://blogxd.blog/tags/AI/"/>
-    
     <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
+    
+    <category term="AI" scheme="https://blogxd.blog/tags/AI/"/>
     
     <category term="Python" scheme="https://blogxd.blog/tags/Python/"/>
     
@@ -261,11 +259,11 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     <category term="Hexo" scheme="https://blogxd.blog/categories/Problem/Note/Hexo/"/>
     
     
-    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
+    
+    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
     
   </entry>
   
@@ -304,31 +302,6 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
   </entry>
   
   <entry>
-    <title>测试用页面</title>
-    <link href="https://blogxd.blog/1970/01/01/Uncomplete/"/>
-    <id>https://blogxd.blog/1970/01/01/Uncomplete/</id>
-    <published>1969-12-31T16:00:00.000Z</published>
-    <updated>2023-02-26T14:18:57.426Z</updated>
-    
-    <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1&gt;这里什么都没有&lt;/h1&gt;
-</summary>
-      
-    
-    
-    
-    <category term="None" scheme="https://blogxd.blog/categories/None/"/>
-    
-    
-    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="https://blogxd.blog/1970/01/01/hello-world/"/>
     <id>https://blogxd.blog/1970/01/01/hello-world/</id>
@@ -352,6 +325,31 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     
     
     <category term="HelloWorld" scheme="https://blogxd.blog/tags/HelloWorld/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试用页面</title>
+    <link href="https://blogxd.blog/1970/01/01/Uncomplete/"/>
+    <id>https://blogxd.blog/1970/01/01/Uncomplete/</id>
+    <published>1969-12-31T16:00:00.000Z</published>
+    <updated>2023-02-26T14:18:57.426Z</updated>
+    
+    <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;这里什么都没有&lt;/h1&gt;
+</summary>
+      
+    
+    
+    
+    <category term="None" scheme="https://blogxd.blog/categories/None/"/>
+    
+    
+    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   

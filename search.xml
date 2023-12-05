@@ -4,24 +4,11 @@
   
     
     <entry>
-      <title>UP-NotOnlyABlog</title>
-      <link href="/2023/12/05/UP-NotOnlyABlog/"/>
-      <url>/2023/12/05/UP-NotOnlyABlog/</url>
+      <title>置顶-网页介绍</title>
+      <link href="/9999/12/30/UP-NotOnlyABlog/"/>
+      <url>/9999/12/30/UP-NotOnlyABlog/</url>
       
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>ThisBlogCanBeADiary</title>
-      <link href="/2023/12/05/ThisBlogCanBeADiary/"/>
-      <url>/2023/12/05/ThisBlogCanBeADiary/</url>
-      
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>时间直接设成9999-12-30实现手动置顶(</p><h1>进入正题</h1><p>这个<a href="blogxd.blog">网站</a>用于记录作者的平时的想法<br>注册blogxd的域名其实本来是想写点博客，比如写写数据结构，算法啥的。<br>毕竟是打信竞的，但太摆烂自己也没脸写一堆，网站也跟着不务正业了起来(<br>所以这个网站目前是写各种东西，可能有广义点的日记，写的小项目（目前还没有）<br>啥的<br>感觉还有点想写的，但目前先摆烂着，等会再装修</p>]]></content>
       
       
       
@@ -160,8 +147,6 @@
       
         <tags>
             
-            <tag> Problem </tag>
-            
             <tag> Hexo </tag>
             
             <tag> Generate </tag>
@@ -171,6 +156,8 @@
             <tag> Server </tag>
             
             <tag> Error </tag>
+            
+            <tag> Problem </tag>
             
         </tags>
       
@@ -197,9 +184,9 @@
       
         <tags>
             
-            <tag> AI </tag>
-            
             <tag> Problem </tag>
+            
+            <tag> AI </tag>
             
             <tag> Python </tag>
             
@@ -230,11 +217,11 @@
       
         <tags>
             
-            <tag> Problem </tag>
-            
             <tag> Hexo </tag>
             
             <tag> Error </tag>
+            
+            <tag> Problem </tag>
             
         </tags>
       
@@ -276,31 +263,6 @@
     
     
     <entry>
-      <title>测试用页面</title>
-      <link href="/1970/01/01/Uncomplete/"/>
-      <url>/1970/01/01/Uncomplete/</url>
-      
-        <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
-      
-      
-      <categories>
-          
-          <category> None </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Test </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="/1970/01/01/hello-world/"/>
       <url>/1970/01/01/hello-world/</url>
@@ -318,6 +280,31 @@
         <tags>
             
             <tag> HelloWorld </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试用页面</title>
+      <link href="/1970/01/01/Uncomplete/"/>
+      <url>/1970/01/01/Uncomplete/</url>
+      
+        <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> None </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Test </tag>
             
         </tags>
       
