@@ -41,42 +41,13 @@
   </entry>
   
   <entry>
-    <title>imgBed.Try</title>
-    <link href="https://blogxd.blog/2023/12/06/Try-imgbed/"/>
-    <id>https://blogxd.blog/2023/12/06/Try-imgbed/</id>
-    <published>2023-12-06T13:03:31.000Z</published>
-    <updated>2023-12-06T13:15:50.479Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="这个格式">这个格式<a class="header-anchor" href="#这个格式">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% asset_img [img.jpg] [img] %&#125;</span><br></pre></td></tr></table></figure><h2 id="这个格式-v2">这个格式<a class="header-anchor" href="#这个格式-v2">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![](img.jpg)</span><br></pre></td></tr></table></figure><p><div class="img-item" data-src="eshttcg.jpg" data-sub-html=".caption"><img src="eshttcg.jpg" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;这个格式&quot;&gt;这个格式&lt;a class=&quot;header-anchor&quot; href=&quot;#这个格式&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;spa</summary>
-      
-    
-    
-    
-    <category term="Hexo" scheme="https://blogxd.blog/categories/Hexo/"/>
-    
-    <category term="Test" scheme="https://blogxd.blog/categories/Hexo/Test/"/>
-    
-    
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
-    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
-    
-  </entry>
-  
-  <entry>
     <title>喜报-可以添加图片了</title>
     <link href="https://blogxd.blog/2023/12/06/GoodNews-NoMoreBed/"/>
     <id>https://blogxd.blog/2023/12/06/GoodNews-NoMoreBed/</id>
     <published>2023-12-06T12:47:32.000Z</published>
-    <updated>2023-12-06T13:08:35.502Z</updated>
+    <updated>2023-12-06T13:23:27.956Z</updated>
     
-    <content type="html"><![CDATA[<p>就是这样<br>目前把config改了<br>等下继续跟进</p><h2 id="跟进1">跟进1<a class="header-anchor" href="#跟进1">#</a></h2><p>坏掉了<br>说是在_posts文件夹下会生成一个新的<br>但没有<br>先hexo g+d试试</p><h2 id="跟进2">跟进2<a class="header-anchor" href="#跟进2">#</a></h2><p>hexo会在给新hexo new的文件生成同名文件夹用以添加图片<br>格式是</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% asset_img [imgName] [imgTitle] %&#125;</span><br></pre></td></tr></table></figure><p>已添加测试图片插入用页面-imgBed.Try<br>看看能不能用</p>]]></content>
+    <content type="html"><![CDATA[<p>就是这样<br>目前把config改了<br>等下继续跟进</p><h2 id="跟进1">跟进1<a class="header-anchor" href="#跟进1">#</a></h2><p>坏掉了<br>说是在_posts文件夹下会生成一个新的<br>但没有<br>先hexo g+d试试</p><h2 id="跟进2">跟进2<a class="header-anchor" href="#跟进2">#</a></h2><p>hexo会在给新hexo new的文件生成同名文件夹用以添加图片<br>格式是</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![](img.jpg)</span><br></pre></td></tr></table></figure><p>已添加测试图片插入用页面-imgBed.Try<br>看看能不能用<br>能用</p><h2 id="跟进3">跟进3<a class="header-anchor" href="#跟进3">#</a></h2><p>测试下给已有文章建立文件夹是否能添加图片，应该是可以的<br><div class="img-item" data-src="Black.jpg" data-sub-html=".caption"><img src="Black.jpg" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div><br>看得到一片黑说明没问题</p>]]></content>
     
     
       
@@ -153,9 +124,9 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     <category term="Blog" scheme="https://blogxd.blog/categories/Blog/"/>
     
     
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
     <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
     
@@ -250,6 +221,8 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     <category term="Hexo" scheme="https://blogxd.blog/categories/Bug/Hexo/"/>
     
     
+    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
+    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Generate" scheme="https://blogxd.blog/tags/Generate/"/>
@@ -259,8 +232,6 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
     
     <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
-    
-    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
     
   </entry>
   
@@ -289,9 +260,9 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     <category term="Python" scheme="https://blogxd.blog/categories/AI/Python/"/>
     
     
-    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
-    
     <category term="AI" scheme="https://blogxd.blog/tags/AI/"/>
+    
+    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
     
     <category term="Python" scheme="https://blogxd.blog/tags/Python/"/>
     
@@ -322,11 +293,11 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     <category term="Hexo" scheme="https://blogxd.blog/categories/Problem/Note/Hexo/"/>
     
     
+    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
+    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
-    
-    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
     
   </entry>
   
@@ -361,6 +332,35 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
     
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>imgBed.Try</title>
+    <link href="https://blogxd.blog/1970/01/02/Try-imgbed/"/>
+    <id>https://blogxd.blog/1970/01/02/Try-imgbed/</id>
+    <published>1970-01-02T14:22:22.000Z</published>
+    <updated>2023-12-06T13:24:09.766Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="这个格式">这个格式<a class="header-anchor" href="#这个格式">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% asset_img [img.jpg] [img] %&#125;</span><br></pre></td></tr></table></figure><h2 id="这个格式-v2">这个格式<a class="header-anchor" href="#这个格式-v2">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![](img.jpg)</span><br></pre></td></tr></table></figure><p><div class="img-item" data-src="eshttc.jpg" data-sub-html=".caption"><img src="eshttc.jpg" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;这个格式&quot;&gt;这个格式&lt;a class=&quot;header-anchor&quot; href=&quot;#这个格式&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;spa</summary>
+      
+    
+    
+    
+    <category term="Hexo" scheme="https://blogxd.blog/categories/Hexo/"/>
+    
+    <category term="Test" scheme="https://blogxd.blog/categories/Hexo/Test/"/>
+    
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   

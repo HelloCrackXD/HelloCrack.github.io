@@ -17,40 +17,11 @@
     
     
     <entry>
-      <title>imgBed.Try</title>
-      <link href="/2023/12/06/Try-imgbed/"/>
-      <url>/2023/12/06/Try-imgbed/</url>
-      
-        <content type="html"><![CDATA[<h2 id="这个格式">这个格式<a class="header-anchor" href="#这个格式">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% asset_img [img.jpg] [img] %&#125;</span><br></pre></td></tr></table></figure><h2 id="这个格式-v2">这个格式<a class="header-anchor" href="#这个格式-v2">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![](img.jpg)</span><br></pre></td></tr></table></figure><p><div class="img-item" data-src="eshttcg.jpg" data-sub-html=".caption"><img src="eshttcg.jpg" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Hexo </category>
-          
-          <category> Test </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Hexo </tag>
-            
-            <tag> Test </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>喜报-可以添加图片了</title>
       <link href="/2023/12/06/GoodNews-NoMoreBed/"/>
       <url>/2023/12/06/GoodNews-NoMoreBed/</url>
       
-        <content type="html"><![CDATA[<p>就是这样<br>目前把config改了<br>等下继续跟进</p><h2 id="跟进1">跟进1<a class="header-anchor" href="#跟进1">#</a></h2><p>坏掉了<br>说是在_posts文件夹下会生成一个新的<br>但没有<br>先hexo g+d试试</p><h2 id="跟进2">跟进2<a class="header-anchor" href="#跟进2">#</a></h2><p>hexo会在给新hexo new的文件生成同名文件夹用以添加图片<br>格式是</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% asset_img [imgName] [imgTitle] %&#125;</span><br></pre></td></tr></table></figure><p>已添加测试图片插入用页面-imgBed.Try<br>看看能不能用</p>]]></content>
+        <content type="html"><![CDATA[<p>就是这样<br>目前把config改了<br>等下继续跟进</p><h2 id="跟进1">跟进1<a class="header-anchor" href="#跟进1">#</a></h2><p>坏掉了<br>说是在_posts文件夹下会生成一个新的<br>但没有<br>先hexo g+d试试</p><h2 id="跟进2">跟进2<a class="header-anchor" href="#跟进2">#</a></h2><p>hexo会在给新hexo new的文件生成同名文件夹用以添加图片<br>格式是</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![](img.jpg)</span><br></pre></td></tr></table></figure><p>已添加测试图片插入用页面-imgBed.Try<br>看看能不能用<br>能用</p><h2 id="跟进3">跟进3<a class="header-anchor" href="#跟进3">#</a></h2><p>测试下给已有文章建立文件夹是否能添加图片，应该是可以的<br><div class="img-item" data-src="Black.jpg" data-sub-html=".caption"><img src="Black.jpg" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div><br>看得到一片黑说明没问题</p>]]></content>
       
       
       <categories>
@@ -116,9 +87,9 @@
       
         <tags>
             
-            <tag> Hexo </tag>
-            
             <tag> Blog </tag>
+            
+            <tag> Hexo </tag>
             
             <tag> Deploy </tag>
             
@@ -205,6 +176,8 @@
       
         <tags>
             
+            <tag> Problem </tag>
+            
             <tag> Hexo </tag>
             
             <tag> Generate </tag>
@@ -214,8 +187,6 @@
             <tag> Server </tag>
             
             <tag> Error </tag>
-            
-            <tag> Problem </tag>
             
         </tags>
       
@@ -242,9 +213,9 @@
       
         <tags>
             
-            <tag> Problem </tag>
-            
             <tag> AI </tag>
+            
+            <tag> Problem </tag>
             
             <tag> Python </tag>
             
@@ -275,11 +246,11 @@
       
         <tags>
             
+            <tag> Problem </tag>
+            
             <tag> Hexo </tag>
             
             <tag> Error </tag>
-            
-            <tag> Problem </tag>
             
         </tags>
       
@@ -313,6 +284,35 @@
             <tag> Server </tag>
             
             <tag> Deploy </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>imgBed.Try</title>
+      <link href="/1970/01/02/Try-imgbed/"/>
+      <url>/1970/01/02/Try-imgbed/</url>
+      
+        <content type="html"><![CDATA[<h2 id="这个格式">这个格式<a class="header-anchor" href="#这个格式">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% asset_img [img.jpg] [img] %&#125;</span><br></pre></td></tr></table></figure><h2 id="这个格式-v2">这个格式<a class="header-anchor" href="#这个格式-v2">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![](img.jpg)</span><br></pre></td></tr></table></figure><p><div class="img-item" data-src="eshttc.jpg" data-sub-html=".caption"><img src="eshttc.jpg" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+          <category> Test </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Test </tag>
             
         </tags>
       
