@@ -17,6 +17,35 @@
     
     
     <entry>
+      <title>喜报-可以添加图片了</title>
+      <link href="/2023/12/06/GoodNews-NoMoreBed/"/>
+      <url>/2023/12/06/GoodNews-NoMoreBed/</url>
+      
+        <content type="html"><![CDATA[<p>就是这样<br>目前把config改了<br>等下继续跟进</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Note </category>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Note </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>不能摆烂了!</title>
       <link href="/2023/12/04/CantPutOff/"/>
       <url>/2023/12/04/CantPutOff/</url>
@@ -58,9 +87,9 @@
       
         <tags>
             
-            <tag> Blog </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Blog </tag>
             
             <tag> Deploy </tag>
             
@@ -140,7 +169,7 @@
           
           <category> Bug </category>
           
-          <category> hexo </category>
+          <category> Hexo </category>
           
       </categories>
       
@@ -263,31 +292,6 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/1970/01/01/hello-world/"/>
-      <url>/1970/01/01/hello-world/</url>
-      
-        <content type="html"><![CDATA[<h1>Welcome to There</h1><p><a href="https://github.com/HelloCrackXD">Github</a><br>你可以在 <code>ItsCrackXD@outlook.com</code> 联系我<br>:D</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> None </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> HelloWorld </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>测试用页面</title>
       <link href="/1970/01/01/Uncomplete/"/>
       <url>/1970/01/01/Uncomplete/</url>
@@ -305,6 +309,31 @@
         <tags>
             
             <tag> Test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/1970/01/01/hello-world/"/>
+      <url>/1970/01/01/hello-world/</url>
+      
+        <content type="html"><![CDATA[<h1>Welcome to There</h1><p><a href="https://github.com/HelloCrackXD">Github</a><br>你可以在 <code>ItsCrackXD@outlook.com</code> 联系我<br>:D</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> None </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HelloWorld </tag>
             
         </tags>
       

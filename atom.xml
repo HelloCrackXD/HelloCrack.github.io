@@ -41,6 +41,37 @@
   </entry>
   
   <entry>
+    <title>喜报-可以添加图片了</title>
+    <link href="https://blogxd.blog/2023/12/06/GoodNews-NoMoreBed/"/>
+    <id>https://blogxd.blog/2023/12/06/GoodNews-NoMoreBed/</id>
+    <published>2023-12-06T12:47:32.000Z</published>
+    <updated>2023-12-06T12:55:32.962Z</updated>
+    
+    <content type="html"><![CDATA[<p>就是这样<br>目前把config改了<br>等下继续跟进</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;就是这样&lt;br&gt;
+目前把config改了&lt;br&gt;
+等下继续跟进&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Note" scheme="https://blogxd.blog/categories/Note/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/categories/Note/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+    <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
+    
+  </entry>
+  
+  <entry>
     <title>不能摆烂了!</title>
     <link href="https://blogxd.blog/2023/12/04/CantPutOff/"/>
     <id>https://blogxd.blog/2023/12/04/CantPutOff/</id>
@@ -90,9 +121,9 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     <category term="Blog" scheme="https://blogxd.blog/categories/Blog/"/>
     
     
-    <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+    <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
     
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
     
@@ -167,7 +198,7 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     <link href="https://blogxd.blog/2023/11/19/Bug/"/>
     <id>https://blogxd.blog/2023/11/19/Bug/</id>
     <published>2023-11-19T02:14:21.000Z</published>
-    <updated>2023-11-21T15:03:51.247Z</updated>
+    <updated>2023-12-06T12:53:21.307Z</updated>
     
     <content type="html"><![CDATA[<h1>网站的Bug统计</h1><h2 id="未解决：">未解决：<a class="header-anchor" href="#未解决：">#</a></h2><p>字体有问题，猜测在theme\clean\layout里<br>置顶效果有问题，准备找个插件试试(一定程度上解决)<br>文章放不了图片，等我搞个图床<br>存档界面会显示好几个Hexo之类的<br>标签界面分不开，只有2023和ALL两个选项</p><h2 id="已解决：">已解决：<a class="header-anchor" href="#已解决：">#</a></h2><p>搜索有问题<br>–搜索结果很混乱，但总之能用了，可能可以优化(?)<br>通过更改文章时间实现置顶</p><h2 id="作者不更新的Bug是解决不了的">作者不更新的Bug是解决不了的<a class="header-anchor" href="#作者不更新的Bug是解决不了的">#</a></h2>]]></content>
     
@@ -184,7 +215,7 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     
     <category term="Bug" scheme="https://blogxd.blog/categories/Bug/"/>
     
-    <category term="hexo" scheme="https://blogxd.blog/categories/Bug/hexo/"/>
+    <category term="Hexo" scheme="https://blogxd.blog/categories/Bug/Hexo/"/>
     
     
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
@@ -272,7 +303,7 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     <link href="https://blogxd.blog/2023/02/26/HowToUseHexo/"/>
     <id>https://blogxd.blog/2023/02/26/HowToUseHexo/</id>
     <published>2023-02-26T14:36:00.000Z</published>
-    <updated>2023-11-19T02:07:15.039Z</updated>
+    <updated>2023-12-06T12:53:22.607Z</updated>
     
     <content type="html"><![CDATA[<h1>Hexo Command</h1><p>三件套</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo cl</span><br><span class="line">$ hexo g</span><br><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><h2 id="hexo-cl">$ hexo cl<a class="header-anchor" href="#hexo-cl">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo cl</span><br></pre></td></tr></table></figure><p>git命令行内执行，清理缓存文件</p><h2 id="hexo-generate">$ hexo generate<a class="header-anchor" href="#hexo-generate">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure><p>生成静态文件用于部署</p><h2 id="hexo-deploy">$ hexo deploy<a class="header-anchor" href="#hexo-deploy">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><p>部署网站</p><h2 id="启动本地服务器-hexo-server">启动本地服务器 $ hexo server<a class="header-anchor" href="#启动本地服务器-hexo-server">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure><p>本地部署<br>登录 <code>http://localhost:4000/</code> 查看</p>]]></content>
     
@@ -302,6 +333,31 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
   </entry>
   
   <entry>
+    <title>测试用页面</title>
+    <link href="https://blogxd.blog/1970/01/01/Uncomplete/"/>
+    <id>https://blogxd.blog/1970/01/01/Uncomplete/</id>
+    <published>1969-12-31T16:00:00.000Z</published>
+    <updated>2023-02-26T14:18:57.426Z</updated>
+    
+    <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;这里什么都没有&lt;/h1&gt;
+</summary>
+      
+    
+    
+    
+    <category term="None" scheme="https://blogxd.blog/categories/None/"/>
+    
+    
+    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://blogxd.blog/1970/01/01/hello-world/"/>
     <id>https://blogxd.blog/1970/01/01/hello-world/</id>
@@ -325,31 +381,6 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     
     
     <category term="HelloWorld" scheme="https://blogxd.blog/tags/HelloWorld/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试用页面</title>
-    <link href="https://blogxd.blog/1970/01/01/Uncomplete/"/>
-    <id>https://blogxd.blog/1970/01/01/Uncomplete/</id>
-    <published>1969-12-31T16:00:00.000Z</published>
-    <updated>2023-02-26T14:18:57.426Z</updated>
-    
-    <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1&gt;这里什么都没有&lt;/h1&gt;
-</summary>
-      
-    
-    
-    
-    <category term="None" scheme="https://blogxd.blog/categories/None/"/>
-    
-    
-    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   
