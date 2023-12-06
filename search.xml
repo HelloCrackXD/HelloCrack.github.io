@@ -135,7 +135,7 @@
       <link href="/2023/11/19/FutureUpdate/"/>
       <url>/2023/11/19/FutureUpdate/</url>
       
-        <content type="html"><![CDATA[<h1>准备的更新</h1><h2 id="网页">网页<a class="header-anchor" href="#网页">#</a></h2><p>加入置顶功能(解决了一部分)<br>修一下存档页面会有多个同一单词的问题<br>尝试修复字体问题<br>增加markdown的更多功能<br>增加一些文字样式<br>给置顶研究个新标志/样式</p><h2 id="文章">文章<a class="header-anchor" href="#文章">#</a></h2><p>记录下加装内存/硬盘<br>记录下编程类游戏日记<br>研究下so-vit-svc怎么使用<br>研究下stable-diffusion更多功能<br>把作者的自我介绍改一下</p>]]></content>
+        <content type="html"><![CDATA[<h1>准备的更新</h1><h2 id="网页">网页<a class="header-anchor" href="#网页">#</a></h2><p>加入置顶功能(解决了一部分)<br>修一下存档页面会有多个同一单词的问题<br>尝试修复字体问题<br>增加markdown的更多功能<br>–图片插入功能已添加<br>–下一步是数学公式功能<br>增加一些文字样式<br>给置顶研究个新标志/样式</p><h2 id="文章">文章<a class="header-anchor" href="#文章">#</a></h2><p>记录下加装内存/硬盘<br>记录下编程类游戏日记<br>研究下so-vit-svc怎么使用<br>研究下stable-diffusion更多功能<br>把作者的自我介绍改一下</p>]]></content>
       
       
       <categories>
@@ -176,6 +176,8 @@
       
         <tags>
             
+            <tag> Problem </tag>
+            
             <tag> Hexo </tag>
             
             <tag> Generate </tag>
@@ -185,8 +187,6 @@
             <tag> Server </tag>
             
             <tag> Error </tag>
-            
-            <tag> Problem </tag>
             
         </tags>
       
@@ -213,9 +213,9 @@
       
         <tags>
             
-            <tag> Problem </tag>
-            
             <tag> AI </tag>
+            
+            <tag> Problem </tag>
             
             <tag> Python </tag>
             
@@ -246,11 +246,11 @@
       
         <tags>
             
+            <tag> Problem </tag>
+            
             <tag> Hexo </tag>
             
             <tag> Error </tag>
-            
-            <tag> Problem </tag>
             
         </tags>
       
@@ -321,31 +321,6 @@
     
     
     <entry>
-      <title>测试用页面</title>
-      <link href="/1970/01/01/Uncomplete/"/>
-      <url>/1970/01/01/Uncomplete/</url>
-      
-        <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
-      
-      
-      <categories>
-          
-          <category> None </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Test </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="/1970/01/01/hello-world/"/>
       <url>/1970/01/01/hello-world/</url>
@@ -363,6 +338,31 @@
         <tags>
             
             <tag> HelloWorld </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试用页面</title>
+      <link href="/1970/01/01/Uncomplete/"/>
+      <url>/1970/01/01/Uncomplete/</url>
+      
+        <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> None </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Test </tag>
             
         </tags>
       
