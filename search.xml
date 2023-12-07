@@ -8,7 +8,7 @@
       <link href="/9999/12/30/UP-NotOnlyABlog/"/>
       <url>/9999/12/30/UP-NotOnlyABlog/</url>
       
-        <content type="html"><![CDATA[<p>时间直接设成9999-12-30实现手动置顶(</p><h1>进入正题</h1><p>这个<a href="blogxd.blog">网站</a>用于记录作者的平时的想法<br>注册blogxd的域名其实本来是想写点博客，比如写写数据结构，算法啥的。<br>毕竟是打信竞的，但太摆烂自己也没脸写一堆，网站也跟着不务正业了起来(<br>所以这个网站目前是写各种东西，可能有广义点的日记，写的小项目（目前还没有）<br>啥的<br>感觉还有点想写的，但目前先摆烂着，等会再装修</p>]]></content>
+        <content type="html"><![CDATA[<p>时间直接设成9999-12-30实现手动置顶(</p><h1>进入正题</h1><p>这个<a href="/">网站</a>用于记录作者的平时的想法<br>注册blogxd的域名其实本来是想写点博客，比如写写数据结构，算法啥的。<br>毕竟是打信竞的，但太摆烂自己也没脸写一堆，网站也跟着不务正业了起来(<br>所以这个网站目前是写各种东西，可能有广义点的日记，写的小项目（目前还没有）<br>啥的<br>感觉还有点想写的，但目前先摆烂着，等会再装修</p><h2 id="页面">页面<a class="header-anchor" href="#页面">#</a></h2><p>测试页面全在最下面，均为1970<br>置顶目前是这条，时间9999，以后大概也是，不过会更新的<br>还有 备注- 页面，跟正常页面放一起了，以后可能会考虑不显示（？）</p>]]></content>
       
       
       
@@ -35,9 +35,9 @@
       
         <tags>
             
-            <tag> Note </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Note </tag>
             
         </tags>
       
@@ -87,9 +87,9 @@
       
         <tags>
             
-            <tag> Hexo </tag>
-            
             <tag> Blog </tag>
+            
+            <tag> Hexo </tag>
             
             <tag> Deploy </tag>
             
@@ -147,9 +147,9 @@
       
         <tags>
             
-            <tag> Test </tag>
-            
             <tag> Note </tag>
+            
+            <tag> Test </tag>
             
         </tags>
       
@@ -158,7 +158,7 @@
     
     
     <entry>
-      <title>(备注)网页的Bug</title>
+      <title>备注-网页的Bug</title>
       <link href="/2023/11/19/Bug/"/>
       <url>/2023/11/19/Bug/</url>
       
@@ -259,7 +259,7 @@
     
     
     <entry>
-      <title>(备注)Hexo 部署命令</title>
+      <title>备注-Hexo 部署命令</title>
       <link href="/2023/02/26/HowToUseHexo/"/>
       <url>/2023/02/26/HowToUseHexo/</url>
       
@@ -310,9 +310,9 @@
       
         <tags>
             
-            <tag> Test </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Test </tag>
             
         </tags>
       

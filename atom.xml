@@ -6,7 +6,7 @@
   <link href="https://blogxd.blog/atom.xml" rel="self"/>
   
   <link href="https://blogxd.blog/"/>
-  <updated>2023-12-05T13:49:27.441Z</updated>
+  <updated>2023-12-07T05:36:48.389Z</updated>
   <id>https://blogxd.blog/</id>
   
   <author>
@@ -21,18 +21,18 @@
     <link href="https://blogxd.blog/9999/12/30/UP-NotOnlyABlog/"/>
     <id>https://blogxd.blog/9999/12/30/UP-NotOnlyABlog/</id>
     <published>9999-12-30T14:22:22.000Z</published>
-    <updated>2023-12-05T13:49:27.441Z</updated>
+    <updated>2023-12-07T05:36:48.389Z</updated>
     
-    <content type="html"><![CDATA[<p>时间直接设成9999-12-30实现手动置顶(</p><h1>进入正题</h1><p>这个<a href="blogxd.blog">网站</a>用于记录作者的平时的想法<br>注册blogxd的域名其实本来是想写点博客，比如写写数据结构，算法啥的。<br>毕竟是打信竞的，但太摆烂自己也没脸写一堆，网站也跟着不务正业了起来(<br>所以这个网站目前是写各种东西，可能有广义点的日记，写的小项目（目前还没有）<br>啥的<br>感觉还有点想写的，但目前先摆烂着，等会再装修</p>]]></content>
+    <content type="html"><![CDATA[<p>时间直接设成9999-12-30实现手动置顶(</p><h1>进入正题</h1><p>这个<a href="/">网站</a>用于记录作者的平时的想法<br>注册blogxd的域名其实本来是想写点博客，比如写写数据结构，算法啥的。<br>毕竟是打信竞的，但太摆烂自己也没脸写一堆，网站也跟着不务正业了起来(<br>所以这个网站目前是写各种东西，可能有广义点的日记，写的小项目（目前还没有）<br>啥的<br>感觉还有点想写的，但目前先摆烂着，等会再装修</p><h2 id="页面">页面<a class="header-anchor" href="#页面">#</a></h2><p>测试页面全在最下面，均为1970<br>置顶目前是这条，时间9999，以后大概也是，不过会更新的<br>还有 备注- 页面，跟正常页面放一起了，以后可能会考虑不显示（？）</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;时间直接设成9999-12-30实现手动置顶(&lt;/p&gt;
 &lt;h1&gt;进入正题&lt;/h1&gt;
-&lt;p&gt;这个&lt;a href=&quot;blogxd.blog&quot;&gt;网站&lt;/a&gt;用于记录作者的平时的想法&lt;br&gt;
+&lt;p&gt;这个&lt;a href=&quot;/&quot;&gt;网站&lt;/a&gt;用于记录作者的平时的想法&lt;br&gt;
 注册blogxd的域名其实本来是想写点博客，比如写写数据结构，算法啥的。&lt;br&gt;
-毕竟是打</summary>
+毕竟是打信竞的，但太摆烂自己</summary>
       
     
     
@@ -68,9 +68,9 @@
     <category term="Hexo" scheme="https://blogxd.blog/categories/Note/Hexo/"/>
     
     
-    <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+    <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
     
   </entry>
   
@@ -126,9 +126,9 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     <category term="Blog" scheme="https://blogxd.blog/categories/Blog/"/>
     
     
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
     <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
     
@@ -191,18 +191,18 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     <category term="Note" scheme="https://blogxd.blog/categories/Note/"/>
     
     
-    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
-    
     <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
+    
+    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   
   <entry>
-    <title>(备注)网页的Bug</title>
+    <title>备注-网页的Bug</title>
     <link href="https://blogxd.blog/2023/11/19/Bug/"/>
     <id>https://blogxd.blog/2023/11/19/Bug/</id>
     <published>2023-11-19T02:14:21.000Z</published>
-    <updated>2023-12-06T12:53:21.307Z</updated>
+    <updated>2023-12-07T05:35:55.674Z</updated>
     
     <content type="html"><![CDATA[<h1>网站的Bug统计</h1><h2 id="未解决：">未解决：<a class="header-anchor" href="#未解决：">#</a></h2><p>字体有问题，猜测在theme\clean\layout里<br>置顶效果有问题，准备找个插件试试(一定程度上解决)<br>文章放不了图片，等我搞个图床<br>存档界面会显示好几个Hexo之类的<br>标签界面分不开，只有2023和ALL两个选项</p><h2 id="已解决：">已解决：<a class="header-anchor" href="#已解决：">#</a></h2><p>搜索有问题<br>–搜索结果很混乱，但总之能用了，可能可以优化(?)<br>通过更改文章时间实现置顶</p><h2 id="作者不更新的Bug是解决不了的">作者不更新的Bug是解决不了的<a class="header-anchor" href="#作者不更新的Bug是解决不了的">#</a></h2>]]></content>
     
@@ -303,11 +303,11 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
   </entry>
   
   <entry>
-    <title>(备注)Hexo 部署命令</title>
+    <title>备注-Hexo 部署命令</title>
     <link href="https://blogxd.blog/2023/02/26/HowToUseHexo/"/>
     <id>https://blogxd.blog/2023/02/26/HowToUseHexo/</id>
     <published>2023-02-26T14:36:00.000Z</published>
-    <updated>2023-12-06T12:53:22.607Z</updated>
+    <updated>2023-12-07T05:36:08.299Z</updated>
     
     <content type="html"><![CDATA[<h1>Hexo Command</h1><p>三件套</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo cl</span><br><span class="line">$ hexo g</span><br><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><h2 id="hexo-cl">$ hexo cl<a class="header-anchor" href="#hexo-cl">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo cl</span><br></pre></td></tr></table></figure><p>git命令行内执行，清理缓存文件</p><h2 id="hexo-generate">$ hexo generate<a class="header-anchor" href="#hexo-generate">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure><p>生成静态文件用于部署</p><h2 id="hexo-deploy">$ hexo deploy<a class="header-anchor" href="#hexo-deploy">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><p>部署网站</p><h2 id="启动本地服务器-hexo-server">启动本地服务器 $ hexo server<a class="header-anchor" href="#启动本地服务器-hexo-server">#</a></h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure><p>本地部署<br>登录 <code>http://localhost:4000/</code> 查看</p>]]></content>
     
@@ -359,9 +359,9 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     <category term="Test" scheme="https://blogxd.blog/categories/Hexo/Test/"/>
     
     
-    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   
