@@ -93,9 +93,9 @@ skip_render处&lt;br&gt;
     <category term="Hexo" scheme="https://blogxd.blog/categories/Develop/Hexo/"/>
     
     
-    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
     
   </entry>
   
@@ -129,11 +129,11 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Note/Hexo/Develop/"/>
     
     
-    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
+    
+    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
     
   </entry>
   
@@ -456,6 +456,31 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
   </entry>
   
   <entry>
+    <title>测试用页面</title>
+    <link href="https://blogxd.blog/1970/01/01/Uncomplete/"/>
+    <id>https://blogxd.blog/1970/01/01/Uncomplete/</id>
+    <published>1969-12-31T16:00:00.000Z</published>
+    <updated>2023-02-26T14:18:57.426Z</updated>
+    
+    <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;这里什么都没有&lt;/h1&gt;
+</summary>
+      
+    
+    
+    
+    <category term="None" scheme="https://blogxd.blog/categories/None/"/>
+    
+    
+    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://blogxd.blog/1970/01/01/hello-world/"/>
     <id>https://blogxd.blog/1970/01/01/hello-world/</id>
@@ -479,31 +504,6 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     
     
     <category term="HelloWorld" scheme="https://blogxd.blog/tags/HelloWorld/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试用页面</title>
-    <link href="https://blogxd.blog/1970/01/01/Uncomplete/"/>
-    <id>https://blogxd.blog/1970/01/01/Uncomplete/</id>
-    <published>1969-12-31T16:00:00.000Z</published>
-    <updated>2023-02-26T14:18:57.426Z</updated>
-    
-    <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1&gt;这里什么都没有&lt;/h1&gt;
-</summary>
-      
-    
-    
-    
-    <category term="None" scheme="https://blogxd.blog/categories/None/"/>
-    
-    
-    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   
