@@ -17,6 +17,48 @@
     
     
     <entry>
+      <title></title>
+      <link href="/2023/12/08/AboutSkipRender/Wrong/"/>
+      <url>/2023/12/08/AboutSkipRender/Wrong/</url>
+      
+        <content type="html"><![CDATA[<!DOCTYPE html><html>    <head>        <meta charset="utf-8">        <title>Address of title</title>    </head>    <body>        <h1>Address of h1</h1>        <p>Address of para</p>    </body></html>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于选择性渲染设置</title>
+      <link href="/2023/12/08/AboutSkipRender/"/>
+      <url>/2023/12/08/AboutSkipRender/</url>
+      
+        <content type="html"><![CDATA[<p>选择性渲染功能</p><h2 id="开启与调试">开启与调试<a class="header-anchor" href="#开启与调试">#</a></h2><p>于_config.yml 第39行<br>skip_render处<br>后添加需跳过渲染文件位置信息，默认位于source文件夹下<br>如html文件夹用于存放可能用于引用的html文件<br>(html文件夹是我手动创建的<br>html/*意为跳过渲染html文件夹下所有文件<br>因此也需将所需html文件存放于此</p><h2 id="渲染html">渲染html<a class="header-anchor" href="#渲染html">#</a></h2><p><a href="/html/TestHtml.html">渲染</a></p><h2 id="渲染css-未测试">渲染css(未测试)<a class="header-anchor" href="#渲染css-未测试">#</a></h2><p>先空着</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Develop </category>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Develop </tag>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>喜报-可以添加图片了</title>
       <link href="/2023/12/06/GoodNews-NoMoreBed/"/>
       <url>/2023/12/06/GoodNews-NoMoreBed/</url>
@@ -30,10 +72,14 @@
           
           <category> Hexo </category>
           
+          <category> Develop </category>
+          
       </categories>
       
       
         <tags>
+            
+            <tag> Develop </tag>
             
             <tag> Hexo </tag>
             
@@ -82,14 +128,16 @@
           
           <category> Blog </category>
           
+          <category> Develop </category>
+          
       </categories>
       
       
         <tags>
             
-            <tag> Blog </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Blog </tag>
             
             <tag> Deploy </tag>
             
@@ -135,7 +183,7 @@
       <link href="/2023/11/19/FutureUpdate/"/>
       <url>/2023/11/19/FutureUpdate/</url>
       
-        <content type="html"><![CDATA[<h2 id="未完成">未完成<a class="header-anchor" href="#未完成">#</a></h2><p>修一下存档页面会有多个同一单词的问题<br>尝试修复字体问题<br>增加markdown的插入数学公式功能<br>给置顶制作个新标志/样式<br>应用新主题（正在进行）</p><h2 id="已完成">已完成<a class="header-anchor" href="#已完成">#</a></h2><p>加入置顶功能(解决了一部分)<br>添加markdown的图片插入功能</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="未完成">未完成<a class="header-anchor" href="#未完成">#</a></h2><p>修一下存档页面会有多个同一单词的问题<br>尝试修复字体问题<br>增加markdown的插入数学公式功能<br>给置顶制作个新标志/样式<br>应用新主题（正在进行）</p><h2 id="已完成">已完成<a class="header-anchor" href="#已完成">#</a></h2><p>加入置顶功能(解决了一部分)<br>添加markdown的图片插入功能<br>加入跳过渲染以实现原版html</p>]]></content>
       
       
       <categories>
@@ -292,6 +340,31 @@
     
     
     <entry>
+      <title>测试-Html页面渲染</title>
+      <link href="/1970/01/03/TestHtml/"/>
+      <url>/1970/01/03/TestHtml/</url>
+      
+        <content type="html"><![CDATA[<p><a href="/html/TestHtml">引用html页面</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Test </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>imgBed.Try</title>
       <link href="/1970/01/02/Try-imgbed/"/>
       <url>/1970/01/02/Try-imgbed/</url>
@@ -321,31 +394,6 @@
     
     
     <entry>
-      <title>测试用页面</title>
-      <link href="/1970/01/01/Uncomplete/"/>
-      <url>/1970/01/01/Uncomplete/</url>
-      
-        <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
-      
-      
-      <categories>
-          
-          <category> None </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Test </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="/1970/01/01/hello-world/"/>
       <url>/1970/01/01/hello-world/</url>
@@ -363,6 +411,31 @@
         <tags>
             
             <tag> HelloWorld </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试用页面</title>
+      <link href="/1970/01/01/Uncomplete/"/>
+      <url>/1970/01/01/Uncomplete/</url>
+      
+        <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> None </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Test </tag>
             
         </tags>
       

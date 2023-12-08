@@ -6,7 +6,7 @@
   <link href="https://blogxd.blog/atom.xml" rel="self"/>
   
   <link href="https://blogxd.blog/"/>
-  <updated>2023-12-07T05:36:48.389Z</updated>
+  <updated>2023-12-07T06:14:44.847Z</updated>
   <id>https://blogxd.blog/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blogxd.blog/9999/12/30/UP-NotOnlyABlog/"/>
     <id>https://blogxd.blog/9999/12/30/UP-NotOnlyABlog/</id>
     <published>9999-12-30T14:22:22.000Z</published>
-    <updated>2023-12-07T05:36:48.389Z</updated>
+    <updated>2023-12-07T06:14:44.847Z</updated>
     
     <content type="html"><![CDATA[<p>时间直接设成9999-12-30实现手动置顶(</p><h1>进入正题</h1><p>这个<a href="/">网站</a>用于记录作者的平时的想法<br>注册blogxd的域名其实本来是想写点博客，比如写写数据结构，算法啥的。<br>毕竟是打信竞的，但太摆烂自己也没脸写一堆，网站也跟着不务正业了起来(<br>所以这个网站目前是写各种东西，可能有广义点的日记，写的小项目（目前还没有）<br>啥的<br>感觉还有点想写的，但目前先摆烂着，等会再装修</p><h2 id="页面">页面<a class="header-anchor" href="#页面">#</a></h2><p>测试页面全在最下面，均为1970<br>置顶目前是这条，时间9999，以后大概也是，不过会更新的<br>还有 备注- 页面，跟正常页面放一起了，以后可能会考虑不显示（？）</p>]]></content>
     
@@ -41,11 +41,70 @@
   </entry>
   
   <entry>
+    <title></title>
+    <link href="https://blogxd.blog/2023/12/08/AboutSkipRender/Wrong/"/>
+    <id>https://blogxd.blog/2023/12/08/AboutSkipRender/Wrong/</id>
+    <published>2023-12-08T13:11:15.783Z</published>
+    <updated>2023-12-08T13:13:44.072Z</updated>
+    
+    <content type="html"><![CDATA[<!DOCTYPE html><html>    <head>        <meta charset="utf-8">        <title>Address of title</title>    </head>    <body>        <h1>Address of h1</h1>        <p>Address of para</p>    </body></html>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;utf-8&quot;&gt;
+        &lt;title&gt;Address of title&lt;/title&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;h1&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于选择性渲染设置</title>
+    <link href="https://blogxd.blog/2023/12/08/AboutSkipRender/"/>
+    <id>https://blogxd.blog/2023/12/08/AboutSkipRender/</id>
+    <published>2023-12-08T13:02:40.000Z</published>
+    <updated>2023-12-08T13:21:34.842Z</updated>
+    
+    <content type="html"><![CDATA[<p>选择性渲染功能</p><h2 id="开启与调试">开启与调试<a class="header-anchor" href="#开启与调试">#</a></h2><p>于_config.yml 第39行<br>skip_render处<br>后添加需跳过渲染文件位置信息，默认位于source文件夹下<br>如html文件夹用于存放可能用于引用的html文件<br>(html文件夹是我手动创建的<br>html/*意为跳过渲染html文件夹下所有文件<br>因此也需将所需html文件存放于此</p><h2 id="渲染html">渲染html<a class="header-anchor" href="#渲染html">#</a></h2><p><a href="/html/TestHtml.html">渲染</a></p><h2 id="渲染css-未测试">渲染css(未测试)<a class="header-anchor" href="#渲染css-未测试">#</a></h2><p>先空着</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;选择性渲染功能&lt;/p&gt;
+&lt;h2 id=&quot;开启与调试&quot;&gt;开启与调试&lt;a class=&quot;header-anchor&quot; href=&quot;#开启与调试&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;于_config.yml 第39行&lt;br&gt;
+skip_render处&lt;br&gt;
+后添加需跳过渲染文件位置信</summary>
+      
+    
+    
+    
+    <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/categories/Develop/Hexo/"/>
+    
+    
+    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>喜报-可以添加图片了</title>
     <link href="https://blogxd.blog/2023/12/06/GoodNews-NoMoreBed/"/>
     <id>https://blogxd.blog/2023/12/06/GoodNews-NoMoreBed/</id>
     <published>2023-12-06T12:47:32.000Z</published>
-    <updated>2023-12-06T13:23:27.956Z</updated>
+    <updated>2023-12-08T13:04:56.214Z</updated>
     
     <content type="html"><![CDATA[<p>就是这样<br>目前把config改了<br>等下继续跟进</p><h2 id="跟进1">跟进1<a class="header-anchor" href="#跟进1">#</a></h2><p>坏掉了<br>说是在_posts文件夹下会生成一个新的<br>但没有<br>先hexo g+d试试</p><h2 id="跟进2">跟进2<a class="header-anchor" href="#跟进2">#</a></h2><p>hexo会在给新hexo new的文件生成同名文件夹用以添加图片<br>格式是</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![](img.jpg)</span><br></pre></td></tr></table></figure><p>已添加测试图片插入用页面-imgBed.Try<br>看看能不能用<br>能用</p><h2 id="跟进3">跟进3<a class="header-anchor" href="#跟进3">#</a></h2><p>测试下给已有文章建立文件夹是否能添加图片，应该是可以的<br><div class="img-item" data-src="Black.jpg" data-sub-html=".caption"><img src="Black.jpg" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div><br>看得到一片黑说明没问题</p>]]></content>
     
@@ -67,6 +126,10 @@
     
     <category term="Hexo" scheme="https://blogxd.blog/categories/Note/Hexo/"/>
     
+    <category term="Develop" scheme="https://blogxd.blog/categories/Note/Hexo/Develop/"/>
+    
+    
+    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
     
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
@@ -107,7 +170,7 @@
     <link href="https://blogxd.blog/2023/12/02/NewThemeUseBlog/"/>
     <id>https://blogxd.blog/2023/12/02/NewThemeUseBlog/</id>
     <published>2023-12-02T11:39:48.000Z</published>
-    <updated>2023-12-04T15:14:41.630Z</updated>
+    <updated>2023-12-08T13:04:43.170Z</updated>
     
     <content type="html"><![CDATA[<h1>先觉得用butterfly，剩下的以后再写</h1><p>已经配置好了<br>btw<br>A=B都还没写呢这个更不急了（（</p>]]></content>
     
@@ -125,10 +188,12 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     
     <category term="Blog" scheme="https://blogxd.blog/categories/Blog/"/>
     
+    <category term="Develop" scheme="https://blogxd.blog/categories/Blog/Develop/"/>
     
-    <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
     
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+    <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
     
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
     
@@ -172,9 +237,9 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     <link href="https://blogxd.blog/2023/11/19/FutureUpdate/"/>
     <id>https://blogxd.blog/2023/11/19/FutureUpdate/</id>
     <published>2023-11-19T02:38:02.000Z</published>
-    <updated>2023-12-07T05:16:17.819Z</updated>
+    <updated>2023-12-07T06:15:55.089Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="未完成">未完成<a class="header-anchor" href="#未完成">#</a></h2><p>修一下存档页面会有多个同一单词的问题<br>尝试修复字体问题<br>增加markdown的插入数学公式功能<br>给置顶制作个新标志/样式<br>应用新主题（正在进行）</p><h2 id="已完成">已完成<a class="header-anchor" href="#已完成">#</a></h2><p>加入置顶功能(解决了一部分)<br>添加markdown的图片插入功能</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="未完成">未完成<a class="header-anchor" href="#未完成">#</a></h2><p>修一下存档页面会有多个同一单词的问题<br>尝试修复字体问题<br>增加markdown的插入数学公式功能<br>给置顶制作个新标志/样式<br>应用新主题（正在进行）</p><h2 id="已完成">已完成<a class="header-anchor" href="#已完成">#</a></h2><p>加入置顶功能(解决了一部分)<br>添加markdown的图片插入功能<br>加入跳过渲染以实现原版html</p>]]></content>
     
     
       
@@ -337,6 +402,31 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
   </entry>
   
   <entry>
+    <title>测试-Html页面渲染</title>
+    <link href="https://blogxd.blog/1970/01/03/TestHtml/"/>
+    <id>https://blogxd.blog/1970/01/03/TestHtml/</id>
+    <published>1970-01-03T14:22:22.000Z</published>
+    <updated>2023-12-08T12:58:47.683Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/html/TestHtml">引用html页面</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;/html/TestHtml&quot;&gt;引用html页面&lt;/a&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Test" scheme="https://blogxd.blog/categories/Test/"/>
+    
+    
+    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
+    
+  </entry>
+  
+  <entry>
     <title>imgBed.Try</title>
     <link href="https://blogxd.blog/1970/01/02/Try-imgbed/"/>
     <id>https://blogxd.blog/1970/01/02/Try-imgbed/</id>
@@ -366,31 +456,6 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
   </entry>
   
   <entry>
-    <title>测试用页面</title>
-    <link href="https://blogxd.blog/1970/01/01/Uncomplete/"/>
-    <id>https://blogxd.blog/1970/01/01/Uncomplete/</id>
-    <published>1969-12-31T16:00:00.000Z</published>
-    <updated>2023-02-26T14:18:57.426Z</updated>
-    
-    <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1&gt;这里什么都没有&lt;/h1&gt;
-</summary>
-      
-    
-    
-    
-    <category term="None" scheme="https://blogxd.blog/categories/None/"/>
-    
-    
-    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="https://blogxd.blog/1970/01/01/hello-world/"/>
     <id>https://blogxd.blog/1970/01/01/hello-world/</id>
@@ -414,6 +479,31 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     
     
     <category term="HelloWorld" scheme="https://blogxd.blog/tags/HelloWorld/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试用页面</title>
+    <link href="https://blogxd.blog/1970/01/01/Uncomplete/"/>
+    <id>https://blogxd.blog/1970/01/01/Uncomplete/</id>
+    <published>1969-12-31T16:00:00.000Z</published>
+    <updated>2023-02-26T14:18:57.426Z</updated>
+    
+    <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;这里什么都没有&lt;/h1&gt;
+</summary>
+      
+    
+    
+    
+    <category term="None" scheme="https://blogxd.blog/categories/None/"/>
+    
+    
+    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   
