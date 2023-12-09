@@ -16,8 +16,7 @@ skip_render处
 后添加需跳过渲染文件位置信息，默认位于source文件夹下
 如html文件夹用于存放可能用于引用的html文件
 (html文件夹是我手动创建的
-html/*意为跳过渲染html文件夹下所有文件
-因此也需将所需"/>
+html/**意为跳过渲染html文件夹下所有文件,包括子文件夹"/>
 
 
 <!--Author-->
@@ -39,8 +38,7 @@ skip_render处
 后添加需跳过渲染文件位置信息，默认位于source文件夹下
 如html文件夹用于存放可能用于引用的html文件
 (html文件夹是我手动创建的
-html/*意为跳过渲染html文件夹下所有文件
-因此也需将所需"/>
+html/**意为跳过渲染html文件夹下所有文件,包括子文件夹"/>
 
 
 <!--Open Graph Site Name-->
@@ -182,12 +180,13 @@ skip_render处<br>
 后添加需跳过渲染文件位置信息，默认位于source文件夹下<br>
 如html文件夹用于存放可能用于引用的html文件<br>
 (html文件夹是我手动创建的<br>
-html/*意为跳过渲染html文件夹下所有文件<br>
-因此也需将所需html文件存放于此</p>
+html/**意为跳过渲染html文件夹下所有文件,包括子文件夹内<br>
+因此也需将所需html文件存放于此<br>
+不可放于_posts下文章同名文件夹，也会被渲染</p>
 <h2 id="渲染html">渲染html<a class="header-anchor" href="#渲染html">#</a></h2>
-<p><a href="/html/TestHtml.html">渲染</a></p>
-<h2 id="渲染css-未测试">渲染css(未测试)<a class="header-anchor" href="#渲染css-未测试">#</a></h2>
-<p>先空着</p>
+<p><a href="/html/TestHtml/TestHtml.html">渲染</a></p>
+<h2 id="渲染css">渲染css<a class="header-anchor" href="#渲染css">#</a></h2>
+<p><a href="/html/TestHtml/TestHtml-css.html">渲染</a></p>
 
             </div>
 
@@ -200,7 +199,7 @@ html/*意为跳过渲染html文件夹下所有文件<br>
             
             
         
-            <a href="/tags/Hexo/">#Hexo</a> <a href="/tags/Develop/">#Develop</a>
+            <a href="/tags/Develop/">#Develop</a> <a href="/tags/Hexo/">#Hexo</a>
         
     </div>
 
@@ -208,7 +207,7 @@ html/*意为跳过渲染html文件夹下所有文件<br>
     <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1">
         <ul class="pagination d-block text-center">
             
-                <li class="previous page-item d-inline"><a href="/2023/12/08/AboutSkipRender/Wrong/" class="page-link float-left">&larr;  下一页</a></li>
+                <li class="previous page-item d-inline"><a href="/9999/12/30/UP-NotOnlyABlog/" class="page-link float-left">&larr;  下一页</a></li>
             
             
                 <li class="next page-item d-inline"><a href="/2023/12/06/GoodNews-NoMoreBed/" class="page-link float-right">上一页  &rarr;</a></li>

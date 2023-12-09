@@ -41,40 +41,13 @@
   </entry>
   
   <entry>
-    <title></title>
-    <link href="https://blogxd.blog/2023/12/08/AboutSkipRender/Wrong/"/>
-    <id>https://blogxd.blog/2023/12/08/AboutSkipRender/Wrong/</id>
-    <published>2023-12-08T13:11:15.783Z</published>
-    <updated>2023-12-08T13:13:44.072Z</updated>
-    
-    <content type="html"><![CDATA[<!DOCTYPE html><html>    <head>        <meta charset="utf-8">        <title>Address of title</title>    </head>    <body>        <h1>Address of h1</h1>        <p>Address of para</p>    </body></html>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-    &lt;head&gt;
-        &lt;meta charset=&quot;utf-8&quot;&gt;
-        &lt;title&gt;Address of title&lt;/title&gt;
-    &lt;/head&gt;
-    &lt;body&gt;
-        &lt;h1&gt;</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>关于选择性渲染设置</title>
     <link href="https://blogxd.blog/2023/12/08/AboutSkipRender/"/>
     <id>https://blogxd.blog/2023/12/08/AboutSkipRender/</id>
     <published>2023-12-08T13:02:40.000Z</published>
-    <updated>2023-12-08T13:21:34.842Z</updated>
+    <updated>2023-12-09T09:25:43.366Z</updated>
     
-    <content type="html"><![CDATA[<p>选择性渲染功能</p><h2 id="开启与调试">开启与调试<a class="header-anchor" href="#开启与调试">#</a></h2><p>于_config.yml 第39行<br>skip_render处<br>后添加需跳过渲染文件位置信息，默认位于source文件夹下<br>如html文件夹用于存放可能用于引用的html文件<br>(html文件夹是我手动创建的<br>html/*意为跳过渲染html文件夹下所有文件<br>因此也需将所需html文件存放于此</p><h2 id="渲染html">渲染html<a class="header-anchor" href="#渲染html">#</a></h2><p><a href="/html/TestHtml.html">渲染</a></p><h2 id="渲染css-未测试">渲染css(未测试)<a class="header-anchor" href="#渲染css-未测试">#</a></h2><p>先空着</p>]]></content>
+    <content type="html"><![CDATA[<p>选择性渲染功能</p><h2 id="开启与调试">开启与调试<a class="header-anchor" href="#开启与调试">#</a></h2><p>于_config.yml 第39行<br>skip_render处<br>后添加需跳过渲染文件位置信息，默认位于source文件夹下<br>如html文件夹用于存放可能用于引用的html文件<br>(html文件夹是我手动创建的<br>html/**意为跳过渲染html文件夹下所有文件,包括子文件夹内<br>因此也需将所需html文件存放于此<br>不可放于_posts下文章同名文件夹，也会被渲染</p><h2 id="渲染html">渲染html<a class="header-anchor" href="#渲染html">#</a></h2><p><a href="/html/TestHtml/TestHtml.html">渲染</a></p><h2 id="渲染css">渲染css<a class="header-anchor" href="#渲染css">#</a></h2><p><a href="/html/TestHtml/TestHtml-css.html">渲染</a></p>]]></content>
     
     
       
@@ -93,9 +66,9 @@ skip_render处&lt;br&gt;
     <category term="Hexo" scheme="https://blogxd.blog/categories/Develop/Hexo/"/>
     
     
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
     <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
   </entry>
   
@@ -129,11 +102,11 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Note/Hexo/Develop/"/>
     
     
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
     <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
     
     <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
   </entry>
   
@@ -191,9 +164,9 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Blog/Develop/"/>
     
     
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
     <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
     
