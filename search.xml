@@ -28,8 +28,6 @@
           
           <category> Develop </category>
           
-          <category> Hexo </category>
-          
       </categories>
       
       
@@ -55,10 +53,6 @@
       
       <categories>
           
-          <category> Note </category>
-          
-          <category> Hexo </category>
-          
           <category> Develop </category>
           
       </categories>
@@ -66,11 +60,11 @@
       
         <tags>
             
-            <tag> Note </tag>
-            
             <tag> Develop </tag>
             
             <tag> Hexo </tag>
+            
+            <tag> Note </tag>
             
         </tags>
       
@@ -113,8 +107,6 @@
       
       <categories>
           
-          <category> Blog </category>
-          
           <category> Develop </category>
           
       </categories>
@@ -122,9 +114,9 @@
       
         <tags>
             
-            <tag> Blog </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Blog </tag>
             
             <tag> Deploy </tag>
             
@@ -145,8 +137,6 @@
       <categories>
           
           <category> Game </category>
-          
-          <category> Blog </category>
           
       </categories>
       
@@ -182,9 +172,9 @@
       
         <tags>
             
-            <tag> Note </tag>
-            
             <tag> Test </tag>
+            
+            <tag> Note </tag>
             
         </tags>
       
@@ -204,16 +194,14 @@
           
           <category> Bug </category>
           
-          <category> Hexo </category>
-          
       </categories>
       
       
         <tags>
             
-            <tag> Problem </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Problem </tag>
             
             <tag> Generate </tag>
             
@@ -272,18 +260,14 @@
           
           <category> Problem </category>
           
-          <category> Note </category>
-          
-          <category> Hexo </category>
-          
       </categories>
       
       
         <tags>
             
-            <tag> Problem </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Problem </tag>
             
             <tag> Error </tag>
             
@@ -304,8 +288,6 @@
       <categories>
           
           <category> Note </category>
-          
-          <category> Hexo </category>
           
       </categories>
       
@@ -362,8 +344,6 @@
       <categories>
           
           <category> Hexo </category>
-          
-          <category> Test </category>
           
       </categories>
       
