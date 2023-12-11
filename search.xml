@@ -17,6 +17,31 @@
     
     
     <entry>
+      <title>备注-文章存档功能修好了</title>
+      <link href="/2023/12/11/Note-FixCate/"/>
+      <url>/2023/12/11/Note-FixCate/</url>
+      
+        <content type="html"><![CDATA[<p>现在存档界面不会出现多个词的问题了<br>修复方法就是每篇文章的category栏只填一个词。<br>乐</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Note </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Note </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于选择性渲染设置</title>
       <link href="/2023/12/08/AboutSkipRender/"/>
       <url>/2023/12/08/AboutSkipRender/</url>
@@ -114,9 +139,9 @@
       
         <tags>
             
-            <tag> Hexo </tag>
-            
             <tag> Blog </tag>
+            
+            <tag> Hexo </tag>
             
             <tag> Deploy </tag>
             
@@ -172,9 +197,9 @@
       
         <tags>
             
-            <tag> Test </tag>
-            
             <tag> Note </tag>
+            
+            <tag> Test </tag>
             
         </tags>
       

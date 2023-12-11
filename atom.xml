@@ -41,6 +41,33 @@
   </entry>
   
   <entry>
+    <title>备注-文章存档功能修好了</title>
+    <link href="https://blogxd.blog/2023/12/11/Note-FixCate/"/>
+    <id>https://blogxd.blog/2023/12/11/Note-FixCate/</id>
+    <published>2023-12-11T11:46:03.000Z</published>
+    <updated>2023-12-11T11:50:46.228Z</updated>
+    
+    <content type="html"><![CDATA[<p>现在存档界面不会出现多个词的问题了<br>修复方法就是每篇文章的category栏只填一个词。<br>乐</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;现在存档界面不会出现多个词的问题了&lt;br&gt;
+修复方法就是每篇文章的category栏只填一个词。&lt;br&gt;
+乐&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Note" scheme="https://blogxd.blog/categories/Note/"/>
+    
+    
+    <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
+    
+  </entry>
+  
+  <entry>
     <title>关于选择性渲染设置</title>
     <link href="https://blogxd.blog/2023/12/08/AboutSkipRender/"/>
     <id>https://blogxd.blog/2023/12/08/AboutSkipRender/</id>
@@ -156,9 +183,9 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
     <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
     
@@ -219,9 +246,9 @@ A=B都还没写呢这个更不急了（（&lt;/p&gt;
     <category term="Note" scheme="https://blogxd.blog/categories/Note/"/>
     
     
-    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
-    
     <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
+    
+    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   
