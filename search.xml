@@ -127,7 +127,7 @@
       <link href="/2023/12/02/NewThemeUseBlog/"/>
       <url>/2023/12/02/NewThemeUseBlog/</url>
       
-        <content type="html"><![CDATA[<h1>先觉得用butterfly，剩下的以后再写</h1><p>已经配置好了<br>btw<br>A=B都还没写呢这个更不急了（（</p>]]></content>
+        <content type="html"><![CDATA[<h1>先觉得用butterfly，剩下的以后再写</h1><p>已经配置好了</p><h2 id="部署进度">部署进度<a class="header-anchor" href="#部署进度">#</a></h2><p>目前只是能在config里切换，其他的什么都没做<br>下一步是更改网页的已有图片，以及尝试删除很多破坏观感的部分<br>比如tag栏，准备研究下给他删了<br>寄中寄</p>]]></content>
       
       
       <categories>
@@ -139,9 +139,9 @@
       
         <tags>
             
-            <tag> Blog </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Blog </tag>
             
             <tag> Deploy </tag>
             
