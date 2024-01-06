@@ -207,9 +207,9 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
     <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
     
@@ -270,9 +270,9 @@ skip_render处&lt;br&gt;
     <category term="Note" scheme="https://blogxd.blog/categories/Note/"/>
     
     
-    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
-    
     <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
+    
+    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   
