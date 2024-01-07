@@ -164,9 +164,9 @@
       
         <tags>
             
-            <tag> Blog </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Blog </tag>
             
             <tag> Deploy </tag>
             
@@ -210,7 +210,7 @@
       <link href="/2023/11/19/FutureUpdate/"/>
       <url>/2023/11/19/FutureUpdate/</url>
       
-        <content type="html"><![CDATA[<h2 id="未完成">未完成<a class="header-anchor" href="#未完成">#</a></h2><p>修一下存档页面会有多个同一单词的问题<br>尝试修复字体问题<br>增加markdown的插入数学公式功能<br>给置顶制作个新标志/样式<br>应用新主题（正在进行）</p><h2 id="已完成">已完成<a class="header-anchor" href="#已完成">#</a></h2><p>加入置顶功能(解决了一部分)<br>添加markdown的图片插入功能<br>加入跳过渲染以实现原版html</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="未完成">未完成<a class="header-anchor" href="#未完成">#</a></h2><p>修一下存档页面会有多个同一单词的问题<br>尝试修复字体问题<br>增加markdown的插入数学公式功能<br>给置顶制作个新标志/样式<br>应用新主题（正在进行）<br>写一个啥比的自动编写有机物名称的程序<br>重学python</p><h2 id="已完成">已完成<a class="header-anchor" href="#已完成">#</a></h2><p>加入置顶功能(解决了一部分)<br>添加markdown的图片插入功能<br>加入跳过渲染以实现原版html</p>]]></content>
       
       
       <categories>
@@ -249,9 +249,9 @@
       
         <tags>
             
-            <tag> Problem </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Problem </tag>
             
             <tag> Generate </tag>
             
@@ -315,9 +315,9 @@
       
         <tags>
             
-            <tag> Problem </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Problem </tag>
             
             <tag> Error </tag>
             
@@ -411,31 +411,6 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/1970/01/01/hello-world/"/>
-      <url>/1970/01/01/hello-world/</url>
-      
-        <content type="html"><![CDATA[<h1>Welcome to There</h1><p><a href="https://github.com/HelloCrackXD">Github</a><br>你可以在 <code>ItsCrackXD@outlook.com</code> 联系我<br>:D</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> None </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> HelloWorld </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>测试用页面</title>
       <link href="/1970/01/01/Uncomplete/"/>
       <url>/1970/01/01/Uncomplete/</url>
@@ -453,6 +428,31 @@
         <tags>
             
             <tag> Test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/1970/01/01/hello-world/"/>
+      <url>/1970/01/01/hello-world/</url>
+      
+        <content type="html"><![CDATA[<h1>Welcome to There</h1><p><a href="https://github.com/HelloCrackXD">Github</a><br>你可以在 <code>ItsCrackXD@outlook.com</code> 联系我<br>:D</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> None </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HelloWorld </tag>
             
         </tags>
       
