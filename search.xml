@@ -21,9 +21,23 @@
       <link href="/2024/01/08/ChemItemName/"/>
       <url>/2024/01/08/ChemItemName/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>没想好</p>]]></content>
       
       
+      <categories>
+          
+          <category> Code </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+            <tag> Cpp </tag>
+            
+        </tags>
       
     </entry>
     
@@ -96,9 +110,9 @@
       
         <tags>
             
-            <tag> Develop </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Develop </tag>
             
         </tags>
       
@@ -123,9 +137,9 @@
       
         <tags>
             
-            <tag> Develop </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Develop </tag>
             
             <tag> Note </tag>
             
@@ -177,9 +191,9 @@
       
         <tags>
             
-            <tag> Hexo </tag>
-            
             <tag> Blog </tag>
+            
+            <tag> Hexo </tag>
             
             <tag> Deploy </tag>
             
