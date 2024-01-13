@@ -21,7 +21,7 @@
       <link href="/2024/01/08/ChemItemName/"/>
       <url>/2024/01/08/ChemItemName/</url>
       
-        <content type="html"><![CDATA[<p>没想好</p>]]></content>
+        <content type="html"><![CDATA[<p>没想好<br>目前只想了烷烃<br>大概长这样</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">CH4  甲烷</span><br><span class="line">CH3-CH3  乙烷</span><br><span class="line">```  </span><br><span class="line">这不需要编写更多的，直接读取 C 的数量即可  </span><br><span class="line">再加上 烷 字  </span><br></pre></td></tr></table></figure><p>CH3-CH2-CHCH3-CH3<br>2-甲基丁烷</p><pre><code>带有一个甲基  由于目前强制要求主链碳之间必须写上&quot;-&quot;所以可以通过&quot;-&quot;数量+1判断主链计算出什么烷  比如上面那个主链有四个碳，n(-)=3，大概这意思  两个&quot;-&quot;中间有多个&quot;C&quot;，说明有侧链    将输出的命名前加入侧链的占位  目前仅支持烷烃所以问题不大，可以直接按碳数猜  不过如何判断支链在第几个碳上目前不知道  寄  先这样    </code></pre>]]></content>
       
       
       <categories>
@@ -110,9 +110,9 @@
       
         <tags>
             
-            <tag> Hexo </tag>
-            
             <tag> Develop </tag>
+            
+            <tag> Hexo </tag>
             
         </tags>
       
@@ -137,11 +137,11 @@
       
         <tags>
             
-            <tag> Hexo </tag>
+            <tag> Note </tag>
             
             <tag> Develop </tag>
             
-            <tag> Note </tag>
+            <tag> Hexo </tag>
             
         </tags>
       
