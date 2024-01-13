@@ -41,11 +41,11 @@
   </entry>
   
   <entry>
-    <title>ChemItemName</title>
+    <title>自动化学式命名</title>
     <link href="https://blogxd.blog/2024/01/08/ChemItemName/"/>
     <id>https://blogxd.blog/2024/01/08/ChemItemName/</id>
     <published>2024-01-08T14:52:55.000Z</published>
-    <updated>2024-01-13T12:28:32.264Z</updated>
+    <updated>2024-01-13T12:30:12.142Z</updated>
     
     <content type="html"><![CDATA[<p>没想好<br>目前只想了烷烃<br>大概长这样</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">CH4  甲烷</span><br><span class="line">CH3-CH3  乙烷</span><br><span class="line">```  </span><br><span class="line">这不需要编写更多的，直接读取 C 的数量即可  </span><br><span class="line">再加上 烷 字  </span><br></pre></td></tr></table></figure><p>CH3-CH2-CHCH3-CH3<br>2-甲基丁烷</p><pre><code>带有一个甲基  由于目前强制要求主链碳之间必须写上&quot;-&quot;所以可以通过&quot;-&quot;数量+1判断主链计算出什么烷  比如上面那个主链有四个碳，n(-)=3，大概这意思  两个&quot;-&quot;中间有多个&quot;C&quot;，说明有侧链    将输出的命名前加入侧链的占位  目前仅支持烷烃所以问题不大，可以直接按碳数猜  不过如何判断支链在第几个碳上目前不知道  寄  先这样    </code></pre>]]></content>
     
@@ -177,11 +177,11 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
-    
     <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
     
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+    <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
     
   </entry>
   
@@ -236,9 +236,9 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+    <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
     
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
     
@@ -462,6 +462,31 @@ skip_render处&lt;br&gt;
   </entry>
   
   <entry>
+    <title>测试-这里可以用中文吗</title>
+    <link href="https://blogxd.blog/1970/01/03/%E8%BF%99%E9%87%8C%E5%8F%AF%E4%BB%A5%E7%94%A8%E4%B8%AD%E6%96%87%E5%90%97/"/>
+    <id>https://blogxd.blog/1970/01/03/%E8%BF%99%E9%87%8C%E5%8F%AF%E4%BB%A5%E7%94%A8%E4%B8%AD%E6%96%87%E5%90%97/</id>
+    <published>1970-01-03T12:29:48.000Z</published>
+    <updated>2024-01-13T12:32:03.753Z</updated>
+    
+    <content type="html"><![CDATA[<p>还真能</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;还真能&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Test" scheme="https://blogxd.blog/categories/Test/"/>
+    
+    
+    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
+    
+  </entry>
+  
+  <entry>
     <title>imgBed.Try</title>
     <link href="https://blogxd.blog/1970/01/02/Try-imgbed/"/>
     <id>https://blogxd.blog/1970/01/02/Try-imgbed/</id>
@@ -483,6 +508,31 @@ skip_render处&lt;br&gt;
     
     
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试用页面</title>
+    <link href="https://blogxd.blog/1970/01/01/Uncomplete/"/>
+    <id>https://blogxd.blog/1970/01/01/Uncomplete/</id>
+    <published>1969-12-31T16:00:00.000Z</published>
+    <updated>2023-12-10T13:30:50.401Z</updated>
+    
+    <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;这里什么都没有&lt;/h1&gt;
+</summary>
+      
+    
+    
+    
+    <category term="None" scheme="https://blogxd.blog/categories/None/"/>
+    
     
     <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
@@ -512,31 +562,6 @@ skip_render处&lt;br&gt;
     
     
     <category term="HelloWorld" scheme="https://blogxd.blog/tags/HelloWorld/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试用页面</title>
-    <link href="https://blogxd.blog/1970/01/01/Uncomplete/"/>
-    <id>https://blogxd.blog/1970/01/01/Uncomplete/</id>
-    <published>1969-12-31T16:00:00.000Z</published>
-    <updated>2023-12-10T13:30:50.401Z</updated>
-    
-    <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1&gt;这里什么都没有&lt;/h1&gt;
-</summary>
-      
-    
-    
-    
-    <category term="None" scheme="https://blogxd.blog/categories/None/"/>
-    
-    
-    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   
