@@ -191,9 +191,9 @@
       
         <tags>
             
-            <tag> Blog </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Blog </tag>
             
             <tag> Deploy </tag>
             
@@ -415,7 +415,7 @@
       <link href="/1970/01/03/%E8%BF%99%E9%87%8C%E5%8F%AF%E4%BB%A5%E7%94%A8%E4%B8%AD%E6%96%87%E5%90%97/"/>
       <url>/1970/01/03/%E8%BF%99%E9%87%8C%E5%8F%AF%E4%BB%A5%E7%94%A8%E4%B8%AD%E6%96%87%E5%90%97/</url>
       
-        <content type="html"><![CDATA[<p>还真能</p>]]></content>
+        <content type="html"><![CDATA[<p>还真能<br>试一下中文名字的图片能否正常使用<br><div class="img-item" data-src="%E9%BB%91.png" data-sub-html=".caption"><img src="%E9%BB%91.png" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div><br>显示黑那就是能</p>]]></content>
       
       
       <categories>
@@ -463,31 +463,6 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/1970/01/01/hello-world/"/>
-      <url>/1970/01/01/hello-world/</url>
-      
-        <content type="html"><![CDATA[<h1>Welcome to There</h1><p><a href="https://github.com/HelloCrackXD">Github</a><br>你可以在 <code>ItsCrackXD@outlook.com</code> 联系我<br>:D</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> None </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> HelloWorld </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>测试用页面</title>
       <link href="/1970/01/01/Uncomplete/"/>
       <url>/1970/01/01/Uncomplete/</url>
@@ -505,6 +480,31 @@
         <tags>
             
             <tag> Test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/1970/01/01/hello-world/"/>
+      <url>/1970/01/01/hello-world/</url>
+      
+        <content type="html"><![CDATA[<h1>Welcome to There</h1><p><a href="https://github.com/HelloCrackXD">Github</a><br>你可以在 <code>ItsCrackXD@outlook.com</code> 联系我<br>:D</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> None </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HelloWorld </tag>
             
         </tags>
       

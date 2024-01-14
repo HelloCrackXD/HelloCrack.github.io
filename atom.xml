@@ -236,9 +236,9 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+    <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
     
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
     
@@ -466,15 +466,16 @@ skip_render处&lt;br&gt;
     <link href="https://blogxd.blog/1970/01/03/%E8%BF%99%E9%87%8C%E5%8F%AF%E4%BB%A5%E7%94%A8%E4%B8%AD%E6%96%87%E5%90%97/"/>
     <id>https://blogxd.blog/1970/01/03/%E8%BF%99%E9%87%8C%E5%8F%AF%E4%BB%A5%E7%94%A8%E4%B8%AD%E6%96%87%E5%90%97/</id>
     <published>1970-01-03T12:29:48.000Z</published>
-    <updated>2024-01-13T12:32:03.753Z</updated>
+    <updated>2024-01-14T05:23:27.024Z</updated>
     
-    <content type="html"><![CDATA[<p>还真能</p>]]></content>
+    <content type="html"><![CDATA[<p>还真能<br>试一下中文名字的图片能否正常使用<br><div class="img-item" data-src="%E9%BB%91.png" data-sub-html=".caption"><img src="%E9%BB%91.png" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div><br>显示黑那就是能</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;还真能&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;还真能&lt;br&gt;
+试一下中文名字的图片能否正常使用&lt;br&gt;
+&lt;div class=&quot;img-item&quot; data-src=&quot;%E9%BB%91.png&quot; data-sub-html=&quot;.caption&quot;&gt;&lt;img src=&quot;%E9%BB%91.png&quot; alt=&quot;&quot;&gt;&lt;div</summary>
       
     
     
@@ -514,6 +515,31 @@ skip_render处&lt;br&gt;
   </entry>
   
   <entry>
+    <title>测试用页面</title>
+    <link href="https://blogxd.blog/1970/01/01/Uncomplete/"/>
+    <id>https://blogxd.blog/1970/01/01/Uncomplete/</id>
+    <published>1969-12-31T16:00:00.000Z</published>
+    <updated>2023-12-10T13:30:50.401Z</updated>
+    
+    <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;这里什么都没有&lt;/h1&gt;
+</summary>
+      
+    
+    
+    
+    <category term="None" scheme="https://blogxd.blog/categories/None/"/>
+    
+    
+    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://blogxd.blog/1970/01/01/hello-world/"/>
     <id>https://blogxd.blog/1970/01/01/hello-world/</id>
@@ -537,31 +563,6 @@ skip_render处&lt;br&gt;
     
     
     <category term="HelloWorld" scheme="https://blogxd.blog/tags/HelloWorld/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试用页面</title>
-    <link href="https://blogxd.blog/1970/01/01/Uncomplete/"/>
-    <id>https://blogxd.blog/1970/01/01/Uncomplete/</id>
-    <published>1969-12-31T16:00:00.000Z</published>
-    <updated>2023-12-10T13:30:50.401Z</updated>
-    
-    <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1&gt;这里什么都没有&lt;/h1&gt;
-</summary>
-      
-    
-    
-    
-    <category term="None" scheme="https://blogxd.blog/categories/None/"/>
-    
-    
-    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   
