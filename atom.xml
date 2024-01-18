@@ -177,11 +177,11 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
+    <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
+    
     <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
     
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
-    <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
     
   </entry>
   
@@ -236,9 +236,9 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
     <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
     
@@ -334,9 +334,9 @@ skip_render处&lt;br&gt;
     
     <category term="Generate" scheme="https://blogxd.blog/tags/Generate/"/>
     
-    <category term="Bug" scheme="https://blogxd.blog/tags/Bug/"/>
-    
     <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
+    
+    <category term="Bug" scheme="https://blogxd.blog/tags/Bug/"/>
     
     <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
     
@@ -430,9 +430,9 @@ skip_render处&lt;br&gt;
     
     <category term="Generate" scheme="https://blogxd.blog/tags/Generate/"/>
     
-    <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
-    
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
+    
+    <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
     
   </entry>
   
