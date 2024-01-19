@@ -41,6 +41,33 @@
   </entry>
   
   <entry>
+    <title>新的Python项目（没想好名字）</title>
+    <link href="https://blogxd.blog/2024/01/19/NewPyProgram/"/>
+    <id>https://blogxd.blog/2024/01/19/NewPyProgram/</id>
+    <published>2024-01-19T13:22:51.000Z</published>
+    <updated>2024-01-19T13:26:02.221Z</updated>
+    
+    <content type="html"><![CDATA[<h1>等我重学python就回来写</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;等我重学python就回来写&lt;/h1&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Python" scheme="https://blogxd.blog/categories/Python/"/>
+    
+    
+    <category term="Python" scheme="https://blogxd.blog/tags/Python/"/>
+    
+    <category term="Code" scheme="https://blogxd.blog/tags/Code/"/>
+    
+  </entry>
+  
+  <entry>
     <title>自动化学式命名</title>
     <link href="https://blogxd.blog/2024/01/08/ChemItemName/"/>
     <id>https://blogxd.blog/2024/01/08/ChemItemName/</id>
@@ -145,9 +172,9 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
     
   </entry>
   
@@ -177,9 +204,9 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
     
     <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
     
@@ -236,9 +263,9 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
     <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
     
@@ -299,9 +326,9 @@ skip_render处&lt;br&gt;
     <category term="Note" scheme="https://blogxd.blog/categories/Note/"/>
     
     
-    <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
-    
     <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
+    
+    <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
     
   </entry>
   

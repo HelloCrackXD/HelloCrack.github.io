@@ -17,6 +17,33 @@
     
     
     <entry>
+      <title>新的Python项目（没想好名字）</title>
+      <link href="/2024/01/19/NewPyProgram/"/>
+      <url>/2024/01/19/NewPyProgram/</url>
+      
+        <content type="html"><![CDATA[<h1>等我重学python就回来写</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+            <tag> Code </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>自动化学式命名</title>
       <link href="/2024/01/08/ChemItemName/"/>
       <url>/2024/01/08/ChemItemName/</url>
@@ -110,9 +137,9 @@
       
         <tags>
             
-            <tag> Develop </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Develop </tag>
             
         </tags>
       
@@ -137,9 +164,9 @@
       
         <tags>
             
-            <tag> Develop </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Develop </tag>
             
             <tag> Note </tag>
             
@@ -191,9 +218,9 @@
       
         <tags>
             
-            <tag> Hexo </tag>
-            
             <tag> Blog </tag>
+            
+            <tag> Hexo </tag>
             
             <tag> Deploy </tag>
             
@@ -249,9 +276,9 @@
       
         <tags>
             
-            <tag> Note </tag>
-            
             <tag> Test </tag>
+            
+            <tag> Note </tag>
             
         </tags>
       
