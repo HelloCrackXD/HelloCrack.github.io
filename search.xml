@@ -137,11 +137,11 @@
       
         <tags>
             
-            <tag> Note </tag>
-            
             <tag> Develop </tag>
             
             <tag> Hexo </tag>
+            
+            <tag> Note </tag>
             
         </tags>
       
@@ -191,9 +191,9 @@
       
         <tags>
             
-            <tag> Blog </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Blog </tag>
             
             <tag> Deploy </tag>
             
@@ -282,9 +282,9 @@
             
             <tag> Generate </tag>
             
-            <tag> Server </tag>
-            
             <tag> Bug </tag>
+            
+            <tag> Server </tag>
             
             <tag> Error </tag>
             
@@ -375,9 +375,9 @@
             
             <tag> Generate </tag>
             
-            <tag> Deploy </tag>
-            
             <tag> Server </tag>
+            
+            <tag> Deploy </tag>
             
         </tags>
       
