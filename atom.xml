@@ -204,11 +204,11 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
+    <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
+    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
-    
-    <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
     
   </entry>
   
@@ -326,9 +326,9 @@ skip_render处&lt;br&gt;
     <category term="Note" scheme="https://blogxd.blog/categories/Note/"/>
     
     
-    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
-    
     <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
+    
+    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   
