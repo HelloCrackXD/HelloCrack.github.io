@@ -17,6 +17,33 @@
     
     
     <entry>
+      <title>研究下调音</title>
+      <link href="/2024/01/21/TryUseVVoice/"/>
+      <url>/2024/01/21/TryUseVVoice/</url>
+      
+        <content type="html"><![CDATA[<p>什么学习python真不熟(</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Voice </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> Voice </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>新的Python项目（没想好名字）</title>
       <link href="/2024/01/19/NewPyProgram/"/>
       <url>/2024/01/19/NewPyProgram/</url>
@@ -137,9 +164,9 @@
       
         <tags>
             
-            <tag> Hexo </tag>
-            
             <tag> Develop </tag>
+            
+            <tag> Hexo </tag>
             
         </tags>
       
@@ -164,11 +191,11 @@
       
         <tags>
             
-            <tag> Note </tag>
+            <tag> Develop </tag>
             
             <tag> Hexo </tag>
             
-            <tag> Develop </tag>
+            <tag> Note </tag>
             
         </tags>
       
@@ -218,9 +245,9 @@
       
         <tags>
             
-            <tag> Blog </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Blog </tag>
             
             <tag> Deploy </tag>
             

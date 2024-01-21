@@ -41,6 +41,33 @@
   </entry>
   
   <entry>
+    <title>研究下调音</title>
+    <link href="https://blogxd.blog/2024/01/21/TryUseVVoice/"/>
+    <id>https://blogxd.blog/2024/01/21/TryUseVVoice/</id>
+    <published>2024-01-21T14:30:59.000Z</published>
+    <updated>2024-01-21T14:33:21.926Z</updated>
+    
+    <content type="html"><![CDATA[<p>什么学习python真不熟(</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;什么学习python真不熟(&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Voice" scheme="https://blogxd.blog/categories/Voice/"/>
+    
+    
+    <category term="AI" scheme="https://blogxd.blog/tags/AI/"/>
+    
+    <category term="Voice" scheme="https://blogxd.blog/tags/Voice/"/>
+    
+  </entry>
+  
+  <entry>
     <title>新的Python项目（没想好名字）</title>
     <link href="https://blogxd.blog/2024/01/19/NewPyProgram/"/>
     <id>https://blogxd.blog/2024/01/19/NewPyProgram/</id>
@@ -172,9 +199,9 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
     <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
   </entry>
   
@@ -204,11 +231,11 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
+    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
     
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
-    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
+    <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
     
   </entry>
   
@@ -263,9 +290,9 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+    <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
     
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
     
@@ -563,33 +590,6 @@ skip_render处&lt;br&gt;
     
     
     <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://blogxd.blog/1970/01/01/hello-world/"/>
-    <id>https://blogxd.blog/1970/01/01/hello-world/</id>
-    <published>1969-12-31T16:00:00.000Z</published>
-    <updated>2023-12-10T13:29:38.164Z</updated>
-    
-    <content type="html"><![CDATA[<h1>Welcome to There</h1><p><a href="https://github.com/HelloCrackXD">Github</a><br>你可以在 <code>ItsCrackXD@outlook.com</code> 联系我<br>:D</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1&gt;Welcome to There&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/HelloCrackXD&quot;&gt;Github&lt;/a&gt;&lt;br&gt;
-你可以在 &lt;code&gt;ItsCrackXD@outlook.com&lt;/code&gt; 联系我&lt;br&gt;
-:D&lt;/p</summary>
-      
-    
-    
-    
-    <category term="None" scheme="https://blogxd.blog/categories/None/"/>
-    
-    
-    <category term="HelloWorld" scheme="https://blogxd.blog/tags/HelloWorld/"/>
     
   </entry>
   
