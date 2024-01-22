@@ -17,6 +17,33 @@
     
     
     <entry>
+      <title>使用字符显示表情</title>
+      <link href="/2024/01/22/emojiWithChar/"/>
+      <url>/2024/01/22/emojiWithChar/</url>
+      
+        <content type="html"><![CDATA[<p>也就是用</p><pre><code>:D:(:)这样的符号</code></pre><h2 id="符号与表情对应关系">符号与表情对应关系<a class="header-anchor" href="#符号与表情对应关系">#</a></h2><p>//btw我倒是比较喜欢给每一个都填写一个TOKEN，虽然这个项目写不完但写了一点TOKEN会让我非常有代入感(</p><p>:D 非常开心 VHAPPY<br>:) 开心 HAPPY<br>要干嘛没想的很好，但总之假期内肯定要写点啥<br>先用这两个</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> emoji </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> emoji </tag>
+            
+            <tag> Char </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>研究下调音</title>
       <link href="/2024/01/21/TryUseVVoice/"/>
       <url>/2024/01/21/TryUseVVoice/</url>

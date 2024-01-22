@@ -41,6 +41,39 @@
   </entry>
   
   <entry>
+    <title>使用字符显示表情</title>
+    <link href="https://blogxd.blog/2024/01/22/emojiWithChar/"/>
+    <id>https://blogxd.blog/2024/01/22/emojiWithChar/</id>
+    <published>2024-01-22T13:30:35.000Z</published>
+    <updated>2024-01-22T13:43:31.098Z</updated>
+    
+    <content type="html"><![CDATA[<p>也就是用</p><pre><code>:D:(:)这样的符号</code></pre><h2 id="符号与表情对应关系">符号与表情对应关系<a class="header-anchor" href="#符号与表情对应关系">#</a></h2><p>//btw我倒是比较喜欢给每一个都填写一个TOKEN，虽然这个项目写不完但写了一点TOKEN会让我非常有代入感(</p><p>:D 非常开心 VHAPPY<br>:) 开心 HAPPY<br>要干嘛没想的很好，但总之假期内肯定要写点啥<br>先用这两个</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;也就是用&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;:D
+:(
+:)
+这样的符号
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;符号与表情对应关系&quot;&gt;符号与表情对应关系&lt;a class=&quot;header-anchor&quot; href=&quot;#符号与表情对应关系&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;//b</summary>
+      
+    
+    
+    
+    <category term="emoji" scheme="https://blogxd.blog/categories/emoji/"/>
+    
+    
+    <category term="emoji" scheme="https://blogxd.blog/tags/emoji/"/>
+    
+    <category term="Char" scheme="https://blogxd.blog/tags/Char/"/>
+    
+  </entry>
+  
+  <entry>
     <title>研究下调音</title>
     <link href="https://blogxd.blog/2024/01/21/TryUseVVoice/"/>
     <id>https://blogxd.blog/2024/01/21/TryUseVVoice/</id>
@@ -563,31 +596,6 @@ skip_render处&lt;br&gt;
     
     
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
-    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试用页面</title>
-    <link href="https://blogxd.blog/1970/01/01/Uncomplete/"/>
-    <id>https://blogxd.blog/1970/01/01/Uncomplete/</id>
-    <published>1969-12-31T16:00:00.000Z</published>
-    <updated>2023-12-10T13:30:50.401Z</updated>
-    
-    <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1&gt;这里什么都没有&lt;/h1&gt;
-</summary>
-      
-    
-    
-    
-    <category term="None" scheme="https://blogxd.blog/categories/None/"/>
-    
     
     <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
