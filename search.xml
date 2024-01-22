@@ -17,6 +17,31 @@
     
     
     <entry>
+      <title>继续摆烂</title>
+      <link href="/2024/01/22/CantCantDelayLOL/"/>
+      <url>/2024/01/22/CantCantDelayLOL/</url>
+      
+        <content type="html"><![CDATA[<h1>宣布12月4号那条作废</h1><p>以及这个博客越来越像日记了，不过我觉得也挺好的</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Note </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Note </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>使用字符显示表情</title>
       <link href="/2024/01/22/emojiWithChar/"/>
       <url>/2024/01/22/emojiWithChar/</url>
@@ -357,9 +382,9 @@
       
         <tags>
             
-            <tag> Problem </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Problem </tag>
             
             <tag> Generate </tag>
             
@@ -423,9 +448,9 @@
       
         <tags>
             
-            <tag> Problem </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Problem </tag>
             
             <tag> Error </tag>
             
@@ -544,31 +569,6 @@
     
     
     <entry>
-      <title>测试用页面</title>
-      <link href="/1970/01/01/Uncomplete/"/>
-      <url>/1970/01/01/Uncomplete/</url>
-      
-        <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
-      
-      
-      <categories>
-          
-          <category> None </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Test </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="/1970/01/01/hello-world/"/>
       <url>/1970/01/01/hello-world/</url>
@@ -586,6 +586,31 @@
         <tags>
             
             <tag> HelloWorld </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试用页面</title>
+      <link href="/1970/01/01/Uncomplete/"/>
+      <url>/1970/01/01/Uncomplete/</url>
+      
+        <content type="html"><![CDATA[<h1>这里什么都没有</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> None </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Test </tag>
             
         </tags>
       
