@@ -41,6 +41,38 @@
   </entry>
   
   <entry>
+    <title>显示StillAlive的程序</title>
+    <link href="https://blogxd.blog/2024/01/24/StillAlive/"/>
+    <id>https://blogxd.blog/2024/01/24/StillAlive/</id>
+    <published>2024-01-24T10:30:19.000Z</published>
+    <updated>2024-01-24T11:41:33.732Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="界面大概想长这样">界面大概想长这样<a class="header-anchor" href="#界面大概想长这样">#</a></h2><pre><code>------------------------------------------------|                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              |------------------------------------------------</code></pre><p>markdown写不下，等会写个程序了</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;界面大概想长这样&quot;&gt;界面大概想长这样&lt;a class=&quot;header-anchor&quot; href=&quot;#界面大概想长这样&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;------------------------------------------------
+|</summary>
+      
+    
+    
+    
+    <category term="Program" scheme="https://blogxd.blog/categories/Program/"/>
+    
+    
+    <category term="Python" scheme="https://blogxd.blog/tags/Python/"/>
+    
+    <category term="Cpp" scheme="https://blogxd.blog/tags/Cpp/"/>
+    
+    <category term="Code" scheme="https://blogxd.blog/tags/Code/"/>
+    
+    <category term="Program" scheme="https://blogxd.blog/tags/Program/"/>
+    
+  </entry>
+  
+  <entry>
     <title>继续摆烂</title>
     <link href="https://blogxd.blog/2024/01/22/CantCantDelayLOL/"/>
     <id>https://blogxd.blog/2024/01/22/CantCantDelayLOL/</id>
@@ -442,8 +474,6 @@ skip_render处&lt;br&gt;
     <category term="Bug" scheme="https://blogxd.blog/categories/Bug/"/>
     
     
-    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Generate" scheme="https://blogxd.blog/tags/Generate/"/>
@@ -453,6 +483,8 @@ skip_render处&lt;br&gt;
     <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
     
     <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
+    
+    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
     
   </entry>
   
@@ -481,9 +513,9 @@ skip_render处&lt;br&gt;
     <category term="Python" scheme="https://blogxd.blog/categories/AI/Python/"/>
     
     
-    <category term="AI" scheme="https://blogxd.blog/tags/AI/"/>
-    
     <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
+    
+    <category term="AI" scheme="https://blogxd.blog/tags/AI/"/>
     
     <category term="Python" scheme="https://blogxd.blog/tags/Python/"/>
     
@@ -510,11 +542,11 @@ skip_render处&lt;br&gt;
     <category term="Problem" scheme="https://blogxd.blog/categories/Problem/"/>
     
     
-    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
+    
+    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
     
   </entry>
   
@@ -564,32 +596,6 @@ skip_render处&lt;br&gt;
       
     <summary type="html">&lt;p&gt;&lt;a href=&quot;/html/TestHtml&quot;&gt;引用html页面&lt;/a&gt;&lt;/p&gt;
 </summary>
-      
-    
-    
-    
-    <category term="Test" scheme="https://blogxd.blog/categories/Test/"/>
-    
-    
-    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试-这里可以用中文吗</title>
-    <link href="https://blogxd.blog/1970/01/03/%E8%BF%99%E9%87%8C%E5%8F%AF%E4%BB%A5%E7%94%A8%E4%B8%AD%E6%96%87%E5%90%97/"/>
-    <id>https://blogxd.blog/1970/01/03/%E8%BF%99%E9%87%8C%E5%8F%AF%E4%BB%A5%E7%94%A8%E4%B8%AD%E6%96%87%E5%90%97/</id>
-    <published>1970-01-03T12:29:48.000Z</published>
-    <updated>2024-01-14T05:36:10.127Z</updated>
-    
-    <content type="html"><![CDATA[<p>还真能<br>试一下中文名字的图片能否正常使用<br><div class="img-item" data-src="%E9%BB%91.png" data-sub-html=".caption"><img src="%E9%BB%91.png" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div><br>显示黑那就是能<br>看起来能</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;还真能&lt;br&gt;
-试一下中文名字的图片能否正常使用&lt;br&gt;
-&lt;div class=&quot;img-item&quot; data-src=&quot;%E9%BB%91.png&quot; data-sub-html=&quot;.caption&quot;&gt;&lt;img src=&quot;%E9%BB%91.png&quot; alt=&quot;&quot;&gt;&lt;div</summary>
       
     
     
