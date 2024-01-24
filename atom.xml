@@ -41,6 +41,31 @@
   </entry>
   
   <entry>
+    <title>XStudio好玩</title>
+    <link href="https://blogxd.blog/2024/01/24/NiceXStudio/"/>
+    <id>https://blogxd.blog/2024/01/24/NiceXStudio/</id>
+    <published>2024-01-24T13:10:27.000Z</published>
+    <updated>2024-01-24T13:11:35.498Z</updated>
+    
+    <content type="html"><![CDATA[<p>写个XStudio使用心得，过几天研究明白了就写</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;写个XStudio使用心得，过几天研究明白了就写&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Voice" scheme="https://blogxd.blog/categories/Voice/"/>
+    
+    
+    <category term="Voice" scheme="https://blogxd.blog/tags/Voice/"/>
+    
+  </entry>
+  
+  <entry>
     <title>显示StillAlive的程序</title>
     <link href="https://blogxd.blog/2024/01/24/StillAlive/"/>
     <id>https://blogxd.blog/2024/01/24/StillAlive/</id>
@@ -128,34 +153,6 @@
     <category term="emoji" scheme="https://blogxd.blog/tags/emoji/"/>
     
     <category term="Char" scheme="https://blogxd.blog/tags/Char/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>研究下调音</title>
-    <link href="https://blogxd.blog/2024/01/21/TryUseVVoice/"/>
-    <id>https://blogxd.blog/2024/01/21/TryUseVVoice/</id>
-    <published>2024-01-21T14:30:59.000Z</published>
-    <updated>2024-01-23T13:55:25.652Z</updated>
-    
-    <content type="html"><![CDATA[<p>什么学习python真不熟(<br>大失败</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;什么学习python真不熟(&lt;br&gt;
-大失败&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="Voice" scheme="https://blogxd.blog/categories/Voice/"/>
-    
-    
-    <category term="AI" scheme="https://blogxd.blog/tags/AI/"/>
-    
-    <category term="Voice" scheme="https://blogxd.blog/tags/Voice/"/>
     
   </entry>
   
@@ -476,6 +473,8 @@ skip_render处&lt;br&gt;
     
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
+    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
+    
     <category term="Generate" scheme="https://blogxd.blog/tags/Generate/"/>
     
     <category term="Bug" scheme="https://blogxd.blog/tags/Bug/"/>
@@ -483,8 +482,6 @@ skip_render处&lt;br&gt;
     <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
     
     <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
-    
-    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
     
   </entry>
   
@@ -513,9 +510,9 @@ skip_render处&lt;br&gt;
     <category term="Python" scheme="https://blogxd.blog/categories/AI/Python/"/>
     
     
-    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
-    
     <category term="AI" scheme="https://blogxd.blog/tags/AI/"/>
+    
+    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
     
     <category term="Python" scheme="https://blogxd.blog/tags/Python/"/>
     
@@ -544,9 +541,9 @@ skip_render处&lt;br&gt;
     
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
-    <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
-    
     <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
+    
+    <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
     
   </entry>
   

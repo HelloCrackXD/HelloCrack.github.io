@@ -17,6 +17,31 @@
     
     
     <entry>
+      <title>XStudio好玩</title>
+      <link href="/2024/01/24/NiceXStudio/"/>
+      <url>/2024/01/24/NiceXStudio/</url>
+      
+        <content type="html"><![CDATA[<p>写个XStudio使用心得，过几天研究明白了就写</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Voice </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Voice </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>显示StillAlive的程序</title>
       <link href="/2024/01/24/StillAlive/"/>
       <url>/2024/01/24/StillAlive/</url>
@@ -92,33 +117,6 @@
             <tag> emoji </tag>
             
             <tag> Char </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>研究下调音</title>
-      <link href="/2024/01/21/TryUseVVoice/"/>
-      <url>/2024/01/21/TryUseVVoice/</url>
-      
-        <content type="html"><![CDATA[<p>什么学习python真不熟(<br>大失败</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Voice </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> AI </tag>
-            
-            <tag> Voice </tag>
             
         </tags>
       
@@ -415,6 +413,8 @@
             
             <tag> Hexo </tag>
             
+            <tag> Problem </tag>
+            
             <tag> Generate </tag>
             
             <tag> Bug </tag>
@@ -422,8 +422,6 @@
             <tag> Server </tag>
             
             <tag> Error </tag>
-            
-            <tag> Problem </tag>
             
         </tags>
       
@@ -450,9 +448,9 @@
       
         <tags>
             
-            <tag> Problem </tag>
-            
             <tag> AI </tag>
+            
+            <tag> Problem </tag>
             
             <tag> Python </tag>
             
@@ -481,9 +479,9 @@
             
             <tag> Hexo </tag>
             
-            <tag> Error </tag>
-            
             <tag> Problem </tag>
+            
+            <tag> Error </tag>
             
         </tags>
       
