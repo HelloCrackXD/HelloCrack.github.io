@@ -21,7 +21,7 @@
       <link href="/2024/01/27/TranslateFoEsp/"/>
       <url>/2024/01/27/TranslateFoEsp/</url>
       
-        <content type="html"><![CDATA[<p>使用程序为Fallout4Translator</p><h1>使用程序简单的翻译辐射四模组中的esp/esm文件</h1><p>这里准备有一个未翻译过的模组，名字是GruffyddsSignsAndPosters.esp<br><div class="img-item" data-src="SetDestinationLang.png" data-sub-html=".caption"><img src="SetDestinationLang.png" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div></p>]]></content>
+        <content type="html"><![CDATA[<p>使用程序为Fallout4Translator</p><h1>使用程序简单的翻译辐射四模组中的esp/esm文件</h1><p>这里准备有一个未翻译过的模组，名字是GruffyddsSignsAndPosters.esp<br>打开程序，会显示以下界面<br><div class="img-item" data-src="SetDestinationLang.png" data-sub-html=".caption"><img src="SetDestinationLang.png" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div><br>这里DestinationLanguage就是要翻译的语言，选择cn翻译为中文<br>之后在file中选择Load Esp/Esm加载mod的esp/esm文件，比如上述的GruffyddsSignsAndPosters.esp<br><div class="img-item" data-src="esp.png" data-sub-html=".caption"><img src="esp.png" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div><br>双击选择translated中的文字便可以翻译，左边Original栏是原文字，用于参考</p>]]></content>
       
       
       <categories>
@@ -50,7 +50,7 @@
       <link href="/2024/01/24/NiceXStudio/"/>
       <url>/2024/01/24/NiceXStudio/</url>
       
-        <content type="html"><![CDATA[<p>写个XStudio使用心得，过几天研究明白了就写</p>]]></content>
+        <content type="html"><![CDATA[<p>写个XStudio使用心得，过几天研究明白了就写<br>没啥可研究的，打开了就会用，不写了。</p>]]></content>
       
       
       <categories>
@@ -274,9 +274,9 @@
       
         <tags>
             
-            <tag> Develop </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Develop </tag>
             
         </tags>
       
@@ -301,9 +301,9 @@
       
         <tags>
             
-            <tag> Develop </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Develop </tag>
             
             <tag> Note </tag>
             
@@ -355,9 +355,9 @@
       
         <tags>
             
-            <tag> Hexo </tag>
-            
             <tag> Blog </tag>
+            
+            <tag> Hexo </tag>
             
             <tag> Deploy </tag>
             
