@@ -41,6 +41,37 @@
   </entry>
   
   <entry>
+    <title>翻译辐射四模组</title>
+    <link href="https://blogxd.blog/2024/01/27/TranslateFoEsp/"/>
+    <id>https://blogxd.blog/2024/01/27/TranslateFoEsp/</id>
+    <published>2024-01-27T12:25:31.000Z</published>
+    <updated>2024-01-27T12:31:51.553Z</updated>
+    
+    <content type="html"><![CDATA[<p>使用程序为Fallout4Translator</p><h1>使用程序简单的翻译辐射四模组中的esp/esm文件</h1><p>这里准备有一个未翻译过的模组，名字是GruffyddsSignsAndPosters.esp<br><div class="img-item" data-src="SetDestinationLang.png" data-sub-html=".caption"><img src="SetDestinationLang.png" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;使用程序为Fallout4Translator&lt;/p&gt;
+&lt;h1&gt;使用程序简单的翻译辐射四模组中的esp/esm文件&lt;/h1&gt;
+&lt;p&gt;这里准备有一个未翻译过的模组，名字是GruffyddsSignsAndPosters.esp&lt;br&gt;
+&lt;div class=&quot;img-item</summary>
+      
+    
+    
+    
+    <category term="Mod" scheme="https://blogxd.blog/categories/Mod/"/>
+    
+    
+    <category term="Translate" scheme="https://blogxd.blog/tags/Translate/"/>
+    
+    <category term="Mod" scheme="https://blogxd.blog/tags/Mod/"/>
+    
+    <category term="Fallout" scheme="https://blogxd.blog/tags/Fallout/"/>
+    
+  </entry>
+  
+  <entry>
     <title>XStudio好玩</title>
     <link href="https://blogxd.blog/2024/01/24/NiceXStudio/"/>
     <id>https://blogxd.blog/2024/01/24/NiceXStudio/</id>
@@ -576,31 +607,6 @@ skip_render处&lt;br&gt;
     <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
     
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试-Html页面渲染</title>
-    <link href="https://blogxd.blog/1970/01/03/TestHtml/"/>
-    <id>https://blogxd.blog/1970/01/03/TestHtml/</id>
-    <published>1970-01-03T14:22:22.000Z</published>
-    <updated>2023-12-08T12:58:47.683Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="/html/TestHtml">引用html页面</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;/html/TestHtml&quot;&gt;引用html页面&lt;/a&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="Test" scheme="https://blogxd.blog/categories/Test/"/>
-    
-    
-    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   
