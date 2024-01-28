@@ -99,38 +99,6 @@
   </entry>
   
   <entry>
-    <title>显示StillAlive的程序</title>
-    <link href="https://blogxd.blog/2024/01/24/StillAlive/"/>
-    <id>https://blogxd.blog/2024/01/24/StillAlive/</id>
-    <published>2024-01-24T10:30:19.000Z</published>
-    <updated>2024-01-24T11:41:33.732Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="界面大概想长这样">界面大概想长这样<a class="header-anchor" href="#界面大概想长这样">#</a></h2><pre><code>------------------------------------------------|                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              |------------------------------------------------</code></pre><p>markdown写不下，等会写个程序了</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;界面大概想长这样&quot;&gt;界面大概想长这样&lt;a class=&quot;header-anchor&quot; href=&quot;#界面大概想长这样&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;------------------------------------------------
-|</summary>
-      
-    
-    
-    
-    <category term="Program" scheme="https://blogxd.blog/categories/Program/"/>
-    
-    
-    <category term="Python" scheme="https://blogxd.blog/tags/Python/"/>
-    
-    <category term="Cpp" scheme="https://blogxd.blog/tags/Cpp/"/>
-    
-    <category term="Code" scheme="https://blogxd.blog/tags/Code/"/>
-    
-    <category term="Program" scheme="https://blogxd.blog/tags/Program/"/>
-    
-  </entry>
-  
-  <entry>
     <title>继续摆烂</title>
     <link href="https://blogxd.blog/2024/01/22/CantCantDelayLOL/"/>
     <id>https://blogxd.blog/2024/01/22/CantCantDelayLOL/</id>
@@ -321,9 +289,9 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
     <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
   </entry>
   
@@ -353,9 +321,9 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
     <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
     
@@ -609,6 +577,31 @@ skip_render处&lt;br&gt;
     <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
     
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试-Html页面渲染</title>
+    <link href="https://blogxd.blog/1970/01/03/TestHtml/"/>
+    <id>https://blogxd.blog/1970/01/03/TestHtml/</id>
+    <published>1970-01-03T14:22:22.000Z</published>
+    <updated>2023-12-08T12:58:47.683Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/html/TestHtml">引用html页面</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;/html/TestHtml&quot;&gt;引用html页面&lt;/a&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Test" scheme="https://blogxd.blog/categories/Test/"/>
+    
+    
+    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   

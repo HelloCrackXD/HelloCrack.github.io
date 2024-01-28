@@ -71,37 +71,6 @@
     
     
     <entry>
-      <title>显示StillAlive的程序</title>
-      <link href="/2024/01/24/StillAlive/"/>
-      <url>/2024/01/24/StillAlive/</url>
-      
-        <content type="html"><![CDATA[<h2 id="界面大概想长这样">界面大概想长这样<a class="header-anchor" href="#界面大概想长这样">#</a></h2><pre><code>------------------------------------------------|                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              ||                                              |------------------------------------------------</code></pre><p>markdown写不下，等会写个程序了</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Program </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Python </tag>
-            
-            <tag> Cpp </tag>
-            
-            <tag> Code </tag>
-            
-            <tag> Program </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>继续摆烂</title>
       <link href="/2024/01/22/CantCantDelayLOL/"/>
       <url>/2024/01/22/CantCantDelayLOL/</url>
@@ -274,9 +243,9 @@
       
         <tags>
             
-            <tag> Hexo </tag>
-            
             <tag> Develop </tag>
+            
+            <tag> Hexo </tag>
             
         </tags>
       
@@ -301,9 +270,9 @@
       
         <tags>
             
-            <tag> Hexo </tag>
-            
             <tag> Develop </tag>
+            
+            <tag> Hexo </tag>
             
             <tag> Note </tag>
             
