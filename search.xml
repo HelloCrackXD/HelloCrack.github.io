@@ -270,11 +270,11 @@
       
         <tags>
             
+            <tag> Note </tag>
+            
             <tag> Develop </tag>
             
             <tag> Hexo </tag>
-            
-            <tag> Note </tag>
             
         </tags>
       
@@ -324,9 +324,9 @@
       
         <tags>
             
-            <tag> Blog </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Blog </tag>
             
             <tag> Deploy </tag>
             
