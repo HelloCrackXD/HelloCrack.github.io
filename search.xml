@@ -415,9 +415,9 @@
             
             <tag> Generate </tag>
             
-            <tag> Bug </tag>
-            
             <tag> Server </tag>
+            
+            <tag> Bug </tag>
             
             <tag> Error </tag>
             
@@ -508,9 +508,9 @@
             
             <tag> Generate </tag>
             
-            <tag> Server </tag>
-            
             <tag> Deploy </tag>
+            
+            <tag> Server </tag>
             
         </tags>
       
