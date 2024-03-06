@@ -409,15 +409,15 @@
       
         <tags>
             
-            <tag> Problem </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Problem </tag>
             
             <tag> Generate </tag>
             
-            <tag> Server </tag>
-            
             <tag> Bug </tag>
+            
+            <tag> Server </tag>
             
             <tag> Error </tag>
             
@@ -475,9 +475,9 @@
       
         <tags>
             
-            <tag> Problem </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Problem </tag>
             
             <tag> Error </tag>
             
@@ -508,9 +508,9 @@
             
             <tag> Generate </tag>
             
-            <tag> Deploy </tag>
-            
             <tag> Server </tag>
+            
+            <tag> Deploy </tag>
             
         </tags>
       
