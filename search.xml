@@ -17,6 +17,33 @@
     
     
     <entry>
+      <title>日记-新硬盘装好了</title>
+      <link href="/2024/03/10/NewSSDDown/"/>
+      <url>/2024/03/10/NewSSDDown/</url>
+      
+        <content type="html"><![CDATA[<p>文章前顺带一提这是新日记栏目的第一篇文章（</p><h1>新买了块硬盘准备搞个移动硬盘，记录下自己的若只安装过程</h1><p>本来是欣喜的装好在了硬盘盒里，并且欣喜地打开电脑插进去准备初始化，结果提示不行<br><div class="img-item" data-src="UnDef.png" data-sub-html=".caption"><img src="UnDef.png" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div><br><div class="img-item" data-src="WrongFunc.png" data-sub-html=".caption"><img src="WrongFunc.png" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div><br>提示函数不正确<br>反复尝试是不是没插紧，多次尝试无果，之后觉得是不是windows自带磁盘管理器不行，发现换了别的一样没法初始化，甚至直接找不到硬盘<br>刚买的新硬盘应该不会是硬盘的问题，我倒是因为看百度导致的确实想过是不是没去除静电啥的原因，但那就得再买新的，不太能接受，算是最后手段<br>于是开始排查会不会是硬盘盒问题，毕竟能显示有硬盘插入，没法初始化时显示的是函数错误，可能是硬盘盒驱动之类的程序错误，于是去了产品官网<br>仔仔细细翻了一遍后没找到驱动，但找到了安装教程，看了一遍发现了原因<br><div class="img-item" data-src="blurDetailPicture.png" data-sub-html=".caption"><img src="blurDetailPicture.png" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div><br>这里没插进去而已。<br>呃呃<br><div class="img-item" data-src="True.png" data-sub-html=".caption"><img src="True.png" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div><br>这样就正常了<br><div class="img-item" data-src="byd.png" data-sub-html=".caption"><img src="byd.png" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div><br>最后也是能用了</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Diary </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Diary </tag>
+            
+            <tag> SSD </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>翻译辐射四模组</title>
       <link href="/2024/01/27/TranslateFoEsp/"/>
       <url>/2024/01/27/TranslateFoEsp/</url>
@@ -243,9 +270,9 @@
       
         <tags>
             
-            <tag> Hexo </tag>
-            
             <tag> Develop </tag>
+            
+            <tag> Hexo </tag>
             
         </tags>
       
@@ -270,9 +297,9 @@
       
         <tags>
             
-            <tag> Hexo </tag>
-            
             <tag> Develop </tag>
+            
+            <tag> Hexo </tag>
             
             <tag> Note </tag>
             
@@ -409,8 +436,6 @@
       
         <tags>
             
-            <tag> Problem </tag>
-            
             <tag> Hexo </tag>
             
             <tag> Generate </tag>
@@ -420,6 +445,8 @@
             <tag> Server </tag>
             
             <tag> Error </tag>
+            
+            <tag> Problem </tag>
             
         </tags>
       
@@ -446,11 +473,11 @@
       
         <tags>
             
-            <tag> AI </tag>
-            
             <tag> Problem </tag>
             
             <tag> Python </tag>
+            
+            <tag> AI </tag>
             
         </tags>
       
@@ -475,11 +502,11 @@
       
         <tags>
             
-            <tag> Problem </tag>
-            
             <tag> Hexo </tag>
             
             <tag> Error </tag>
+            
+            <tag> Problem </tag>
             
         </tags>
       

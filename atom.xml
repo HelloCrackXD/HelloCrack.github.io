@@ -41,6 +41,35 @@
   </entry>
   
   <entry>
+    <title>日记-新硬盘装好了</title>
+    <link href="https://blogxd.blog/2024/03/10/NewSSDDown/"/>
+    <id>https://blogxd.blog/2024/03/10/NewSSDDown/</id>
+    <published>2024-03-10T14:42:57.000Z</published>
+    <updated>2024-03-10T14:54:50.361Z</updated>
+    
+    <content type="html"><![CDATA[<p>文章前顺带一提这是新日记栏目的第一篇文章（</p><h1>新买了块硬盘准备搞个移动硬盘，记录下自己的若只安装过程</h1><p>本来是欣喜的装好在了硬盘盒里，并且欣喜地打开电脑插进去准备初始化，结果提示不行<br><div class="img-item" data-src="UnDef.png" data-sub-html=".caption"><img src="UnDef.png" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div><br><div class="img-item" data-src="WrongFunc.png" data-sub-html=".caption"><img src="WrongFunc.png" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div><br>提示函数不正确<br>反复尝试是不是没插紧，多次尝试无果，之后觉得是不是windows自带磁盘管理器不行，发现换了别的一样没法初始化，甚至直接找不到硬盘<br>刚买的新硬盘应该不会是硬盘的问题，我倒是因为看百度导致的确实想过是不是没去除静电啥的原因，但那就得再买新的，不太能接受，算是最后手段<br>于是开始排查会不会是硬盘盒问题，毕竟能显示有硬盘插入，没法初始化时显示的是函数错误，可能是硬盘盒驱动之类的程序错误，于是去了产品官网<br>仔仔细细翻了一遍后没找到驱动，但找到了安装教程，看了一遍发现了原因<br><div class="img-item" data-src="blurDetailPicture.png" data-sub-html=".caption"><img src="blurDetailPicture.png" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div><br>这里没插进去而已。<br>呃呃<br><div class="img-item" data-src="True.png" data-sub-html=".caption"><img src="True.png" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div><br>这样就正常了<br><div class="img-item" data-src="byd.png" data-sub-html=".caption"><img src="byd.png" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div><br>最后也是能用了</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;文章前顺带一提这是新日记栏目的第一篇文章（&lt;/p&gt;
+&lt;h1&gt;新买了块硬盘准备搞个移动硬盘，记录下自己的若只安装过程&lt;/h1&gt;
+&lt;p&gt;本来是欣喜的装好在了硬盘盒里，并且欣喜地打开电脑插进去准备初始化，结果提示不行&lt;br&gt;
+&lt;div class=&quot;img-item&quot; data-</summary>
+      
+    
+    
+    
+    <category term="Diary" scheme="https://blogxd.blog/categories/Diary/"/>
+    
+    
+    <category term="Diary" scheme="https://blogxd.blog/tags/Diary/"/>
+    
+    <category term="SSD" scheme="https://blogxd.blog/tags/SSD/"/>
+    
+  </entry>
+  
+  <entry>
     <title>翻译辐射四模组</title>
     <link href="https://blogxd.blog/2024/01/27/TranslateFoEsp/"/>
     <id>https://blogxd.blog/2024/01/27/TranslateFoEsp/</id>
@@ -289,9 +318,9 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
     <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
   </entry>
   
@@ -321,9 +350,9 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
     <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
     
@@ -472,8 +501,6 @@ skip_render处&lt;br&gt;
     <category term="Bug" scheme="https://blogxd.blog/categories/Bug/"/>
     
     
-    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Generate" scheme="https://blogxd.blog/tags/Generate/"/>
@@ -483,6 +510,8 @@ skip_render处&lt;br&gt;
     <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
     
     <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
+    
+    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
     
   </entry>
   
@@ -511,11 +540,11 @@ skip_render处&lt;br&gt;
     <category term="Python" scheme="https://blogxd.blog/categories/AI/Python/"/>
     
     
-    <category term="AI" scheme="https://blogxd.blog/tags/AI/"/>
-    
     <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
     
     <category term="Python" scheme="https://blogxd.blog/tags/Python/"/>
+    
+    <category term="AI" scheme="https://blogxd.blog/tags/AI/"/>
     
   </entry>
   
@@ -540,11 +569,11 @@ skip_render处&lt;br&gt;
     <category term="Problem" scheme="https://blogxd.blog/categories/Problem/"/>
     
     
-    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
+    
+    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
     
   </entry>
   
@@ -577,29 +606,6 @@ skip_render处&lt;br&gt;
     <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
     
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>制作Skb抽象小视频计划</title>
-    <link href="https://blogxd.blog/2000/02/02/MakeVideoWithSkb/"/>
-    <id>https://blogxd.blog/2000/02/02/MakeVideoWithSkb/</id>
-    <published>2000-02-02T13:38:02.000Z</published>
-    <updated>2024-02-02T13:40:40.478Z</updated>
-    
-    <content type="html"><![CDATA[<p>顺带一提以后这种清单时间统一设置为2000年了<br>1 老戏骨macro被抓迅速反应（bgm：Doopravdy (remixKasandra)）<br>剩下的晚上睡觉再想</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;顺带一提以后这种清单时间统一设置为2000年了&lt;br&gt;
-1 老戏骨macro被抓迅速反应（bgm：Doopravdy (remixKasandra)）&lt;br&gt;
-剩下的晚上睡觉再想&lt;/p&gt;
-</summary>
-      
-    
-    
-    
     
   </entry>
   
