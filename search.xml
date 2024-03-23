@@ -17,6 +17,33 @@
     
     
     <entry>
+      <title>制作私人邮箱</title>
+      <link href="/2024/03/23/NewEmail/"/>
+      <url>/2024/03/23/NewEmail/</url>
+      
+        <content type="html"><![CDATA[<p>起因是研学报告要发给老师<br><div class="img-item" data-src="Atsuko.png" data-sub-html=".caption"><img src="Atsuko.png" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div><br>我的邮箱长这样<br>当然是改个名就能解决的问题，但这令我想起了最开始建这个博客时的想法，就是造一整套让我自己觉得比较geek的东西，比如这个博客，私有云盘，自用邮箱<br>博客已经搞好了，就是这个<br>私有云盘没想好要怎么搞，这个日后单开一个文章讲<br>这里就是自用邮箱</p><p>我觉得别人发邮件名字都是xxx@outlook.com/qq.com之类的时候有个独特的邮箱名挺好的，就选了一脉相承的mailxd域名<br><div class="img-item" data-src="mailxd122.png" data-sub-html=".caption"><img src="mailxd122.png" alt=""><div class="img-caption d-block text-center"><span class="center-caption text-muted border-bottom"></span></div></div></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Email </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Server </tag>
+            
+            <tag> Email </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>日记-新硬盘装好了</title>
       <link href="/2024/03/10/NewSSDDown/"/>
       <url>/2024/03/10/NewSSDDown/</url>
