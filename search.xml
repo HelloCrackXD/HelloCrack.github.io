@@ -181,7 +181,7 @@
       <link href="/2024/01/19/NewPyProgram/"/>
       <url>/2024/01/19/NewPyProgram/</url>
       
-        <content type="html"><![CDATA[<h1>等我重学python就回来写</h1>]]></content>
+        <content type="html"><![CDATA[<h1>等我重学python就回来写</h1><p>好了，现在该开始学画字符画了<br>md不会</p>]]></content>
       
       
       <categories>
@@ -463,15 +463,15 @@
       
         <tags>
             
-            <tag> Hexo </tag>
-            
             <tag> Problem </tag>
+            
+            <tag> Hexo </tag>
             
             <tag> Generate </tag>
             
-            <tag> Server </tag>
-            
             <tag> Bug </tag>
+            
+            <tag> Server </tag>
             
             <tag> Error </tag>
             
@@ -500,11 +500,11 @@
       
         <tags>
             
-            <tag> Python </tag>
-            
             <tag> AI </tag>
             
             <tag> Problem </tag>
+            
+            <tag> Python </tag>
             
         </tags>
       
@@ -529,9 +529,9 @@
       
         <tags>
             
-            <tag> Hexo </tag>
-            
             <tag> Problem </tag>
+            
+            <tag> Hexo </tag>
             
             <tag> Error </tag>
             
@@ -562,9 +562,9 @@
             
             <tag> Generate </tag>
             
-            <tag> Deploy </tag>
-            
             <tag> Server </tag>
+            
+            <tag> Deploy </tag>
             
         </tags>
       
