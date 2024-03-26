@@ -6,7 +6,7 @@
   <link href="https://blogxd.blog/atom.xml" rel="self"/>
   
   <link href="https://blogxd.blog/"/>
-  <updated>2023-12-10T13:21:15.755Z</updated>
+  <updated>2024-03-26T13:20:22.789Z</updated>
   <id>https://blogxd.blog/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://blogxd.blog/9999/12/30/UP-NotOnlyABlog/"/>
     <id>https://blogxd.blog/9999/12/30/UP-NotOnlyABlog/</id>
     <published>9999-12-30T14:22:22.000Z</published>
-    <updated>2023-12-10T13:21:15.755Z</updated>
+    <updated>2024-03-26T13:20:22.789Z</updated>
     
-    <content type="html"><![CDATA[<p>时间直接设成9999-12-30实现手动置顶(</p><h1>进入正题</h1><p>这个<a href="/">网站</a>用于记录作者的平时的想法<br>注册blogxd的域名其实本来是想写点博客，比如写写数据结构，算法啥的。<br>毕竟是打信竞的，但太摆烂自己也没脸写一堆，网站也跟着不务正业了起来(<br>所以这个网站目前是写各种东西，可能有广义点的日记，写的小项目（目前还没有）<br>啥的<br>感觉还有点想写的，但目前先摆烂着，等会再装修</p><h2 id="页面">页面<a class="header-anchor" href="#页面">#</a></h2><p>测试页面全在最下面，均为1970<br>置顶目前是这条，时间9999，以后大概也是，不过会更新的<br>还有 备注- 页面，跟正常页面放一起了，以后可能会考虑不显示（？）</p>]]></content>
+    <content type="html"><![CDATA[<p>时间直接设成9999-12-30实现手动置顶(</p><h1>进入正题</h1><p>这个<a href="/">网站</a>用于记录作者的平时的想法<br>注册blogxd的域名其实本来是想写点博客，比如写写数据结构，算法啥的。<br>毕竟是打信竞的，但太摆烂自己也没脸写一堆，网站也跟着不务正业了起来(<br>所以这个网站目前是写各种东西，可能有广义点的日记，写的小项目（目前还没有）<br>啥的<br>当然leetcode/luogu的解题也想发上来，但做的题目前还并不多<br>感觉还有点想写的，但目前先摆烂着，等会再装修<br>个人在网上写字相对不够书面，比较想到哪写到哪，所以行文风格很随意，可能中途写着写着冒出来一句吐槽或补充啥的，会比较混乱，好听点可以说是对电波，不过事实上就是很混乱。</p><h2 id="页面">页面<a class="header-anchor" href="#页面">#</a></h2><p>测试页面全在最下面，均为1970<br>置顶目前是这条，时间9999，以后大概也是，不过会更新的<br>还有 备注- 页面，跟正常页面放一起了，以后可能会考虑不显示（？）<br>很多内容上和日记或日常感悟需要区分的页面前面都会加上一个词形容，并且用-分隔开，比如上面的测试-这种</p><h2 id="关于这个网站的故事">关于这个网站的故事<a class="header-anchor" href="#关于这个网站的故事">#</a></h2><p>就当是心路历程写的，本来觉得记录自己从23年对网站感兴趣到搞出这个小破站的故事值得单开一页，但目前写的量还不够多，等够多了再单开一页<br>而且也挺想把这个网站的心路历程置顶的，总之日后再说，现在先写写故事吧</p><p>我对计算机技术一直挺感兴趣的，小时候就报scratch班，然后学c++，开始折腾竞赛，属于是踏上了不归路<br>（以及我scratch现在还没写完当时想要的项目，就是一塔防游戏，但还是没搞明白刷怪机制，唉）<br>c<ins>我初中一直在学，啥成绩也没有。学校里每年有科技节，可以提交一些有意思的作品，我就拿一c</ins>能做啥啊，贪吃蛇我都写不了，甚至唯一一次搞出来东西的还是因为用visual studio编译的debug版程序在学校电脑上运行不了<br>那个节颁奖的时候会有直播，同学们都在看，我就很想也有一个项目能放上去，scratch也好，但最终还是没有，我也还是一直折腾其实自己也搞不明白的c<ins>程序<br>初中对计算机就很执迷，但水平烂，到了高中报了信竞，到机房学c</ins>结果其实没啥能学的，每次听课就想睡觉，我可能确实不太适合竞赛，毕竟我就是一写点程序娱乐下的<br>虽然竞赛不适合但我还是相信我在编程上的兴趣的，不然我也不会继续研究相关的东西了，比如这个网站<br>初中时候每次回家我都喜欢看看计算机技术的文章，我也非常渴望哪天自己能搞出来自己的操作系统，编译器，数据库，程序员三大梦想嘛<br>显然这是不现实的，但搞点力所能及的我还挺希望的，于是对自建博客开始感兴趣了，准确讲不是自建博客而且自建网站，但我css和js都不行，就只能拿hexo的框架凑合，就是这个博客了<br>去年3月不到我整了一晚上的电脑，查阅文章，通过github page自己做了个不要钱的博客页面，成就感非常强。之后自己买了域名，有了更好记的网站也就是这个blogxd，相当开心<br>三大梦想嘛，那三个我做不到，但我有三个小的梦想，自建博客，自建网盘，自建邮箱<br>自建邮箱就不能用免费的了，因为要长时间在线的服务器，目前也就是搞个域名先占着，日后有钱搓服务器了再谈<br>自建网盘对我来讲也挺难的，最开始的目标是一个能给别人也下载的网盘，这样可以放自己做的文件，比如mod翻译<br>之后降级成了做家用nas，不会，于是再降级成了现在的几块硬盘<br>结果就算是几块硬盘都给我出事，自己也是第一次装，还行吧至少现在自造移动硬盘能用了，也算是心满意足</p>]]></content>
     
     
       
@@ -347,9 +347,9 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
     
   </entry>
   
@@ -379,11 +379,11 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
+    
+    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
     
   </entry>
   
@@ -438,9 +438,9 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+    <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
     
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
     
@@ -501,9 +501,9 @@ skip_render处&lt;br&gt;
     <category term="Note" scheme="https://blogxd.blog/categories/Note/"/>
     
     
-    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
-    
     <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
+    
+    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   
@@ -530,9 +530,9 @@ skip_render处&lt;br&gt;
     <category term="Bug" scheme="https://blogxd.blog/categories/Bug/"/>
     
     
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
     <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Generate" scheme="https://blogxd.blog/tags/Generate/"/>
     
@@ -598,9 +598,9 @@ skip_render处&lt;br&gt;
     <category term="Problem" scheme="https://blogxd.blog/categories/Problem/"/>
     
     
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
     <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
     
