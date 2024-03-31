@@ -465,8 +465,6 @@
             
             <tag> Hexo </tag>
             
-            <tag> Problem </tag>
-            
             <tag> Generate </tag>
             
             <tag> Bug </tag>
@@ -474,6 +472,8 @@
             <tag> Server </tag>
             
             <tag> Error </tag>
+            
+            <tag> Problem </tag>
             
         </tags>
       
@@ -500,9 +500,9 @@
       
         <tags>
             
-            <tag> AI </tag>
-            
             <tag> Problem </tag>
+            
+            <tag> AI </tag>
             
             <tag> Python </tag>
             
@@ -531,9 +531,9 @@
             
             <tag> Hexo </tag>
             
-            <tag> Problem </tag>
-            
             <tag> Error </tag>
+            
+            <tag> Problem </tag>
             
         </tags>
       
