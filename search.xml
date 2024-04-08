@@ -17,6 +17,31 @@
     
     
     <entry>
+      <title>算法题</title>
+      <link href="/2024/04/08/oiProblem/"/>
+      <url>/2024/04/08/oiProblem/</url>
+      
+        <content type="html"><![CDATA[<p>回归正业写点oi题，就写思路吧因为目前cpp已经忘光了，而且我不太喜欢继续搞cpp，准备研究下c#的带ui的程序</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Algorithm </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Algorithm </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>制作私人邮箱</title>
       <link href="/2024/03/23/NewEmail/"/>
       <url>/2024/03/23/NewEmail/</url>
@@ -297,9 +322,9 @@
       
         <tags>
             
-            <tag> Develop </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Develop </tag>
             
         </tags>
       
@@ -324,9 +349,9 @@
       
         <tags>
             
-            <tag> Develop </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Develop </tag>
             
             <tag> Note </tag>
             
@@ -378,9 +403,9 @@
       
         <tags>
             
-            <tag> Blog </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Blog </tag>
             
             <tag> Deploy </tag>
             
