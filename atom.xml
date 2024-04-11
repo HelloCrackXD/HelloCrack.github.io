@@ -372,9 +372,9 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
     <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
   </entry>
   
@@ -404,11 +404,11 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
+    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
+    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
-    
-    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
     
   </entry>
   
@@ -526,9 +526,9 @@ skip_render处&lt;br&gt;
     <category term="Note" scheme="https://blogxd.blog/categories/Note/"/>
     
     
-    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
-    
     <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
+    
+    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   
@@ -555,6 +555,8 @@ skip_render处&lt;br&gt;
     <category term="Bug" scheme="https://blogxd.blog/categories/Bug/"/>
     
     
+    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
+    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Generate" scheme="https://blogxd.blog/tags/Generate/"/>
@@ -564,8 +566,6 @@ skip_render处&lt;br&gt;
     <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
     
     <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
-    
-    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
     
   </entry>
   
@@ -594,9 +594,9 @@ skip_render处&lt;br&gt;
     <category term="Python" scheme="https://blogxd.blog/categories/AI/Python/"/>
     
     
-    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
-    
     <category term="AI" scheme="https://blogxd.blog/tags/AI/"/>
+    
+    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
     
     <category term="Python" scheme="https://blogxd.blog/tags/Python/"/>
     
