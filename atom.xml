@@ -555,8 +555,6 @@ skip_render处&lt;br&gt;
     <category term="Bug" scheme="https://blogxd.blog/categories/Bug/"/>
     
     
-    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Generate" scheme="https://blogxd.blog/tags/Generate/"/>
@@ -566,6 +564,8 @@ skip_render处&lt;br&gt;
     <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
     
     <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
+    
+    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
     
   </entry>
   
@@ -594,11 +594,11 @@ skip_render处&lt;br&gt;
     <category term="Python" scheme="https://blogxd.blog/categories/AI/Python/"/>
     
     
-    <category term="AI" scheme="https://blogxd.blog/tags/AI/"/>
-    
     <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
     
     <category term="Python" scheme="https://blogxd.blog/tags/Python/"/>
+    
+    <category term="AI" scheme="https://blogxd.blog/tags/AI/"/>
     
   </entry>
   
