@@ -17,6 +17,19 @@
     
     
     <entry>
+      <title>(X^X)&#39;</title>
+      <link href="/2024/04/22/X-X/"/>
+      <url>/2024/04/22/X-X/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>算法题</title>
       <link href="/2024/04/08/oiProblem/"/>
       <url>/2024/04/08/oiProblem/</url>
@@ -403,9 +416,9 @@
       
         <tags>
             
-            <tag> Blog </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Blog </tag>
             
             <tag> Deploy </tag>
             

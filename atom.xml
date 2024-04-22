@@ -41,6 +41,19 @@
   </entry>
   
   <entry>
+    <title>(X^X)&#39;</title>
+    <link href="https://blogxd.blog/2024/04/22/X-X/"/>
+    <id>https://blogxd.blog/2024/04/22/X-X/</id>
+    <published>2024-04-22T12:03:21.000Z</published>
+    <updated>2024-04-22T12:03:21.939Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>算法题</title>
     <link href="https://blogxd.blog/2024/04/08/oiProblem/"/>
     <id>https://blogxd.blog/2024/04/08/oiProblem/</id>
@@ -463,9 +476,9 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
-    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+    <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
     
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
     
@@ -566,39 +579,6 @@ skip_render处&lt;br&gt;
     <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
     
     <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>so-vits-svc使用时遇到的问题</title>
-    <link href="https://blogxd.blog/2023/03/03/AISound/"/>
-    <id>https://blogxd.blog/2023/03/03/AISound/</id>
-    <published>2023-03-03T12:55:08.000Z</published>
-    <updated>2023-11-19T02:12:52.067Z</updated>
-    
-    <content type="html"><![CDATA[<h1>so-vits-svc使用时遇到的问题</h1><h2 id="CUDA">CUDA<a class="header-anchor" href="#CUDA">#</a></h2><p>安装cuda过程中一切顺利，安装完后检查是否安装成功</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">nvcc -v</span><br></pre></td></tr></table></figure><p>显示</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">nvcc : 无法将“nvcc”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。</span><br></pre></td></tr></table></figure><p>看了眼path发现没问题，那么问题是什么呢</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">C:\Users\Zou&gt;nvcc -v</span><br><span class="line">nvcc fatal   : No input files specified; use option --<span class="built_in">help</span> <span class="keyword">for</span> more information</span><br></pre></td></tr></table></figure><p>这是第一次尝试时的输出</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">C:\Users\Zou&gt;nvcc -V</span><br><span class="line">nvcc: NVIDIA (R) Cuda compiler driver</span><br><span class="line">Copyright (c) 2005-2022 NVIDIA Corporation</span><br><span class="line">Built on Tue_May__3_19:00:59_Pacific_Daylight_Time_2022</span><br><span class="line">Cuda compilation tools, release 11.7, V11.7.64</span><br><span class="line">Build cuda_11.7.r11.7/compiler.31294372_0</span><br></pre></td></tr></table></figure><p>第二次尝试时成功了<br>两次的区别在于<code>nvcc</code>后的<code>-v</code>和<code>-V</code><br><code>-V</code>需要大写<br><strong>666666666</strong></p><p>后来就没搞所以断了<br>等我再研究研究回来补<br>未完待续</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1&gt;so-vits-svc使用时遇到的问题&lt;/h1&gt;
-&lt;h2 id=&quot;CUDA&quot;&gt;CUDA&lt;a class=&quot;header-anchor&quot; href=&quot;#CUDA&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;安装cuda过程中一切顺利，安装完后检查是否安装成功&lt;/p&gt;
-&lt;figure cl</summary>
-      
-    
-    
-    
-    <category term="AI" scheme="https://blogxd.blog/categories/AI/"/>
-    
-    <category term="Python" scheme="https://blogxd.blog/categories/AI/Python/"/>
-    
-    
-    <category term="AI" scheme="https://blogxd.blog/tags/AI/"/>
-    
-    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
-    
-    <category term="Python" scheme="https://blogxd.blog/tags/Python/"/>
     
   </entry>
   
