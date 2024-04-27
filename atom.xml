@@ -41,6 +41,19 @@
   </entry>
   
   <entry>
+    <title>PixelArt</title>
+    <link href="https://blogxd.blog/2024/04/27/PixelArt/"/>
+    <id>https://blogxd.blog/2024/04/27/PixelArt/</id>
+    <published>2024-04-27T14:01:32.000Z</published>
+    <updated>2024-04-27T14:01:32.732Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>(X^X)&#39;</title>
     <link href="https://blogxd.blog/2024/04/22/X-X/"/>
     <id>https://blogxd.blog/2024/04/22/X-X/</id>
@@ -417,11 +430,11 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
-    
     <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
     
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
+    
+    <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
     
   </entry>
   
@@ -542,43 +555,6 @@ skip_render处&lt;br&gt;
     <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
     
     <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>备注-网页的Bug</title>
-    <link href="https://blogxd.blog/2023/11/19/Bug/"/>
-    <id>https://blogxd.blog/2023/11/19/Bug/</id>
-    <published>2023-11-19T02:14:21.000Z</published>
-    <updated>2023-12-10T13:28:55.997Z</updated>
-    
-    <content type="html"><![CDATA[<h1>网站的Bug统计</h1><h2 id="未解决：">未解决：<a class="header-anchor" href="#未解决：">#</a></h2><p>字体有问题，猜测在theme\clean\layout里<br>置顶效果有问题，准备找个插件试试(一定程度上解决)<br>文章放不了图片，等我搞个图床<br>存档界面会显示好几个Hexo之类的<br>标签界面分不开，只有2023和ALL两个选项</p><h2 id="已解决：">已解决：<a class="header-anchor" href="#已解决：">#</a></h2><p>搜索有问题<br>–搜索结果很混乱，但总之能用了，可能可以优化(?)<br>通过更改文章时间实现置顶</p><h2 id="作者不更新的Bug是解决不了的">作者不更新的Bug是解决不了的<a class="header-anchor" href="#作者不更新的Bug是解决不了的">#</a></h2>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1&gt;网站的Bug统计&lt;/h1&gt;
-&lt;h2 id=&quot;未解决：&quot;&gt;未解决：&lt;a class=&quot;header-anchor&quot; href=&quot;#未解决：&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;字体有问题，猜测在theme\clean\layout里&lt;br&gt;
-置顶效果有问题，准备找个插件试试(一定</summary>
-      
-    
-    
-    
-    <category term="Bug" scheme="https://blogxd.blog/categories/Bug/"/>
-    
-    
-    <category term="Problem" scheme="https://blogxd.blog/tags/Problem/"/>
-    
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
-    <category term="Generate" scheme="https://blogxd.blog/tags/Generate/"/>
-    
-    <category term="Bug" scheme="https://blogxd.blog/tags/Bug/"/>
-    
-    <category term="Server" scheme="https://blogxd.blog/tags/Server/"/>
-    
-    <category term="Error" scheme="https://blogxd.blog/tags/Error/"/>
     
   </entry>
   
