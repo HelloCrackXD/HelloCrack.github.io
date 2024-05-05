@@ -41,6 +41,19 @@
   </entry>
   
   <entry>
+    <title>LearnUnity</title>
+    <link href="https://blogxd.blog/2024/05/05/LearnUnity/"/>
+    <id>https://blogxd.blog/2024/05/05/LearnUnity/</id>
+    <published>2024-05-05T14:19:53.000Z</published>
+    <updated>2024-05-05T14:19:53.549Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>PixelArt</title>
     <link href="https://blogxd.blog/2024/04/27/PixelArt/"/>
     <id>https://blogxd.blog/2024/04/27/PixelArt/</id>
@@ -432,9 +445,9 @@ skip_render处&lt;br&gt;
     
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
-    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
-    
     <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
+    
+    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
     
   </entry>
   
@@ -525,36 +538,6 @@ skip_render处&lt;br&gt;
     <category term="Math" scheme="https://blogxd.blog/tags/Math/"/>
     
     <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>备注-更新计划</title>
-    <link href="https://blogxd.blog/2023/11/19/FutureUpdate/"/>
-    <id>https://blogxd.blog/2023/11/19/FutureUpdate/</id>
-    <published>2023-11-19T02:38:02.000Z</published>
-    <updated>2024-01-07T07:12:20.759Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="未完成">未完成<a class="header-anchor" href="#未完成">#</a></h2><p>修一下存档页面会有多个同一单词的问题<br>尝试修复字体问题<br>增加markdown的插入数学公式功能<br>给置顶制作个新标志/样式<br>应用新主题（正在进行）<br>写一个啥比的自动编写有机物名称的程序<br>重学python</p><h2 id="已完成">已完成<a class="header-anchor" href="#已完成">#</a></h2><p>加入置顶功能(解决了一部分)<br>添加markdown的图片插入功能<br>加入跳过渲染以实现原版html</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;未完成&quot;&gt;未完成&lt;a class=&quot;header-anchor&quot; href=&quot;#未完成&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;修一下存档页面会有多个同一单词的问题&lt;br&gt;
-尝试修复字体问题&lt;br&gt;
-增加markdown的插入数学公式功能&lt;br&gt;
-给置顶制作个新标志/样式&lt;</summary>
-      
-    
-    
-    
-    <category term="Note" scheme="https://blogxd.blog/categories/Note/"/>
-    
-    
-    <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
-    
-    <category term="Test" scheme="https://blogxd.blog/tags/Test/"/>
     
   </entry>
   
