@@ -41,6 +41,19 @@
   </entry>
   
   <entry>
+    <title>OneYear</title>
+    <link href="https://blogxd.blog/2024/05/06/OneYear/"/>
+    <id>https://blogxd.blog/2024/05/06/OneYear/</id>
+    <published>2024-05-06T14:02:19.000Z</published>
+    <updated>2024-05-06T14:02:19.634Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>LearnUnity</title>
     <link href="https://blogxd.blog/2024/05/05/LearnUnity/"/>
     <id>https://blogxd.blog/2024/05/05/LearnUnity/</id>
@@ -411,9 +424,9 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
     <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
   </entry>
   
@@ -443,11 +456,11 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
+    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
+    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
-    
-    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
     
   </entry>
   
@@ -507,37 +520,6 @@ skip_render处&lt;br&gt;
     <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
     
     <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>A=B游玩日记</title>
-    <link href="https://blogxd.blog/2023/11/26/AeqB/"/>
-    <id>https://blogxd.blog/2023/11/26/AeqB/</id>
-    <published>2023-11-26T11:56:05.000Z</published>
-    <updated>2023-12-10T13:27:56.557Z</updated>
-    
-    <content type="html"><![CDATA[<h1>写一下Steam上数学/编程类游戏日记</h1><p>占个位，明天再更<br>2/12/2023还没更（</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1&gt;写一下Steam上数学/编程类游戏日记&lt;/h1&gt;
-&lt;p&gt;占个位，明天再更&lt;br&gt;
-2/12/2023还没更（&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="Game" scheme="https://blogxd.blog/categories/Game/"/>
-    
-    
-    <category term="Game" scheme="https://blogxd.blog/tags/Game/"/>
-    
-    <category term="Math" scheme="https://blogxd.blog/tags/Math/"/>
-    
-    <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
     
   </entry>
   
