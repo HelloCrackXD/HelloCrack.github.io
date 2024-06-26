@@ -455,9 +455,9 @@
       
         <tags>
             
-            <tag> Blog </tag>
-            
             <tag> Hexo </tag>
+            
+            <tag> Blog </tag>
             
             <tag> Deploy </tag>
             
@@ -540,8 +540,6 @@
       
         <tags>
             
-            <tag> Problem </tag>
-            
             <tag> Hexo </tag>
             
             <tag> Generate </tag>
@@ -551,6 +549,8 @@
             <tag> Server </tag>
             
             <tag> Error </tag>
+            
+            <tag> Problem </tag>
             
         </tags>
       
@@ -577,9 +577,9 @@
       
         <tags>
             
-            <tag> AI </tag>
-            
             <tag> Problem </tag>
+            
+            <tag> AI </tag>
             
             <tag> Python </tag>
             
@@ -606,11 +606,11 @@
       
         <tags>
             
-            <tag> Problem </tag>
-            
             <tag> Hexo </tag>
             
             <tag> Error </tag>
+            
+            <tag> Problem </tag>
             
         </tags>
       
