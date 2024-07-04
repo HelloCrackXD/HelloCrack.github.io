@@ -41,6 +41,19 @@
   </entry>
   
   <entry>
+    <title>LogietchLua</title>
+    <link href="https://blogxd.blog/2024/07/04/LogietchLua/"/>
+    <id>https://blogxd.blog/2024/07/04/LogietchLua/</id>
+    <published>2024-07-04T14:07:30.000Z</published>
+    <updated>2024-07-04T14:07:30.857Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>OneYear</title>
     <link href="https://blogxd.blog/2024/05/06/OneYear/"/>
     <id>https://blogxd.blog/2024/05/06/OneYear/</id>
@@ -424,9 +437,9 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
     <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
+    
+    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
   </entry>
   
@@ -456,11 +469,11 @@ skip_render处&lt;br&gt;
     <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
     
     
+    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
+    
     <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
     
     <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
-    
-    <category term="Develop" scheme="https://blogxd.blog/tags/Develop/"/>
     
   </entry>
   
@@ -489,37 +502,6 @@ skip_render处&lt;br&gt;
     
     
     <category term="Note" scheme="https://blogxd.blog/tags/Note/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>新主题部署</title>
-    <link href="https://blogxd.blog/2023/12/02/NewThemeUseBlog/"/>
-    <id>https://blogxd.blog/2023/12/02/NewThemeUseBlog/</id>
-    <published>2023-12-02T11:39:48.000Z</published>
-    <updated>2023-12-12T12:42:38.922Z</updated>
-    
-    <content type="html"><![CDATA[<h1>先觉得用butterfly，剩下的以后再写</h1><p>已经配置好了</p><h2 id="部署进度">部署进度<a class="header-anchor" href="#部署进度">#</a></h2><p>目前只是能在config里切换，其他的什么都没做<br>下一步是更改网页的已有图片，以及尝试删除很多破坏观感的部分<br>比如tag栏，准备研究下给他删了<br>寄中寄</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1&gt;先觉得用butterfly，剩下的以后再写&lt;/h1&gt;
-&lt;p&gt;已经配置好了&lt;/p&gt;
-&lt;h2 id=&quot;部署进度&quot;&gt;部署进度&lt;a class=&quot;header-anchor&quot; href=&quot;#部署进度&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;目前只是能在config里切换，其他的什么都没做&lt;</summary>
-      
-    
-    
-    
-    <category term="Develop" scheme="https://blogxd.blog/categories/Develop/"/>
-    
-    
-    <category term="Hexo" scheme="https://blogxd.blog/tags/Hexo/"/>
-    
-    <category term="Blog" scheme="https://blogxd.blog/tags/Blog/"/>
-    
-    <category term="Deploy" scheme="https://blogxd.blog/tags/Deploy/"/>
     
   </entry>
   
